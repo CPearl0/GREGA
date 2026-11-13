@@ -1,0 +1,10 @@
+{
+  "version": 13,
+  "default_consume_items": false,
+  "default_quest_shape": "circle",
+  "default_autoclaim_rewards": "disabled",
+  "progression_mode": "flexible",
+  "fallback_locale": "en_us",
+  "icon": "grega_core:basic_electronic_component",
+  "detection_delay": 20
+}

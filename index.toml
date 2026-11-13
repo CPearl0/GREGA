@@ -153,12 +153,36 @@ file = "config/ftbquests-client.snbt"
 hash = "1032e8651b80ddc5ddc712a56ae0d5a3408e9c28d5dcac2578705cce9ea4bcd0"
 
 [[files]]
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "e9e0daacf0a4fe587c0231cea95dc56f1aae62c5e8b1d3371829360a50f1b332"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/early_progression.snbt"
+hash = "648668915b35e79ae8eb9e3740d0c21ff25018e9437013a1c30e4c14437ab105"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/gregtech_milestones.snbt"
+hash = "2654fe5ff9e0f647bf9bd1a615908177326dd6135a7dd1057c11618083b1c25d"
+
+[[files]]
+file = "config/ftbquests/quests/data.snbt"
+hash = "8c0b6b56bfc86ae88269aaac768df87ba7082abb8e5ae1241f2cebdb5f25b3bc"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us.snbt"
+hash = "36656776edf5b2bfc126299efa578492e3929d829564474487e65a32ddea5c49"
+
+[[files]]
+file = "config/ftbquests/quests/lang/zh_cn.snbt"
+hash = "8c7173a8f4b4ac96e68a07f38cec406c7d4d25bdd0f6e08c97da53e2cdf1ce29"
+
+[[files]]
 file = "config/ftbxmodcompat.snbt"
 hash = "9faaecd36d881715e8a89d2c4c092c78f9e24ae0b107531f182c19f5a00a70be"
 
 [[files]]
 file = "config/gtceu.yaml"
-hash = "f99dea0f11a918553d77420ff7628ee1992f3ec8cb179d91e4fd050c0365405a"
+hash = "7bef0df3b46161731fa8bcae486fd39388eac5530b316753a196d453ece553ad"
 
 [[files]]
 file = "config/guideme.toml"
@@ -385,5 +409,92 @@ file = "kubejs/config/common.json"
 hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
 
 [[files]]
+file = "kubejs/data/ae2/loot_table/blocks/mysterious_cube.json"
+hash = "bc8f3cd72e6b091ecaae73a7ef47c36c31e359fa7e5cde2b3f28f676eabe9f39"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_table/gameplay/piglin_bartering.json"
+hash = "3894c47f3a1a0d9d06c308898a545b51b3a85a4f2d8e5ea91529a47630b28315"
+
+[[files]]
+file = "kubejs/server_scripts/early_progression.js"
+hash = "83234c3878b7b21c86ad943be48483751ea61e05c627a4c10c80dd9d6b51d705"
+
+[[files]]
 file = "kubejs/startup_scripts/main.js"
 hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
+
+[[files]]
+file = "mods/ae2.pw.toml"
+hash = "2a46cd68d765cd40d560f9d5934c313cd394a317d6c68eee4476ab10b5a75851"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "195e22716d6181d55297bfe296716c68ad44cc2a4c09ef2eb6f68048ff00618f"
+metafile = true
+
+[[files]]
+file = "mods/configuration.pw.toml"
+hash = "1a3eaa6747c1467a235ee17c29c5e0b264ecb3ac1108d2f794d803b95be92660"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "df64ca595f6f0f79e3a4a844fd0a887b44f5e007f5deb9ac011b5cf67b3a2127"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "ce69874826195a0aed63a54128c8656b80e564cd32db59c1f9cfe3367150fd5e"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "d1665d3000a0857df2d4ea5d3b3a6c5e2b0a60b0c83f8c0f30f05b5305b1878f"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "35779b39ddc06059ec483b33de2ecfdc3adb95c0a49e69b6701fb0024827e2f5"
+metafile = true
+
+[[files]]
+file = "mods/gregtechceu-modern.pw.toml"
+hash = "fea1fd6e4874021dfdcc8168a638bcdfcda17ffdd03dc2dc852f8da2f47fe99f"
+metafile = true
+
+[[files]]
+file = "mods/guideme.pw.toml"
+hash = "afbf995d300c4337cc36704087731f5c9a3d7bc49f9110bcfe72b9c345f24bd7"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "afcfa24528ed611ad61c05bead31f109d023ce83801f5d08128217d8902f552d"
+metafile = true
+
+[[files]]
+file = "mods/ldlib.pw.toml"
+hash = "8a69e7494ed02e9aacad31734d6363f4dea03c47a81a3b1cfeb891f0c6a3676e"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "e80f0b9d01a0b8cf129d0b9f4b1ecebaf322b4eb9add8bcff048fdf61ad29018"
+metafile = true

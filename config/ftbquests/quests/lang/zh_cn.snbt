@@ -1,0 +1,375 @@
+{
+  "file.0000000000000001.title": "各类格雷科技 · GREGA",
+  "chapter.25569D0A4F2ACDAF.title": "初转齿轮，初成电路",
+  "quest.2374AD6C2B265EA7.title": "驱动机械压力机",
+  "quest.2374AD6C2B265EA7.quest_desc": [
+    "从安山合金、传动杆和水车开始。铁锭可拆成铁粒来制作安山合金；第一台机械压力机直接使用铁锭制作，再用它压出锻造锤所需的铁板材。"
+  ],
+  "quest.4057BD31B7AEEFA4.title": "先压板，再锻造",
+  "quest.4057BD31B7AEEFA4.quest_desc": [
+    "用机械压力机把铁锭压成铁板材。准备六张，为第一把 GT 锻造锤制作锤头。"
+  ],
+  "quest.4CCCA71DE7C1DF3B.title": "第一把锻造锤",
+  "quest.4CCCA71DE7C1DF3B.quest_desc": [
+    "将六张 Create 铁板材与木棒组合成铁锻造锤。随后按 GT 工具与板材路线制作青铜蒸汽机器，并保持排气口畅通。"
+  ],
+  "quest.6A989482F36FB02E.title": "青铜与蒸汽",
+  "quest.6A989482F36FB02E.quest_desc": [
+    "将铜粉和锡粉混合制成青铜，搭建小型锅炉和蒸汽机器。蒸汽合金炉可在电力之前供应红色合金。"
+  ],
+  "quest.19E0159F45B7AAEA.title": "以土石筑炉",
+  "quest.19E0159F45B7AAEA.quest_desc": [
+    "用土高炉砖搭建 GT 土高炉。以铁或锻铁配合煤、木炭炼出第一批钢，这一步不需要电路。"
+  ],
+  "quest.0AF73F7721E7F090.title": "钢的门槛",
+  "quest.0AF73F7721E7F090.quest_desc": [
+    "钢板用于装订第一本新生魔艺法术书。也要为 GT 工具和基础电子电路部件留出钢。"
+  ],
+  "quest.4E20CCAD4ABA1ED3.title": "以钢装订法术书",
+  "quest.4E20CCAD4ABA1ED3.quest_desc": [
+    "用书、三张钢板与青金石制作入门法术书。更高级法术书仍从这本书升级。"
+  ],
+  "quest.47D833C0F30AC57D.title": "写在书页中的旅途",
+  "quest.47D833C0F30AC57D.quest_desc": [
+    "主手持任意等级法术书，潜行右键黑曜石门框内侧来开启下界门。普通火焰、打火石、发射器和熔岩都不能开启门。",
+    "在主世界持书潜行右键床绑定家；持书潜行右键工作台可从任意维度回家。家坐标在死亡后保留。",
+    "在主世界持书潜行右键苔藓块进行 RTP：在世界出生点周围 512–2048 格寻找至多八处地表落点，仅接受安全位置。回家与 RTP 共用 60 秒冷却，安全搜索失败后等待 5 秒再试。"
+  ],
+  "quest.47D833C0F30AC57D.quest_subtitle": "已实装：法术书交互",
+  "task.6566FE169F275B70.title": "已阅读法术书交互说明",
+  "quest.2B63D4A0FB2EE0FF.title": "陨石里的外星模板",
+  "quest.2B63D4A0FB2EE0FF.quest_desc": [
+    "打破陨石中的神秘方块可获得逻辑、运算、工程、锗四种模板。锗模板属于外星工艺，可收藏，但不能用于人类的压印或合成。"
+  ],
+  "quest.09831E6BAD1F88D9.title": "猪灵的改良版",
+  "quest.09831E6BAD1F88D9.quest_desc": [
+    "用金锭与成年猪灵以物易物。新增奖励为等权重的逻辑、运算、硅模板，不含工程模板；陨石则不出硅模板。"
+  ],
+  "quest.763FB77B42C26AA4.title": "凑齐四块可用模板",
+  "quest.763FB77B42C26AA4.quest_desc": [
+    "最终需要逻辑、运算、工程、硅四块模板。检测不会消耗模板；复制模板也必须先有一块母版。"
+  ],
+  "quest.1111482F6BF29F70.title": "以蒸汽压印",
+  "quest.1111482F6BF29F70.quest_desc": [
+    "用青铜板、铜板、活塞、青铜机器外壳与扳手制作 GREGA 蒸汽压印机，不需要电路。输入蒸汽并留出排气空间，模板不消耗。用印刷电路、印刷硅与红色合金板组装各类处理器。本包移除了 AE 原版压印器的制作与压印配方。"
+  ],
+  "quest.09E8E27A5CBB94B5.title": "新的电子基础",
+  "quest.09E8E27A5CBB94B5.quest_desc": [
+    "按指定 3×3 排列合成：第一行锤、锉刀、剪线钳；第二行逻辑、运算、工程处理器；第三行红色合金线缆、钢板、红色合金线缆。GT 工具按正常合成规则损耗并返还。此部件替代真空管，也进入电路装配机使用的 ULV 电路标签。"
+  ],
+  "chapter.3A404246AC67A6B3.title": "格雷里程碑",
+  "quest.7B899364DA8634EF.title": "阅读 GREGA 路线图",
+  "quest.7B899364DA8634EF.quest_desc": [
+    "列表示电路的额定等级（ULV 至 UHV），不等于制造电路所需电压；行表示电路系列。材料、线圈各有独立的行。",
+    "电子、集成、微型电路沿用 GT 进度。纳米计划前移为 MV–IV 的轻量过渡，其后增加 HV–LuV 叠层纳米系列，位于晶体之前。",
+    "量子、晶体、湿件系列保留；量子及其后系列均计划使用叠层纳米产物。本次仅列出设计：纳米前移配方、叠层配方及后续替换均尚未实装。",
+    "菱形可选勾选项表示设计里程碑，并非生存解锁；勾选仅记录已阅读。普通物品任务检测已有电路与材料，不会消耗物品。"
+  ],
+  "task.778C28F4124FC998.title": "已阅读此规划里程碑",
+  "quest.31D93CB341C27342.title": "ULV 电路等级",
+  "quest.31D93CB341C27342.quest_desc": [
+    "本列表示电路可用的额定等级，不代表其制造电压。"
+  ],
+  "task.455A8F912360113F.title": "已阅读此规划里程碑",
+  "quest.1EDDF3EFD66C7BE8.title": "LV 电路等级",
+  "quest.1EDDF3EFD66C7BE8.quest_desc": [
+    "本列表示电路可用的额定等级，不代表其制造电压。"
+  ],
+  "task.10E00A6480BB1036.title": "已阅读此规划里程碑",
+  "quest.403798DC7C0061F9.title": "MV 电路等级",
+  "quest.403798DC7C0061F9.quest_desc": [
+    "本列表示电路可用的额定等级，不代表其制造电压。"
+  ],
+  "task.2CE6600F63A509BC.title": "已阅读此规划里程碑",
+  "quest.26DBDA4E75F7E277.title": "HV 电路等级",
+  "quest.26DBDA4E75F7E277.quest_desc": [
+    "本列表示电路可用的额定等级，不代表其制造电压。"
+  ],
+  "task.3157B4EAE95038C2.title": "已阅读此规划里程碑",
+  "quest.5BD567E09BE0C71D.title": "EV 电路等级",
+  "quest.5BD567E09BE0C71D.quest_desc": [
+    "本列表示电路可用的额定等级，不代表其制造电压。"
+  ],
+  "task.3521C70C1D3327E1.title": "已阅读此规划里程碑",
+  "quest.18C47E282A6283DD.title": "IV 电路等级",
+  "quest.18C47E282A6283DD.quest_desc": [
+    "本列表示电路可用的额定等级，不代表其制造电压。"
+  ],
+  "task.487E989067F6CFAC.title": "已阅读此规划里程碑",
+  "quest.2496467BC272E48D.title": "LuV 电路等级",
+  "quest.2496467BC272E48D.quest_desc": [
+    "本列表示电路可用的额定等级，不代表其制造电压。"
+  ],
+  "task.79FA45E9DB321B58.title": "已阅读此规划里程碑",
+  "quest.5C120007BA6FE1C0.title": "ZPM 电路等级",
+  "quest.5C120007BA6FE1C0.quest_desc": [
+    "本列表示电路可用的额定等级，不代表其制造电压。"
+  ],
+  "task.2F5BE7C18210B1D0.title": "已阅读此规划里程碑",
+  "quest.49202C8535C19805.title": "UV 电路等级",
+  "quest.49202C8535C19805.quest_desc": [
+    "本列表示电路可用的额定等级，不代表其制造电压。"
+  ],
+  "task.4F4129A9206C96A4.title": "已阅读此规划里程碑",
+  "quest.7BF49C8C1B5F8107.title": "UHV 电路等级",
+  "quest.7BF49C8C1B5F8107.quest_desc": [
+    "本列表示电路可用的额定等级，不代表其制造电压。"
+  ],
+  "task.5B40D258BADD89AB.title": "已阅读此规划里程碑",
+  "quest.49DEB3F88B437209.title": "蒸汽基础",
+  "quest.49DEB3F88B437209.quest_desc": [
+    "Create 铁板材通往第一把锻造锤；土高炉钢与法术书将带你找到 AE 模板的两种来源。"
+  ],
+  "quest.432E2A1085843147.title": "基础电子电路部件 · ULV",
+  "quest.432E2A1085843147.quest_desc": [
+    "AE 处理器与钢取代旧真空管，成为前期 GT 配方实际使用的 ULV 部件。"
+  ],
+  "quest.22AF2D684A44EE79.title": "基础电子电路 · LV",
+  "quest.22AF2D684A44EE79.quest_desc": [
+    "沿用现有 GT 电路进度，额定等级为 LV。"
+  ],
+  "quest.67AF4278249A71EC.title": "优质电子电路 · MV",
+  "quest.67AF4278249A71EC.quest_desc": [
+    "沿用现有 GT 电路进度，额定等级为 MV。"
+  ],
+  "quest.770E582403E4610F.title": "基础集成电路 · LV",
+  "quest.770E582403E4610F.quest_desc": [
+    "沿用现有 GT 电路进度，额定等级为 LV。"
+  ],
+  "quest.5D7C91AFCB1C0154.title": "优质集成电路 · MV",
+  "quest.5D7C91AFCB1C0154.quest_desc": [
+    "沿用现有 GT 电路进度，额定等级为 MV。"
+  ],
+  "quest.3F9142B4A945D41A.title": "高级集成电路 · HV",
+  "quest.3F9142B4A945D41A.quest_desc": [
+    "沿用现有 GT 电路进度，额定等级为 HV。"
+  ],
+  "quest.7A720FA7572E7440.title": "微芯片处理器 · LV",
+  "quest.7A720FA7572E7440.quest_desc": [
+    "沿用现有 GT 电路进度，额定等级为 LV。"
+  ],
+  "quest.51B2E4D45B81F39C.title": "微处理器 · MV",
+  "quest.51B2E4D45B81F39C.quest_desc": [
+    "沿用现有 GT 电路进度，额定等级为 MV。"
+  ],
+  "quest.57D21A63046E575F.title": "微处理器集群 · HV",
+  "quest.57D21A63046E575F.quest_desc": [
+    "沿用现有 GT 电路进度，额定等级为 HV。"
+  ],
+  "quest.2B79EE7BA5C8DAE9.title": "微处理器计算机 · EV",
+  "quest.2B79EE7BA5C8DAE9.quest_desc": [
+    "沿用现有 GT 电路进度，额定等级为 EV。"
+  ],
+  "quest.3B4D1D488E98915C.title": "微处理器主机 · IV",
+  "quest.3B4D1D488E98915C.quest_desc": [
+    "沿用现有 GT 电路进度，额定等级为 IV。"
+  ],
+  "quest.04D7891740B4AD10.title": "纳米处理器 · MV",
+  "quest.04D7891740B4AD10.quest_desc": [
+    "计划比原版 GT 前移一个电路等级，作为轻量过渡；配方前移尚待实现。"
+  ],
+  "quest.04D7891740B4AD10.quest_subtitle": "规划 · 配方待实现",
+  "task.4D72FC2E3A01C3E2.title": "已阅读此规划里程碑",
+  "quest.46371BD898F30B9D.title": "纳米处理器集群 · HV",
+  "quest.46371BD898F30B9D.quest_desc": [
+    "计划比原版 GT 前移一个电路等级，作为轻量过渡；配方前移尚待实现。"
+  ],
+  "quest.46371BD898F30B9D.quest_subtitle": "规划 · 配方待实现",
+  "task.265D2459A6F1CE13.title": "已阅读此规划里程碑",
+  "quest.38C1E1366568618F.title": "纳米处理器计算机 · EV",
+  "quest.38C1E1366568618F.quest_desc": [
+    "计划比原版 GT 前移一个电路等级，作为轻量过渡；配方前移尚待实现。"
+  ],
+  "quest.38C1E1366568618F.quest_subtitle": "规划 · 配方待实现",
+  "task.08D99816CEEFFACB.title": "已阅读此规划里程碑",
+  "quest.779F1F2E2DD938C1.title": "纳米处理器主机 · IV",
+  "quest.779F1F2E2DD938C1.quest_desc": [
+    "计划比原版 GT 前移一个电路等级，作为轻量过渡；配方前移尚待实现。"
+  ],
+  "quest.779F1F2E2DD938C1.quest_subtitle": "规划 · 配方待实现",
+  "task.12F64B55C1C74601.title": "已阅读此规划里程碑",
+  "quest.7F7A751BD8508DD6.title": "叠层纳米处理器 · HV",
+  "quest.7F7A751BD8508DD6.quest_desc": [
+    "规划位于纳米之后、晶体之前。此注册占位物品将供应量子及其后系列；目前无生存配方，也未加入电路标签。"
+  ],
+  "quest.7F7A751BD8508DD6.quest_subtitle": "规划 · 配方待实现",
+  "task.706A2F0AC29F1BC2.title": "已阅读此规划里程碑",
+  "quest.15C58CA45BA98B8B.title": "叠层纳米处理器集群 · EV",
+  "quest.15C58CA45BA98B8B.quest_desc": [
+    "规划位于纳米之后、晶体之前。此注册占位物品将供应量子及其后系列；目前无生存配方，也未加入电路标签。"
+  ],
+  "quest.15C58CA45BA98B8B.quest_subtitle": "规划 · 配方待实现",
+  "task.035AD1675F93FA7B.title": "已阅读此规划里程碑",
+  "quest.322E46AAE7D69913.title": "叠层纳米处理器计算机 · IV",
+  "quest.322E46AAE7D69913.quest_desc": [
+    "规划位于纳米之后、晶体之前。此注册占位物品将供应量子及其后系列；目前无生存配方，也未加入电路标签。"
+  ],
+  "quest.322E46AAE7D69913.quest_subtitle": "规划 · 配方待实现",
+  "task.48C00EAE21C94D7B.title": "已阅读此规划里程碑",
+  "quest.2616BE8183B1D4BD.title": "叠层纳米处理器主机 · LuV",
+  "quest.2616BE8183B1D4BD.quest_desc": [
+    "规划位于纳米之后、晶体之前。此注册占位物品将供应量子及其后系列；目前无生存配方，也未加入电路标签。"
+  ],
+  "quest.2616BE8183B1D4BD.quest_subtitle": "规划 · 配方待实现",
+  "task.5B723245A1767582.title": "已阅读此规划里程碑",
+  "quest.294283C34AE97D04.title": "量子处理器 · EV",
+  "quest.294283C34AE97D04.quest_desc": [
+    "保留此系列，GREGA 计划在本阶段使用叠层纳米产物。后续接入尚待实现，当前未改写原版 GT 配方。"
+  ],
+  "quest.294283C34AE97D04.quest_subtitle": "规划 · 配方待实现",
+  "task.4DD7969368F20649.title": "已阅读此规划里程碑",
+  "quest.0235C85E73D1E61A.title": "量子处理器集群 · IV",
+  "quest.0235C85E73D1E61A.quest_desc": [
+    "保留此系列，GREGA 计划在本阶段使用叠层纳米产物。后续接入尚待实现，当前未改写原版 GT 配方。"
+  ],
+  "quest.0235C85E73D1E61A.quest_subtitle": "规划 · 配方待实现",
+  "task.03131CD41EA66DBE.title": "已阅读此规划里程碑",
+  "quest.4906DCE219C4A5BD.title": "量子处理器计算机 · LuV",
+  "quest.4906DCE219C4A5BD.quest_desc": [
+    "保留此系列，GREGA 计划在本阶段使用叠层纳米产物。后续接入尚待实现，当前未改写原版 GT 配方。"
+  ],
+  "quest.4906DCE219C4A5BD.quest_subtitle": "规划 · 配方待实现",
+  "task.6A06E3ECCC970E65.title": "已阅读此规划里程碑",
+  "quest.3B5CC1B66231F1FA.title": "量子处理器主机 · ZPM",
+  "quest.3B5CC1B66231F1FA.quest_desc": [
+    "保留此系列，GREGA 计划在本阶段使用叠层纳米产物。后续接入尚待实现，当前未改写原版 GT 配方。"
+  ],
+  "quest.3B5CC1B66231F1FA.quest_subtitle": "规划 · 配方待实现",
+  "task.10FF8D630D7D7F16.title": "已阅读此规划里程碑",
+  "quest.2D11BC6CAE596926.title": "晶体处理器 · IV",
+  "quest.2D11BC6CAE596926.quest_desc": [
+    "保留此系列，GREGA 计划在本阶段使用叠层纳米产物。后续接入尚待实现，当前未改写原版 GT 配方。"
+  ],
+  "quest.2D11BC6CAE596926.quest_subtitle": "规划 · 配方待实现",
+  "task.04A65706CDD4F59B.title": "已阅读此规划里程碑",
+  "quest.4B379ACA08A9FD67.title": "晶体处理器集群 · LuV",
+  "quest.4B379ACA08A9FD67.quest_desc": [
+    "保留此系列，GREGA 计划在本阶段使用叠层纳米产物。后续接入尚待实现，当前未改写原版 GT 配方。"
+  ],
+  "quest.4B379ACA08A9FD67.quest_subtitle": "规划 · 配方待实现",
+  "task.0FAC233AA32D03A5.title": "已阅读此规划里程碑",
+  "quest.4D577B12C0BBF611.title": "晶体处理器计算机 · ZPM",
+  "quest.4D577B12C0BBF611.quest_desc": [
+    "保留此系列，GREGA 计划在本阶段使用叠层纳米产物。后续接入尚待实现，当前未改写原版 GT 配方。"
+  ],
+  "quest.4D577B12C0BBF611.quest_subtitle": "规划 · 配方待实现",
+  "task.6E1E4E8056FC89AA.title": "已阅读此规划里程碑",
+  "quest.6405515CF14B74BE.title": "晶体处理器主机 · UV",
+  "quest.6405515CF14B74BE.quest_desc": [
+    "保留此系列，GREGA 计划在本阶段使用叠层纳米产物。后续接入尚待实现，当前未改写原版 GT 配方。"
+  ],
+  "quest.6405515CF14B74BE.quest_subtitle": "规划 · 配方待实现",
+  "task.49504DAB9C059E8B.title": "已阅读此规划里程碑",
+  "quest.7A819A935174FA6B.title": "湿件处理器 · LuV",
+  "quest.7A819A935174FA6B.quest_desc": [
+    "保留此系列，GREGA 计划在本阶段使用叠层纳米产物。后续接入尚待实现，当前未改写原版 GT 配方。"
+  ],
+  "quest.7A819A935174FA6B.quest_subtitle": "规划 · 配方待实现",
+  "task.259F5BDC19721ECA.title": "已阅读此规划里程碑",
+  "quest.06C2363AE1E4CD32.title": "湿件处理器集群 · ZPM",
+  "quest.06C2363AE1E4CD32.quest_desc": [
+    "保留此系列，GREGA 计划在本阶段使用叠层纳米产物。后续接入尚待实现，当前未改写原版 GT 配方。"
+  ],
+  "quest.06C2363AE1E4CD32.quest_subtitle": "规划 · 配方待实现",
+  "task.725D1FD0925FEC32.title": "已阅读此规划里程碑",
+  "quest.6109EA2124D283C3.title": "湿件处理器计算机 · UV",
+  "quest.6109EA2124D283C3.quest_desc": [
+    "保留此系列，GREGA 计划在本阶段使用叠层纳米产物。后续接入尚待实现，当前未改写原版 GT 配方。"
+  ],
+  "quest.6109EA2124D283C3.quest_subtitle": "规划 · 配方待实现",
+  "task.36B98B694D7783DC.title": "已阅读此规划里程碑",
+  "quest.35564F7453141C8A.title": "湿件处理器主机 · UHV",
+  "quest.35564F7453141C8A.quest_desc": [
+    "保留此系列，GREGA 计划在本阶段使用叠层纳米产物。后续接入尚待实现，当前未改写原版 GT 配方。"
+  ],
+  "quest.35564F7453141C8A.quest_subtitle": "规划 · 配方待实现",
+  "task.3F9E16CBAEBC1919.title": "已阅读此规划里程碑",
+  "quest.2C7F1E70249B2744.title": "锻铁",
+  "quest.2C7F1E70249B2744.quest_desc": [
+    "接近 ULV 阶段的材料里程碑；本图不改写其生产配方。"
+  ],
+  "quest.665153AB06F02835.title": "青铜",
+  "quest.665153AB06F02835.quest_desc": [
+    "接近 ULV 阶段的材料里程碑；本图不改写其生产配方。"
+  ],
+  "quest.1A2D4DE137808A84.title": "钢",
+  "quest.1A2D4DE137808A84.quest_desc": [
+    "接近 LV 阶段的材料里程碑；本图不改写其生产配方。"
+  ],
+  "quest.3F1E5FA4738A8CDA.title": "铝",
+  "quest.3F1E5FA4738A8CDA.quest_desc": [
+    "接近 MV 阶段的材料里程碑；本图不改写其生产配方。"
+  ],
+  "quest.29174284BE95D415.title": "镓",
+  "quest.29174284BE95D415.quest_desc": [
+    "接近 MV 阶段的材料里程碑；本图不改写其生产配方。"
+  ],
+  "quest.2570A13E0B9D3103.title": "不锈钢",
+  "quest.2570A13E0B9D3103.quest_desc": [
+    "接近 HV 阶段的材料里程碑；本图不改写其生产配方。"
+  ],
+  "quest.58BC469662794E68.title": "钛",
+  "quest.58BC469662794E68.quest_desc": [
+    "接近 EV 阶段的材料里程碑；本图不改写其生产配方。"
+  ],
+  "quest.64D9720B463056F1.title": "铂",
+  "quest.64D9720B463056F1.quest_desc": [
+    "接近 EV 阶段的材料里程碑；本图不改写其生产配方。"
+  ],
+  "quest.37EEC5FAAF951001.title": "钨钢",
+  "quest.37EEC5FAAF951001.quest_desc": [
+    "接近 IV 阶段的材料里程碑；本图不改写其生产配方。"
+  ],
+  "quest.7BB35D81F18D7F73.title": "钨",
+  "quest.7BB35D81F18D7F73.quest_desc": [
+    "接近 IV 阶段的材料里程碑；本图不改写其生产配方。"
+  ],
+  "quest.4F2CE5032FABD81A.title": "镀铑钯",
+  "quest.4F2CE5032FABD81A.quest_desc": [
+    "接近 LuV 阶段的材料里程碑；本图不改写其生产配方。"
+  ],
+  "quest.667D78EFE7C82857.title": "硅岩合金",
+  "quest.667D78EFE7C82857.quest_desc": [
+    "接近 ZPM 阶段的材料里程碑；本图不改写其生产配方。"
+  ],
+  "quest.7806CE12C1200F10.title": "鐽",
+  "quest.7806CE12C1200F10.quest_desc": [
+    "接近 UV 阶段的材料里程碑；本图不改写其生产配方。"
+  ],
+  "quest.71B6786C67170E78.title": "中子素",
+  "quest.71B6786C67170E78.quest_desc": [
+    "接近 UHV 阶段的材料里程碑；本图不改写其生产配方。"
+  ],
+  "quest.278A720D78DA89C1.title": "白铜线圈",
+  "quest.278A720D78DA89C1.quest_desc": [
+    "基础线圈温度：1800 K。此行按加热能力排列，不表示配方或电压解锁。"
+  ],
+  "quest.42DF6DC0A9F0D4CC.title": "坎塔尔合金线圈",
+  "quest.42DF6DC0A9F0D4CC.quest_desc": [
+    "基础线圈温度：2700 K。此行按加热能力排列，不表示配方或电压解锁。"
+  ],
+  "quest.3A45D18C384737DF.title": "镍铬合金线圈",
+  "quest.3A45D18C384737DF.quest_desc": [
+    "基础线圈温度：3600 K。此行按加热能力排列，不表示配方或电压解锁。"
+  ],
+  "quest.4DE3082C5A2AF1F6.title": "RTM 合金线圈",
+  "quest.4DE3082C5A2AF1F6.quest_desc": [
+    "基础线圈温度：4500 K。此行按加热能力排列，不表示配方或电压解锁。"
+  ],
+  "quest.13584524A9C5BAC4.title": "高速钢 G线圈",
+  "quest.13584524A9C5BAC4.quest_desc": [
+    "基础线圈温度：5400 K。此行按加热能力排列，不表示配方或电压解锁。"
+  ],
+  "quest.5331CF8D11929E3A.title": "硅岩线圈",
+  "quest.5331CF8D11929E3A.quest_desc": [
+    "基础线圈温度：7200 K。此行按加热能力排列，不表示配方或电压解锁。"
+  ],
+  "quest.43C773B4094BDF6C.title": "凯金线圈",
+  "quest.43C773B4094BDF6C.quest_desc": [
+    "基础线圈温度：9001 K。此行按加热能力排列，不表示配方或电压解锁。"
+  ],
+  "quest.04EF2F3B87B14CB1.title": "三钛合金线圈",
+  "quest.04EF2F3B87B14CB1.quest_desc": [
+    "基础线圈温度：10800 K。此行按加热能力排列，不表示配方或电压解锁。"
+  ]
+}

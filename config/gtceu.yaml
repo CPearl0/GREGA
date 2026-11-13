@@ -110,7 +110,8 @@ worldgen:
 
   # Allow GregTech to add additional GregTech Items as loot in various structures.
   # Default: true
-  addLoot: true
+  # GREGA: the first steel must come from the Primitive Blast Furnace, not bonus chest metals.
+  addLoot: false
 
   oreVeins:
     # The grid size (in chunks) for ore vein generation
