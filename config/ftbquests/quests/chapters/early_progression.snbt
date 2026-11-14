@@ -133,17 +133,40 @@
       "id": "47D833C0F30AC57D",
       "x": 9.0,
       "y": 2.0,
-      "icon": "ars_nouveau:novice_spell_book",
+      "icon": "grega_core:glyph_nether_gate",
       "tasks": [
         {
           "id": "6566FE169F275B70",
-          "type": "checkmark"
+          "type": "item",
+          "item": "grega_core:glyph_nether_gate",
+          "count": 1,
+          "consume_items": false
+        },
+        {
+          "id": "6AB0232383B048D1",
+          "type": "item",
+          "item": "grega_core:glyph_set_home",
+          "count": 1,
+          "consume_items": false
+        },
+        {
+          "id": "6AB0232383B048D2",
+          "type": "item",
+          "item": "grega_core:glyph_home",
+          "count": 1,
+          "consume_items": false
+        },
+        {
+          "id": "6AB0232383B048D3",
+          "type": "item",
+          "item": "grega_core:glyph_rtp",
+          "count": 1,
+          "consume_items": false
         }
       ],
       "dependencies": [
         "4E20CCAD4ABA1ED3"
-      ],
-      "optional": true
+      ]
     },
     {
       "id": "2B63D4A0FB2EE0FF",

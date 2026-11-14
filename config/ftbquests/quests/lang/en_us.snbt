@@ -31,12 +31,13 @@
   ],
   "quest.47D833C0F30AC57D.title": "Travel Written in a Book",
   "quest.47D833C0F30AC57D.quest_desc": [
-    "Hold any Ars spell book in your main hand and sneak-use the inside face of an obsidian frame to open a Nether portal. Ordinary fire, flint and steel, dispensers and lava cannot open it.",
-    "Sneak-use a bed in the Overworld to bind home. Sneak-use a crafting table with the book to return from any dimension. Your home binding survives death.",
-    "Sneak-use a moss block in the Overworld for RTP: search up to eight surface locations 512–2048 blocks from world spawn. Only safe landings are accepted. Home and RTP share a 60-second cooldown; failed safety searches have a 5-second retry delay."
+    "At a Scribe's Table, select the four GREGA tier-one effect glyphs using your spell book. Each costs 27 XP points plus its recipe ingredients. Take the glyph and use it to learn the effect. Nether Gate needs obsidian, steel and a Source Gem; no Nether visit is required.",
+    "Open the Ars spell editor (default C), assemble and save Touch → Nether Gate, then cast at the inner face of a complete obsidian frame in the Overworld or Nether. Ordinary fire, flint and steel, dispensers, GT lighters and lava cannot open it.",
+    "Self → Set Home saves a safe position near your feet in the Overworld. Self → Homeward returns from any dimension. Your home survives death.",
+    "Self → Wander performs Overworld RTP, checking up to eight safe surface locations 512–2048 blocks from spawn. Homeward and Wander share a 60-second cooldown; failed safety searches delay retries by 5 seconds. Dismount and wake up first. Effect mana costs are 80/20/80/100, plus the casting method."
   ],
-  "quest.47D833C0F30AC57D.quest_subtitle": "Book gestures are available now",
-  "task.6566FE169F275B70.title": "Read the spell book gestures",
+  "quest.47D833C0F30AC57D.quest_subtitle": "Assemble travel spells in your book",
+  "task.6566FE169F275B70.title": "Obtain the Nether Gate glyph",
   "quest.2B63D4A0FB2EE0FF.title": "Alien Masters",
   "quest.2B63D4A0FB2EE0FF.quest_desc": [
     "Break a meteorite's mysterious cube to recover logic, calculation, engineering and germanium presses. Germanium is alien technology: keep it as a relic; no human recipe accepts it."
@@ -58,64 +59,53 @@
     "Craft in this exact 3×3 arrangement: hammer / file / wire cutter; logic / calculation / engineering processors; red alloy cable / steel plate / red alloy cable. GT tools return with their normal crafting damage. This part replaces vacuum tubes, including the ULV circuit tag used by the circuit assembler."
   ],
   "chapter.3A404246AC67A6B3.title": "GregTech Milestones",
-  "quest.7B899364DA8634EF.title": "Reading the GREGA Roadmap",
+  "quest.7B899364DA8634EF.title": "The GREGA Milestone Map",
   "quest.7B899364DA8634EF.quest_desc": [
-    "Columns show the circuit rating (ULV through UHV), not the voltage required to manufacture it. Rows group related circuit families; materials and coils have their own rows.",
-    "Electronic, integrated and micro circuits retain their GT progression. Nano is planned as a lighter MV–IV transition. Laminated nano follows at HV–LuV, before crystal.",
-    "Quantum, crystal and wetware remain. Quantum and all later families are designed to consume laminated nano products. This release only lists that plan: nano retiming, lamination recipes and downstream replacements are NOT implemented.",
-    "Diamond-shaped optional checkmarks mean a design milestone, not a survival unlock. Marking one only records that you read it. Ordinary item tasks detect existing materials/circuits without consuming them."
+    "Columns show circuit ratings from ULV through UHV. Check the recipe viewer for manufacturing voltage. Every node detects a real item without consuming it.",
+    "Electronic and integrated names and ratings stay unchanged. The Microchip Processor is removed. Micro circuits now rate LV–EV; nano circuits rate MV–IV and use short recipes with light materials.",
+    "The independent HV–LuV laminated family is Compute Unit → Processor Core → Multicore Processor → Mainframe. Produce via substrates, bonded nano dies and multilayer interconnects first, using GregTech materials and machines.",
+    "Quantum, crystal and wetware retain their original GregTech recipes. Circuit families do not require GREGA laminated circuits. Materials and coils have their own item milestones."
   ],
-  "task.778C28F4124FC998.title": "Read this planned milestone",
-  "quest.31D93CB341C27342.title": "ULV Circuits",
+  "quest.31D93CB341C27342.title": "ULV Machine Hull",
   "quest.31D93CB341C27342.quest_desc": [
-    "This column describes the usable rating of a circuit, not its manufacturing voltage."
+    "Obtain this tier of machine hull. Circuits in the column are arranged by their rating; check each recipe for its manufacturing voltage."
   ],
-  "task.455A8F912360113F.title": "Read this planned milestone",
-  "quest.1EDDF3EFD66C7BE8.title": "LV Circuits",
+  "quest.1EDDF3EFD66C7BE8.title": "LV Machine Hull",
   "quest.1EDDF3EFD66C7BE8.quest_desc": [
-    "This column describes the usable rating of a circuit, not its manufacturing voltage."
+    "Obtain this tier of machine hull. Circuits in the column are arranged by their rating; check each recipe for its manufacturing voltage."
   ],
-  "task.10E00A6480BB1036.title": "Read this planned milestone",
-  "quest.403798DC7C0061F9.title": "MV Circuits",
+  "quest.403798DC7C0061F9.title": "MV Machine Hull",
   "quest.403798DC7C0061F9.quest_desc": [
-    "This column describes the usable rating of a circuit, not its manufacturing voltage."
+    "Obtain this tier of machine hull. Circuits in the column are arranged by their rating; check each recipe for its manufacturing voltage."
   ],
-  "task.2CE6600F63A509BC.title": "Read this planned milestone",
-  "quest.26DBDA4E75F7E277.title": "HV Circuits",
+  "quest.26DBDA4E75F7E277.title": "HV Machine Hull",
   "quest.26DBDA4E75F7E277.quest_desc": [
-    "This column describes the usable rating of a circuit, not its manufacturing voltage."
+    "Obtain this tier of machine hull. Circuits in the column are arranged by their rating; check each recipe for its manufacturing voltage."
   ],
-  "task.3157B4EAE95038C2.title": "Read this planned milestone",
-  "quest.5BD567E09BE0C71D.title": "EV Circuits",
+  "quest.5BD567E09BE0C71D.title": "EV Machine Hull",
   "quest.5BD567E09BE0C71D.quest_desc": [
-    "This column describes the usable rating of a circuit, not its manufacturing voltage."
+    "Obtain this tier of machine hull. Circuits in the column are arranged by their rating; check each recipe for its manufacturing voltage."
   ],
-  "task.3521C70C1D3327E1.title": "Read this planned milestone",
-  "quest.18C47E282A6283DD.title": "IV Circuits",
+  "quest.18C47E282A6283DD.title": "IV Machine Hull",
   "quest.18C47E282A6283DD.quest_desc": [
-    "This column describes the usable rating of a circuit, not its manufacturing voltage."
+    "Obtain this tier of machine hull. Circuits in the column are arranged by their rating; check each recipe for its manufacturing voltage."
   ],
-  "task.487E989067F6CFAC.title": "Read this planned milestone",
-  "quest.2496467BC272E48D.title": "LuV Circuits",
+  "quest.2496467BC272E48D.title": "LuV Machine Hull",
   "quest.2496467BC272E48D.quest_desc": [
-    "This column describes the usable rating of a circuit, not its manufacturing voltage."
+    "Obtain this tier of machine hull. Circuits in the column are arranged by their rating; check each recipe for its manufacturing voltage."
   ],
-  "task.79FA45E9DB321B58.title": "Read this planned milestone",
-  "quest.5C120007BA6FE1C0.title": "ZPM Circuits",
+  "quest.5C120007BA6FE1C0.title": "ZPM Machine Hull",
   "quest.5C120007BA6FE1C0.quest_desc": [
-    "This column describes the usable rating of a circuit, not its manufacturing voltage."
+    "Obtain this tier of machine hull. Circuits in the column are arranged by their rating; check each recipe for its manufacturing voltage."
   ],
-  "task.2F5BE7C18210B1D0.title": "Read this planned milestone",
-  "quest.49202C8535C19805.title": "UV Circuits",
+  "quest.49202C8535C19805.title": "UV Machine Hull",
   "quest.49202C8535C19805.quest_desc": [
-    "This column describes the usable rating of a circuit, not its manufacturing voltage."
+    "Obtain this tier of machine hull. Circuits in the column are arranged by their rating; check each recipe for its manufacturing voltage."
   ],
-  "task.4F4129A9206C96A4.title": "Read this planned milestone",
-  "quest.7BF49C8C1B5F8107.title": "UHV Circuits",
+  "quest.7BF49C8C1B5F8107.title": "UHV Machine Hull",
   "quest.7BF49C8C1B5F8107.quest_desc": [
-    "This column describes the usable rating of a circuit, not its manufacturing voltage."
+    "Obtain this tier of machine hull. Circuits in the column are arranged by their rating; check each recipe for its manufacturing voltage."
   ],
-  "task.5B40D258BADD89AB.title": "Read this planned milestone",
   "quest.49DEB3F88B437209.title": "Steam Foundation",
   "quest.49DEB3F88B437209.quest_desc": [
     "Create sheets lead to the first hammer; primitive steel and the Ars book lead to both sources of AE presses."
@@ -144,146 +134,102 @@
   "quest.3F9142B4A945D41A.quest_desc": [
     "Retains the existing GT circuit progression. Its rating is HV."
   ],
-  "quest.7A720FA7572E7440.title": "Microchip Processor · LV",
-  "quest.7A720FA7572E7440.quest_desc": [
-    "Retains the existing GT circuit progression. Its rating is LV."
-  ],
-  "quest.51B2E4D45B81F39C.title": "Microprocessor · MV",
+  "quest.51B2E4D45B81F39C.title": "Microprocessor · LV",
   "quest.51B2E4D45B81F39C.quest_desc": [
-    "Retains the existing GT circuit progression. Its rating is MV."
+    "Rated one tier earlier. Assemble with soldering alloy in a circuit assembler; manufacturing voltage is also reduced."
   ],
-  "quest.57D21A63046E575F.title": "Microprocessor Assembly · HV",
+  "quest.57D21A63046E575F.title": "Microprocessor Assembly · MV",
   "quest.57D21A63046E575F.quest_desc": [
-    "Retains the existing GT circuit progression. Its rating is HV."
+    "Rated one tier earlier. Assemble with soldering alloy in a circuit assembler; manufacturing voltage is also reduced."
   ],
-  "quest.2B79EE7BA5C8DAE9.title": "Microprocessor Computer · EV",
+  "quest.2B79EE7BA5C8DAE9.title": "Microprocessor Computer · HV",
   "quest.2B79EE7BA5C8DAE9.quest_desc": [
-    "Retains the existing GT circuit progression. Its rating is EV."
+    "Rated one tier earlier. Assemble with soldering alloy in a circuit assembler; manufacturing voltage is also reduced."
   ],
-  "quest.3B4D1D488E98915C.title": "Microprocessor Mainframe · IV",
+  "quest.3B4D1D488E98915C.title": "Microprocessor Mainframe · EV",
   "quest.3B4D1D488E98915C.quest_desc": [
-    "Retains the existing GT circuit progression. Its rating is IV."
+    "Rated one tier earlier. Assemble with soldering alloy in a circuit assembler; manufacturing voltage is also reduced."
   ],
   "quest.04D7891740B4AD10.title": "Nano Processor · MV",
   "quest.04D7891740B4AD10.quest_desc": [
-    "Planned lighter transition, one circuit rating earlier than upstream GT. The recipe retiming is pending."
+    "A light transition: coat nano CPU dies in an MV forming press, then build all four circuits in circuit assemblers. Short recipes require no cleanroom."
   ],
-  "quest.04D7891740B4AD10.quest_subtitle": "Planned · recipes pending",
-  "task.4D72FC2E3A01C3E2.title": "Read this planned milestone",
   "quest.46371BD898F30B9D.title": "Nano Processor Assembly · HV",
   "quest.46371BD898F30B9D.quest_desc": [
-    "Planned lighter transition, one circuit rating earlier than upstream GT. The recipe retiming is pending."
+    "A light transition: coat nano CPU dies in an MV forming press, then build all four circuits in circuit assemblers. Short recipes require no cleanroom."
   ],
-  "quest.46371BD898F30B9D.quest_subtitle": "Planned · recipes pending",
-  "task.265D2459A6F1CE13.title": "Read this planned milestone",
   "quest.38C1E1366568618F.title": "Nano Processor Computer · EV",
   "quest.38C1E1366568618F.quest_desc": [
-    "Planned lighter transition, one circuit rating earlier than upstream GT. The recipe retiming is pending."
+    "A light transition: coat nano CPU dies in an MV forming press, then build all four circuits in circuit assemblers. Short recipes require no cleanroom."
   ],
-  "quest.38C1E1366568618F.quest_subtitle": "Planned · recipes pending",
-  "task.08D99816CEEFFACB.title": "Read this planned milestone",
   "quest.779F1F2E2DD938C1.title": "Nano Processor Mainframe · IV",
   "quest.779F1F2E2DD938C1.quest_desc": [
-    "Planned lighter transition, one circuit rating earlier than upstream GT. The recipe retiming is pending."
+    "A light transition: coat nano CPU dies in an MV forming press, then build all four circuits in circuit assemblers. Short recipes require no cleanroom."
   ],
-  "quest.779F1F2E2DD938C1.quest_subtitle": "Planned · recipes pending",
-  "task.12F64B55C1C74601.title": "Read this planned milestone",
-  "quest.7F7A751BD8508DD6.title": "Laminated Nano Processor · HV",
+  "quest.7F7A751BD8508DD6.title": "Compute Unit · HV",
   "quest.7F7A751BD8508DD6.quest_desc": [
-    "Planned after nano and before crystal. This registered placeholder will supply quantum and later families; it currently has no survival recipe or circuit tag."
+    "An independent circuit family built from via substrates, bonded dies and multilayer interconnects. Higher grades combine the preceding laminated circuit; other circuit families retain their own recipes."
   ],
-  "quest.7F7A751BD8508DD6.quest_subtitle": "Planned · recipes pending",
-  "task.706A2F0AC29F1BC2.title": "Read this planned milestone",
-  "quest.15C58CA45BA98B8B.title": "Laminated Nano Processor Assembly · EV",
+  "quest.15C58CA45BA98B8B.title": "Processor Core · EV",
   "quest.15C58CA45BA98B8B.quest_desc": [
-    "Planned after nano and before crystal. This registered placeholder will supply quantum and later families; it currently has no survival recipe or circuit tag."
+    "An independent circuit family built from via substrates, bonded dies and multilayer interconnects. Higher grades combine the preceding laminated circuit; other circuit families retain their own recipes."
   ],
-  "quest.15C58CA45BA98B8B.quest_subtitle": "Planned · recipes pending",
-  "task.035AD1675F93FA7B.title": "Read this planned milestone",
-  "quest.322E46AAE7D69913.title": "Laminated Nano Processor Computer · IV",
+  "quest.322E46AAE7D69913.title": "Multicore Processor · IV",
   "quest.322E46AAE7D69913.quest_desc": [
-    "Planned after nano and before crystal. This registered placeholder will supply quantum and later families; it currently has no survival recipe or circuit tag."
+    "An independent circuit family built from via substrates, bonded dies and multilayer interconnects. Higher grades combine the preceding laminated circuit; other circuit families retain their own recipes."
   ],
-  "quest.322E46AAE7D69913.quest_subtitle": "Planned · recipes pending",
-  "task.48C00EAE21C94D7B.title": "Read this planned milestone",
-  "quest.2616BE8183B1D4BD.title": "Laminated Nano Processor Mainframe · LuV",
+  "quest.2616BE8183B1D4BD.title": "Mainframe · LuV",
   "quest.2616BE8183B1D4BD.quest_desc": [
-    "Planned after nano and before crystal. This registered placeholder will supply quantum and later families; it currently has no survival recipe or circuit tag."
+    "An independent circuit family built from via substrates, bonded dies and multilayer interconnects. Higher grades combine the preceding laminated circuit; other circuit families retain their own recipes."
   ],
-  "quest.2616BE8183B1D4BD.quest_subtitle": "Planned · recipes pending",
-  "task.5B723245A1767582.title": "Read this planned milestone",
   "quest.294283C34AE97D04.title": "Quantum Processor · EV",
   "quest.294283C34AE97D04.quest_desc": [
-    "This family is retained. GREGA will use laminated nano products in this stage. Downstream replacements are pending; upstream GT recipes have not yet been rewritten."
+    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA laminated components."
   ],
-  "quest.294283C34AE97D04.quest_subtitle": "Planned · recipes pending",
-  "task.4DD7969368F20649.title": "Read this planned milestone",
   "quest.0235C85E73D1E61A.title": "Quantum Processor Assembly · IV",
   "quest.0235C85E73D1E61A.quest_desc": [
-    "This family is retained. GREGA will use laminated nano products in this stage. Downstream replacements are pending; upstream GT recipes have not yet been rewritten."
+    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA laminated components."
   ],
-  "quest.0235C85E73D1E61A.quest_subtitle": "Planned · recipes pending",
-  "task.03131CD41EA66DBE.title": "Read this planned milestone",
   "quest.4906DCE219C4A5BD.title": "Quantum Processor Computer · LuV",
   "quest.4906DCE219C4A5BD.quest_desc": [
-    "This family is retained. GREGA will use laminated nano products in this stage. Downstream replacements are pending; upstream GT recipes have not yet been rewritten."
+    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA laminated components."
   ],
-  "quest.4906DCE219C4A5BD.quest_subtitle": "Planned · recipes pending",
-  "task.6A06E3ECCC970E65.title": "Read this planned milestone",
   "quest.3B5CC1B66231F1FA.title": "Quantum Processor Mainframe · ZPM",
   "quest.3B5CC1B66231F1FA.quest_desc": [
-    "This family is retained. GREGA will use laminated nano products in this stage. Downstream replacements are pending; upstream GT recipes have not yet been rewritten."
+    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA laminated components."
   ],
-  "quest.3B5CC1B66231F1FA.quest_subtitle": "Planned · recipes pending",
-  "task.10FF8D630D7D7F16.title": "Read this planned milestone",
   "quest.2D11BC6CAE596926.title": "Crystal Processor · IV",
   "quest.2D11BC6CAE596926.quest_desc": [
-    "This family is retained. GREGA will use laminated nano products in this stage. Downstream replacements are pending; upstream GT recipes have not yet been rewritten."
+    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA laminated components."
   ],
-  "quest.2D11BC6CAE596926.quest_subtitle": "Planned · recipes pending",
-  "task.04A65706CDD4F59B.title": "Read this planned milestone",
   "quest.4B379ACA08A9FD67.title": "Crystal Processor Assembly · LuV",
   "quest.4B379ACA08A9FD67.quest_desc": [
-    "This family is retained. GREGA will use laminated nano products in this stage. Downstream replacements are pending; upstream GT recipes have not yet been rewritten."
+    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA laminated components."
   ],
-  "quest.4B379ACA08A9FD67.quest_subtitle": "Planned · recipes pending",
-  "task.0FAC233AA32D03A5.title": "Read this planned milestone",
   "quest.4D577B12C0BBF611.title": "Crystal Processor Computer · ZPM",
   "quest.4D577B12C0BBF611.quest_desc": [
-    "This family is retained. GREGA will use laminated nano products in this stage. Downstream replacements are pending; upstream GT recipes have not yet been rewritten."
+    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA laminated components."
   ],
-  "quest.4D577B12C0BBF611.quest_subtitle": "Planned · recipes pending",
-  "task.6E1E4E8056FC89AA.title": "Read this planned milestone",
   "quest.6405515CF14B74BE.title": "Crystal Processor Mainframe · UV",
   "quest.6405515CF14B74BE.quest_desc": [
-    "This family is retained. GREGA will use laminated nano products in this stage. Downstream replacements are pending; upstream GT recipes have not yet been rewritten."
+    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA laminated components."
   ],
-  "quest.6405515CF14B74BE.quest_subtitle": "Planned · recipes pending",
-  "task.49504DAB9C059E8B.title": "Read this planned milestone",
   "quest.7A819A935174FA6B.title": "Wetware Processor · LuV",
   "quest.7A819A935174FA6B.quest_desc": [
-    "This family is retained. GREGA will use laminated nano products in this stage. Downstream replacements are pending; upstream GT recipes have not yet been rewritten."
+    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA laminated components."
   ],
-  "quest.7A819A935174FA6B.quest_subtitle": "Planned · recipes pending",
-  "task.259F5BDC19721ECA.title": "Read this planned milestone",
   "quest.06C2363AE1E4CD32.title": "Wetware Processor Assembly · ZPM",
   "quest.06C2363AE1E4CD32.quest_desc": [
-    "This family is retained. GREGA will use laminated nano products in this stage. Downstream replacements are pending; upstream GT recipes have not yet been rewritten."
+    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA laminated components."
   ],
-  "quest.06C2363AE1E4CD32.quest_subtitle": "Planned · recipes pending",
-  "task.725D1FD0925FEC32.title": "Read this planned milestone",
   "quest.6109EA2124D283C3.title": "Wetware Processor Computer · UV",
   "quest.6109EA2124D283C3.quest_desc": [
-    "This family is retained. GREGA will use laminated nano products in this stage. Downstream replacements are pending; upstream GT recipes have not yet been rewritten."
+    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA laminated components."
   ],
-  "quest.6109EA2124D283C3.quest_subtitle": "Planned · recipes pending",
-  "task.36B98B694D7783DC.title": "Read this planned milestone",
   "quest.35564F7453141C8A.title": "Wetware Processor Mainframe · UHV",
   "quest.35564F7453141C8A.quest_desc": [
-    "This family is retained. GREGA will use laminated nano products in this stage. Downstream replacements are pending; upstream GT recipes have not yet been rewritten."
+    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA laminated components."
   ],
-  "quest.35564F7453141C8A.quest_subtitle": "Planned · recipes pending",
-  "task.3F9E16CBAEBC1919.title": "Read this planned milestone",
   "quest.2C7F1E70249B2744.title": "Wrought Iron",
   "quest.2C7F1E70249B2744.quest_desc": [
     "A material milestone near the ULV stage. This map does not change its production recipe."
@@ -371,5 +317,17 @@
   "quest.04EF2F3B87B14CB1.title": "Tritanium Coils",
   "quest.04EF2F3B87B14CB1.quest_desc": [
     "Base coil temperature: 10800 K. Coils are listed by heat capability; this is not a recipe or voltage unlock."
+  ],
+  "quest.FFC94B3C45A5C5A3.title": "Via Substrate",
+  "quest.FFC94B3C45A5C5A3.quest_desc": [
+    "Drill copper-clad plastic boards in a cutter; water cools the vias."
+  ],
+  "quest.55CA1D72341E3960.title": "Bonded Nano Die",
+  "quest.55CA1D72341E3960.quest_desc": [
+    "Bond four nano CPU dies with gold foil and silicone rubber in a forming press."
+  ],
+  "quest.5A3EDC862536E995.title": "Multilayer Interconnect",
+  "quest.5A3EDC862536E995.quest_desc": [
+    "Laminate four via substrates with copper foil, polyethylene and fine gold wire in an assembler."
   ]
 }

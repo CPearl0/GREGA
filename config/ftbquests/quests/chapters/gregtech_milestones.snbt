@@ -14,10 +14,12 @@
       "tasks": [
         {
           "id": "778C28F4124FC998",
-          "type": "checkmark"
+          "type": "item",
+          "item": "minecraft:map",
+          "count": 1,
+          "consume_items": false
         }
-      ],
-      "optional": true
+      ]
     },
     {
       "id": "31D93CB341C27342",
@@ -27,10 +29,12 @@
       "tasks": [
         {
           "id": "455A8F912360113F",
-          "type": "checkmark"
+          "type": "item",
+          "item": "gtceu:ulv_machine_hull",
+          "count": 1,
+          "consume_items": false
         }
-      ],
-      "optional": true
+      ]
     },
     {
       "id": "1EDDF3EFD66C7BE8",
@@ -40,10 +44,12 @@
       "tasks": [
         {
           "id": "10E00A6480BB1036",
-          "type": "checkmark"
+          "type": "item",
+          "item": "gtceu:lv_machine_hull",
+          "count": 1,
+          "consume_items": false
         }
-      ],
-      "optional": true
+      ]
     },
     {
       "id": "403798DC7C0061F9",
@@ -53,10 +59,12 @@
       "tasks": [
         {
           "id": "2CE6600F63A509BC",
-          "type": "checkmark"
+          "type": "item",
+          "item": "gtceu:mv_machine_hull",
+          "count": 1,
+          "consume_items": false
         }
-      ],
-      "optional": true
+      ]
     },
     {
       "id": "26DBDA4E75F7E277",
@@ -66,10 +74,12 @@
       "tasks": [
         {
           "id": "3157B4EAE95038C2",
-          "type": "checkmark"
+          "type": "item",
+          "item": "gtceu:hv_machine_hull",
+          "count": 1,
+          "consume_items": false
         }
-      ],
-      "optional": true
+      ]
     },
     {
       "id": "5BD567E09BE0C71D",
@@ -79,10 +89,12 @@
       "tasks": [
         {
           "id": "3521C70C1D3327E1",
-          "type": "checkmark"
+          "type": "item",
+          "item": "gtceu:ev_machine_hull",
+          "count": 1,
+          "consume_items": false
         }
-      ],
-      "optional": true
+      ]
     },
     {
       "id": "18C47E282A6283DD",
@@ -92,10 +104,12 @@
       "tasks": [
         {
           "id": "487E989067F6CFAC",
-          "type": "checkmark"
+          "type": "item",
+          "item": "gtceu:iv_machine_hull",
+          "count": 1,
+          "consume_items": false
         }
-      ],
-      "optional": true
+      ]
     },
     {
       "id": "2496467BC272E48D",
@@ -105,10 +119,12 @@
       "tasks": [
         {
           "id": "79FA45E9DB321B58",
-          "type": "checkmark"
+          "type": "item",
+          "item": "gtceu:luv_machine_hull",
+          "count": 1,
+          "consume_items": false
         }
-      ],
-      "optional": true
+      ]
     },
     {
       "id": "5C120007BA6FE1C0",
@@ -118,10 +134,12 @@
       "tasks": [
         {
           "id": "2F5BE7C18210B1D0",
-          "type": "checkmark"
+          "type": "item",
+          "item": "gtceu:zpm_machine_hull",
+          "count": 1,
+          "consume_items": false
         }
-      ],
-      "optional": true
+      ]
     },
     {
       "id": "49202C8535C19805",
@@ -131,10 +149,12 @@
       "tasks": [
         {
           "id": "4F4129A9206C96A4",
-          "type": "checkmark"
+          "type": "item",
+          "item": "gtceu:uv_machine_hull",
+          "count": 1,
+          "consume_items": false
         }
-      ],
-      "optional": true
+      ]
     },
     {
       "id": "7BF49C8C1B5F8107",
@@ -144,10 +164,12 @@
       "tasks": [
         {
           "id": "5B40D258BADD89AB",
-          "type": "checkmark"
+          "type": "item",
+          "item": "gtceu:uhv_machine_hull",
+          "count": 1,
+          "consume_items": false
         }
-      ],
-      "optional": true
+      ]
     },
     {
       "id": "49DEB3F88B437209",
@@ -264,23 +286,8 @@
       ]
     },
     {
-      "id": "7A720FA7572E7440",
-      "x": 1.0,
-      "y": 2.0,
-      "icon": "gtceu:microchip_processor",
-      "tasks": [
-        {
-          "id": "77A403F4534F1643",
-          "type": "item",
-          "item": "gtceu:microchip_processor",
-          "count": 1,
-          "consume_items": false
-        }
-      ]
-    },
-    {
       "id": "51B2E4D45B81F39C",
-      "x": 2.0,
+      "x": 1.0,
       "y": 2.0,
       "icon": "gtceu:micro_processor",
       "tasks": [
@@ -291,14 +298,11 @@
           "count": 1,
           "consume_items": false
         }
-      ],
-      "dependencies": [
-        "7A720FA7572E7440"
       ]
     },
     {
       "id": "57D21A63046E575F",
-      "x": 3.0,
+      "x": 2.0,
       "y": 2.0,
       "icon": "gtceu:micro_processor_assembly",
       "tasks": [
@@ -316,7 +320,7 @@
     },
     {
       "id": "2B79EE7BA5C8DAE9",
-      "x": 4.0,
+      "x": 3.0,
       "y": 2.0,
       "icon": "gtceu:micro_processor_computer",
       "tasks": [
@@ -334,7 +338,7 @@
     },
     {
       "id": "3B4D1D488E98915C",
-      "x": 5.0,
+      "x": 4.0,
       "y": 2.0,
       "icon": "gtceu:micro_processor_mainframe",
       "tasks": [
@@ -358,11 +362,12 @@
       "tasks": [
         {
           "id": "4D72FC2E3A01C3E2",
-          "type": "checkmark"
+          "type": "item",
+          "item": "gtceu:nano_processor",
+          "count": 1,
+          "consume_items": false
         }
-      ],
-      "optional": true,
-      "shape": "diamond"
+      ]
     },
     {
       "id": "46371BD898F30B9D",
@@ -372,14 +377,15 @@
       "tasks": [
         {
           "id": "265D2459A6F1CE13",
-          "type": "checkmark"
+          "type": "item",
+          "item": "gtceu:nano_processor_assembly",
+          "count": 1,
+          "consume_items": false
         }
       ],
       "dependencies": [
         "04D7891740B4AD10"
-      ],
-      "optional": true,
-      "shape": "diamond"
+      ]
     },
     {
       "id": "38C1E1366568618F",
@@ -389,14 +395,15 @@
       "tasks": [
         {
           "id": "08D99816CEEFFACB",
-          "type": "checkmark"
+          "type": "item",
+          "item": "gtceu:nano_processor_computer",
+          "count": 1,
+          "consume_items": false
         }
       ],
       "dependencies": [
         "46371BD898F30B9D"
-      ],
-      "optional": true,
-      "shape": "diamond"
+      ]
     },
     {
       "id": "779F1F2E2DD938C1",
@@ -406,279 +413,300 @@
       "tasks": [
         {
           "id": "12F64B55C1C74601",
-          "type": "checkmark"
+          "type": "item",
+          "item": "gtceu:nano_processor_mainframe",
+          "count": 1,
+          "consume_items": false
         }
       ],
       "dependencies": [
         "38C1E1366568618F"
-      ],
-      "optional": true,
-      "shape": "diamond"
+      ]
     },
     {
       "id": "7F7A751BD8508DD6",
       "x": 3.0,
-      "y": 4.0,
+      "y": 5.0,
       "icon": "grega_core:laminated_nano_processor",
       "tasks": [
         {
           "id": "706A2F0AC29F1BC2",
-          "type": "checkmark"
+          "type": "item",
+          "item": "grega_core:laminated_nano_processor",
+          "count": 1,
+          "consume_items": false
         }
       ],
-      "optional": true,
-      "shape": "diamond"
+      "dependencies": [
+        "55CA1D72341E3960",
+        "5A3EDC862536E995"
+      ]
     },
     {
       "id": "15C58CA45BA98B8B",
       "x": 4.0,
-      "y": 4.0,
+      "y": 5.0,
       "icon": "grega_core:laminated_nano_processor_assembly",
       "tasks": [
         {
           "id": "035AD1675F93FA7B",
-          "type": "checkmark"
+          "type": "item",
+          "item": "grega_core:laminated_nano_processor_assembly",
+          "count": 1,
+          "consume_items": false
         }
       ],
       "dependencies": [
         "7F7A751BD8508DD6"
-      ],
-      "optional": true,
-      "shape": "diamond"
+      ]
     },
     {
       "id": "322E46AAE7D69913",
       "x": 5.0,
-      "y": 4.0,
+      "y": 5.0,
       "icon": "grega_core:laminated_nano_processor_computer",
       "tasks": [
         {
           "id": "48C00EAE21C94D7B",
-          "type": "checkmark"
+          "type": "item",
+          "item": "grega_core:laminated_nano_processor_computer",
+          "count": 1,
+          "consume_items": false
         }
       ],
       "dependencies": [
         "15C58CA45BA98B8B"
-      ],
-      "optional": true,
-      "shape": "diamond"
+      ]
     },
     {
       "id": "2616BE8183B1D4BD",
       "x": 6.0,
-      "y": 4.0,
+      "y": 5.0,
       "icon": "grega_core:laminated_nano_processor_mainframe",
       "tasks": [
         {
           "id": "5B723245A1767582",
-          "type": "checkmark"
+          "type": "item",
+          "item": "grega_core:laminated_nano_processor_mainframe",
+          "count": 1,
+          "consume_items": false
         }
       ],
       "dependencies": [
         "322E46AAE7D69913"
-      ],
-      "optional": true,
-      "shape": "diamond"
+      ]
     },
     {
       "id": "294283C34AE97D04",
       "x": 4.0,
-      "y": 5.0,
+      "y": 6.0,
       "icon": "gtceu:quantum_processor",
       "tasks": [
         {
           "id": "4DD7969368F20649",
-          "type": "checkmark"
+          "type": "item",
+          "item": "gtceu:quantum_processor",
+          "count": 1,
+          "consume_items": false
         }
-      ],
-      "optional": true,
-      "shape": "diamond"
+      ]
     },
     {
       "id": "0235C85E73D1E61A",
       "x": 5.0,
-      "y": 5.0,
+      "y": 6.0,
       "icon": "gtceu:quantum_processor_assembly",
       "tasks": [
         {
           "id": "03131CD41EA66DBE",
-          "type": "checkmark"
+          "type": "item",
+          "item": "gtceu:quantum_processor_assembly",
+          "count": 1,
+          "consume_items": false
         }
       ],
       "dependencies": [
         "294283C34AE97D04"
-      ],
-      "optional": true,
-      "shape": "diamond"
+      ]
     },
     {
       "id": "4906DCE219C4A5BD",
       "x": 6.0,
-      "y": 5.0,
+      "y": 6.0,
       "icon": "gtceu:quantum_processor_computer",
       "tasks": [
         {
           "id": "6A06E3ECCC970E65",
-          "type": "checkmark"
+          "type": "item",
+          "item": "gtceu:quantum_processor_computer",
+          "count": 1,
+          "consume_items": false
         }
       ],
       "dependencies": [
         "0235C85E73D1E61A"
-      ],
-      "optional": true,
-      "shape": "diamond"
+      ]
     },
     {
       "id": "3B5CC1B66231F1FA",
       "x": 7.0,
-      "y": 5.0,
+      "y": 6.0,
       "icon": "gtceu:quantum_processor_mainframe",
       "tasks": [
         {
           "id": "10FF8D630D7D7F16",
-          "type": "checkmark"
+          "type": "item",
+          "item": "gtceu:quantum_processor_mainframe",
+          "count": 1,
+          "consume_items": false
         }
       ],
       "dependencies": [
         "4906DCE219C4A5BD"
-      ],
-      "optional": true,
-      "shape": "diamond"
+      ]
     },
     {
       "id": "2D11BC6CAE596926",
       "x": 5.0,
-      "y": 6.0,
+      "y": 7.0,
       "icon": "gtceu:crystal_processor",
       "tasks": [
         {
           "id": "04A65706CDD4F59B",
-          "type": "checkmark"
+          "type": "item",
+          "item": "gtceu:crystal_processor",
+          "count": 1,
+          "consume_items": false
         }
-      ],
-      "optional": true,
-      "shape": "diamond"
+      ]
     },
     {
       "id": "4B379ACA08A9FD67",
       "x": 6.0,
-      "y": 6.0,
+      "y": 7.0,
       "icon": "gtceu:crystal_processor_assembly",
       "tasks": [
         {
           "id": "0FAC233AA32D03A5",
-          "type": "checkmark"
+          "type": "item",
+          "item": "gtceu:crystal_processor_assembly",
+          "count": 1,
+          "consume_items": false
         }
       ],
       "dependencies": [
         "2D11BC6CAE596926"
-      ],
-      "optional": true,
-      "shape": "diamond"
+      ]
     },
     {
       "id": "4D577B12C0BBF611",
       "x": 7.0,
-      "y": 6.0,
+      "y": 7.0,
       "icon": "gtceu:crystal_processor_computer",
       "tasks": [
         {
           "id": "6E1E4E8056FC89AA",
-          "type": "checkmark"
+          "type": "item",
+          "item": "gtceu:crystal_processor_computer",
+          "count": 1,
+          "consume_items": false
         }
       ],
       "dependencies": [
         "4B379ACA08A9FD67"
-      ],
-      "optional": true,
-      "shape": "diamond"
+      ]
     },
     {
       "id": "6405515CF14B74BE",
       "x": 8.0,
-      "y": 6.0,
+      "y": 7.0,
       "icon": "gtceu:crystal_processor_mainframe",
       "tasks": [
         {
           "id": "49504DAB9C059E8B",
-          "type": "checkmark"
+          "type": "item",
+          "item": "gtceu:crystal_processor_mainframe",
+          "count": 1,
+          "consume_items": false
         }
       ],
       "dependencies": [
         "4D577B12C0BBF611"
-      ],
-      "optional": true,
-      "shape": "diamond"
+      ]
     },
     {
       "id": "7A819A935174FA6B",
       "x": 6.0,
-      "y": 7.0,
+      "y": 8.0,
       "icon": "gtceu:wetware_processor",
       "tasks": [
         {
           "id": "259F5BDC19721ECA",
-          "type": "checkmark"
+          "type": "item",
+          "item": "gtceu:wetware_processor",
+          "count": 1,
+          "consume_items": false
         }
-      ],
-      "optional": true,
-      "shape": "diamond"
+      ]
     },
     {
       "id": "06C2363AE1E4CD32",
       "x": 7.0,
-      "y": 7.0,
+      "y": 8.0,
       "icon": "gtceu:wetware_processor_assembly",
       "tasks": [
         {
           "id": "725D1FD0925FEC32",
-          "type": "checkmark"
+          "type": "item",
+          "item": "gtceu:wetware_processor_assembly",
+          "count": 1,
+          "consume_items": false
         }
       ],
       "dependencies": [
         "7A819A935174FA6B"
-      ],
-      "optional": true,
-      "shape": "diamond"
+      ]
     },
     {
       "id": "6109EA2124D283C3",
       "x": 8.0,
-      "y": 7.0,
+      "y": 8.0,
       "icon": "gtceu:wetware_processor_computer",
       "tasks": [
         {
           "id": "36B98B694D7783DC",
-          "type": "checkmark"
+          "type": "item",
+          "item": "gtceu:wetware_processor_computer",
+          "count": 1,
+          "consume_items": false
         }
       ],
       "dependencies": [
         "06C2363AE1E4CD32"
-      ],
-      "optional": true,
-      "shape": "diamond"
+      ]
     },
     {
       "id": "35564F7453141C8A",
       "x": 9.0,
-      "y": 7.0,
+      "y": 8.0,
       "icon": "gtceu:wetware_processor_mainframe",
       "tasks": [
         {
           "id": "3F9E16CBAEBC1919",
-          "type": "checkmark"
+          "type": "item",
+          "item": "gtceu:wetware_processor_mainframe",
+          "count": 1,
+          "consume_items": false
         }
       ],
       "dependencies": [
         "6109EA2124D283C3"
-      ],
-      "optional": true,
-      "shape": "diamond"
+      ]
     },
     {
       "id": "2C7F1E70249B2744",
       "x": 0.0,
-      "y": 9.0,
+      "y": 10.0,
       "icon": "gtceu:wrought_iron_ingot",
       "tasks": [
         {
@@ -693,7 +721,7 @@
     {
       "id": "665153AB06F02835",
       "x": 0.0,
-      "y": 10.0,
+      "y": 11.0,
       "icon": "gtceu:bronze_ingot",
       "tasks": [
         {
@@ -708,7 +736,7 @@
     {
       "id": "1A2D4DE137808A84",
       "x": 1.0,
-      "y": 9.0,
+      "y": 10.0,
       "icon": "gtceu:steel_ingot",
       "tasks": [
         {
@@ -723,7 +751,7 @@
     {
       "id": "3F1E5FA4738A8CDA",
       "x": 2.0,
-      "y": 9.0,
+      "y": 10.0,
       "icon": "gtceu:aluminium_ingot",
       "tasks": [
         {
@@ -738,7 +766,7 @@
     {
       "id": "29174284BE95D415",
       "x": 2.0,
-      "y": 10.0,
+      "y": 11.0,
       "icon": "gtceu:gallium_ingot",
       "tasks": [
         {
@@ -753,7 +781,7 @@
     {
       "id": "2570A13E0B9D3103",
       "x": 3.0,
-      "y": 9.0,
+      "y": 10.0,
       "icon": "gtceu:stainless_steel_ingot",
       "tasks": [
         {
@@ -768,7 +796,7 @@
     {
       "id": "58BC469662794E68",
       "x": 4.0,
-      "y": 9.0,
+      "y": 10.0,
       "icon": "gtceu:titanium_ingot",
       "tasks": [
         {
@@ -783,7 +811,7 @@
     {
       "id": "64D9720B463056F1",
       "x": 4.0,
-      "y": 10.0,
+      "y": 11.0,
       "icon": "gtceu:platinum_ingot",
       "tasks": [
         {
@@ -798,7 +826,7 @@
     {
       "id": "37EEC5FAAF951001",
       "x": 5.0,
-      "y": 9.0,
+      "y": 10.0,
       "icon": "gtceu:tungsten_steel_ingot",
       "tasks": [
         {
@@ -813,7 +841,7 @@
     {
       "id": "7BB35D81F18D7F73",
       "x": 5.0,
-      "y": 10.0,
+      "y": 11.0,
       "icon": "gtceu:tungsten_ingot",
       "tasks": [
         {
@@ -828,7 +856,7 @@
     {
       "id": "4F2CE5032FABD81A",
       "x": 6.0,
-      "y": 9.0,
+      "y": 10.0,
       "icon": "gtceu:rhodium_plated_palladium_ingot",
       "tasks": [
         {
@@ -843,7 +871,7 @@
     {
       "id": "667D78EFE7C82857",
       "x": 7.0,
-      "y": 9.0,
+      "y": 10.0,
       "icon": "gtceu:naquadah_alloy_ingot",
       "tasks": [
         {
@@ -858,7 +886,7 @@
     {
       "id": "7806CE12C1200F10",
       "x": 8.0,
-      "y": 9.0,
+      "y": 10.0,
       "icon": "gtceu:darmstadtium_ingot",
       "tasks": [
         {
@@ -873,7 +901,7 @@
     {
       "id": "71B6786C67170E78",
       "x": 9.0,
-      "y": 9.0,
+      "y": 10.0,
       "icon": "gtceu:neutronium_ingot",
       "tasks": [
         {
@@ -888,7 +916,7 @@
     {
       "id": "278A720D78DA89C1",
       "x": 2.0,
-      "y": 12.0,
+      "y": 13.0,
       "icon": "gtceu:cupronickel_coil_block",
       "tasks": [
         {
@@ -903,7 +931,7 @@
     {
       "id": "42DF6DC0A9F0D4CC",
       "x": 3.0,
-      "y": 12.0,
+      "y": 13.0,
       "icon": "gtceu:kanthal_coil_block",
       "tasks": [
         {
@@ -921,7 +949,7 @@
     {
       "id": "3A45D18C384737DF",
       "x": 4.0,
-      "y": 12.0,
+      "y": 13.0,
       "icon": "gtceu:nichrome_coil_block",
       "tasks": [
         {
@@ -939,7 +967,7 @@
     {
       "id": "4DE3082C5A2AF1F6",
       "x": 5.0,
-      "y": 12.0,
+      "y": 13.0,
       "icon": "gtceu:rtm_alloy_coil_block",
       "tasks": [
         {
@@ -957,7 +985,7 @@
     {
       "id": "13584524A9C5BAC4",
       "x": 6.0,
-      "y": 12.0,
+      "y": 13.0,
       "icon": "gtceu:hssg_coil_block",
       "tasks": [
         {
@@ -975,7 +1003,7 @@
     {
       "id": "5331CF8D11929E3A",
       "x": 7.0,
-      "y": 12.0,
+      "y": 13.0,
       "icon": "gtceu:naquadah_coil_block",
       "tasks": [
         {
@@ -993,7 +1021,7 @@
     {
       "id": "43C773B4094BDF6C",
       "x": 8.0,
-      "y": 12.0,
+      "y": 13.0,
       "icon": "gtceu:trinium_coil_block",
       "tasks": [
         {
@@ -1011,7 +1039,7 @@
     {
       "id": "04EF2F3B87B14CB1",
       "x": 9.0,
-      "y": 12.0,
+      "y": 13.0,
       "icon": "gtceu:tritanium_coil_block",
       "tasks": [
         {
@@ -1024,6 +1052,54 @@
       ],
       "dependencies": [
         "43C773B4094BDF6C"
+      ]
+    },
+    {
+      "id": "FFC94B3C45A5C5A3",
+      "x": 2,
+      "y": 4.0,
+      "icon": "grega_core:via_substrate",
+      "tasks": [
+        {
+          "id": "B6DDFFC50DF95ED3",
+          "type": "item",
+          "item": "grega_core:via_substrate",
+          "count": 1,
+          "consume_items": false
+        }
+      ]
+    },
+    {
+      "id": "55CA1D72341E3960",
+      "x": 3,
+      "y": 4.0,
+      "icon": "grega_core:bonded_nano_die",
+      "tasks": [
+        {
+          "id": "2B22470EE26D3A0A",
+          "type": "item",
+          "item": "grega_core:bonded_nano_die",
+          "count": 1,
+          "consume_items": false
+        }
+      ]
+    },
+    {
+      "id": "5A3EDC862536E995",
+      "x": 4,
+      "y": 4.0,
+      "icon": "grega_core:multilayer_interconnect",
+      "tasks": [
+        {
+          "id": "578386F898FF6147",
+          "type": "item",
+          "item": "grega_core:multilayer_interconnect",
+          "count": 1,
+          "consume_items": false
+        }
+      ],
+      "dependencies": [
+        "FFC94B3C45A5C5A3"
       ]
     }
   ],
