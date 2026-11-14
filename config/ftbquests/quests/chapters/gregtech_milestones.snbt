@@ -426,7 +426,7 @@
     {
       "id": "7F7A751BD8508DD6",
       "x": 3.0,
-      "y": 5.0,
+      "y": 4.0,
       "icon": "grega_core:laminated_nano_processor",
       "tasks": [
         {
@@ -436,16 +436,12 @@
           "count": 1,
           "consume_items": false
         }
-      ],
-      "dependencies": [
-        "55CA1D72341E3960",
-        "5A3EDC862536E995"
       ]
     },
     {
       "id": "15C58CA45BA98B8B",
       "x": 4.0,
-      "y": 5.0,
+      "y": 4.0,
       "icon": "grega_core:laminated_nano_processor_assembly",
       "tasks": [
         {
@@ -463,7 +459,7 @@
     {
       "id": "322E46AAE7D69913",
       "x": 5.0,
-      "y": 5.0,
+      "y": 4.0,
       "icon": "grega_core:laminated_nano_processor_computer",
       "tasks": [
         {
@@ -481,7 +477,7 @@
     {
       "id": "2616BE8183B1D4BD",
       "x": 6.0,
-      "y": 5.0,
+      "y": 4.0,
       "icon": "grega_core:laminated_nano_processor_mainframe",
       "tasks": [
         {
@@ -499,7 +495,7 @@
     {
       "id": "294283C34AE97D04",
       "x": 4.0,
-      "y": 6.0,
+      "y": 5.0,
       "icon": "gtceu:quantum_processor",
       "tasks": [
         {
@@ -514,7 +510,7 @@
     {
       "id": "0235C85E73D1E61A",
       "x": 5.0,
-      "y": 6.0,
+      "y": 5.0,
       "icon": "gtceu:quantum_processor_assembly",
       "tasks": [
         {
@@ -532,7 +528,7 @@
     {
       "id": "4906DCE219C4A5BD",
       "x": 6.0,
-      "y": 6.0,
+      "y": 5.0,
       "icon": "gtceu:quantum_processor_computer",
       "tasks": [
         {
@@ -550,7 +546,7 @@
     {
       "id": "3B5CC1B66231F1FA",
       "x": 7.0,
-      "y": 6.0,
+      "y": 5.0,
       "icon": "gtceu:quantum_processor_mainframe",
       "tasks": [
         {
@@ -568,7 +564,7 @@
     {
       "id": "2D11BC6CAE596926",
       "x": 5.0,
-      "y": 7.0,
+      "y": 6.0,
       "icon": "gtceu:crystal_processor",
       "tasks": [
         {
@@ -583,7 +579,7 @@
     {
       "id": "4B379ACA08A9FD67",
       "x": 6.0,
-      "y": 7.0,
+      "y": 6.0,
       "icon": "gtceu:crystal_processor_assembly",
       "tasks": [
         {
@@ -601,7 +597,7 @@
     {
       "id": "4D577B12C0BBF611",
       "x": 7.0,
-      "y": 7.0,
+      "y": 6.0,
       "icon": "gtceu:crystal_processor_computer",
       "tasks": [
         {
@@ -619,7 +615,7 @@
     {
       "id": "6405515CF14B74BE",
       "x": 8.0,
-      "y": 7.0,
+      "y": 6.0,
       "icon": "gtceu:crystal_processor_mainframe",
       "tasks": [
         {
@@ -637,7 +633,7 @@
     {
       "id": "7A819A935174FA6B",
       "x": 6.0,
-      "y": 8.0,
+      "y": 7.0,
       "icon": "gtceu:wetware_processor",
       "tasks": [
         {
@@ -652,7 +648,7 @@
     {
       "id": "06C2363AE1E4CD32",
       "x": 7.0,
-      "y": 8.0,
+      "y": 7.0,
       "icon": "gtceu:wetware_processor_assembly",
       "tasks": [
         {
@@ -670,7 +666,7 @@
     {
       "id": "6109EA2124D283C3",
       "x": 8.0,
-      "y": 8.0,
+      "y": 7.0,
       "icon": "gtceu:wetware_processor_computer",
       "tasks": [
         {
@@ -688,7 +684,7 @@
     {
       "id": "35564F7453141C8A",
       "x": 9.0,
-      "y": 8.0,
+      "y": 7.0,
       "icon": "gtceu:wetware_processor_mainframe",
       "tasks": [
         {
@@ -706,7 +702,7 @@
     {
       "id": "2C7F1E70249B2744",
       "x": 0.0,
-      "y": 10.0,
+      "y": 9.0,
       "icon": "gtceu:wrought_iron_ingot",
       "tasks": [
         {
@@ -721,7 +717,7 @@
     {
       "id": "665153AB06F02835",
       "x": 0.0,
-      "y": 11.0,
+      "y": 10.0,
       "icon": "gtceu:bronze_ingot",
       "tasks": [
         {
@@ -736,7 +732,7 @@
     {
       "id": "1A2D4DE137808A84",
       "x": 1.0,
-      "y": 10.0,
+      "y": 9.0,
       "icon": "gtceu:steel_ingot",
       "tasks": [
         {
@@ -751,7 +747,7 @@
     {
       "id": "3F1E5FA4738A8CDA",
       "x": 2.0,
-      "y": 10.0,
+      "y": 9.0,
       "icon": "gtceu:aluminium_ingot",
       "tasks": [
         {
@@ -766,7 +762,7 @@
     {
       "id": "29174284BE95D415",
       "x": 2.0,
-      "y": 11.0,
+      "y": 10.0,
       "icon": "gtceu:gallium_ingot",
       "tasks": [
         {
@@ -781,7 +777,7 @@
     {
       "id": "2570A13E0B9D3103",
       "x": 3.0,
-      "y": 10.0,
+      "y": 9.0,
       "icon": "gtceu:stainless_steel_ingot",
       "tasks": [
         {
@@ -796,7 +792,7 @@
     {
       "id": "58BC469662794E68",
       "x": 4.0,
-      "y": 10.0,
+      "y": 9.0,
       "icon": "gtceu:titanium_ingot",
       "tasks": [
         {
@@ -811,7 +807,7 @@
     {
       "id": "64D9720B463056F1",
       "x": 4.0,
-      "y": 11.0,
+      "y": 10.0,
       "icon": "gtceu:platinum_ingot",
       "tasks": [
         {
@@ -826,7 +822,7 @@
     {
       "id": "37EEC5FAAF951001",
       "x": 5.0,
-      "y": 10.0,
+      "y": 9.0,
       "icon": "gtceu:tungsten_steel_ingot",
       "tasks": [
         {
@@ -841,7 +837,7 @@
     {
       "id": "7BB35D81F18D7F73",
       "x": 5.0,
-      "y": 11.0,
+      "y": 10.0,
       "icon": "gtceu:tungsten_ingot",
       "tasks": [
         {
@@ -856,7 +852,7 @@
     {
       "id": "4F2CE5032FABD81A",
       "x": 6.0,
-      "y": 10.0,
+      "y": 9.0,
       "icon": "gtceu:rhodium_plated_palladium_ingot",
       "tasks": [
         {
@@ -871,7 +867,7 @@
     {
       "id": "667D78EFE7C82857",
       "x": 7.0,
-      "y": 10.0,
+      "y": 9.0,
       "icon": "gtceu:naquadah_alloy_ingot",
       "tasks": [
         {
@@ -886,7 +882,7 @@
     {
       "id": "7806CE12C1200F10",
       "x": 8.0,
-      "y": 10.0,
+      "y": 9.0,
       "icon": "gtceu:darmstadtium_ingot",
       "tasks": [
         {
@@ -901,7 +897,7 @@
     {
       "id": "71B6786C67170E78",
       "x": 9.0,
-      "y": 10.0,
+      "y": 9.0,
       "icon": "gtceu:neutronium_ingot",
       "tasks": [
         {
@@ -916,7 +912,7 @@
     {
       "id": "278A720D78DA89C1",
       "x": 2.0,
-      "y": 13.0,
+      "y": 12.0,
       "icon": "gtceu:cupronickel_coil_block",
       "tasks": [
         {
@@ -931,7 +927,7 @@
     {
       "id": "42DF6DC0A9F0D4CC",
       "x": 3.0,
-      "y": 13.0,
+      "y": 12.0,
       "icon": "gtceu:kanthal_coil_block",
       "tasks": [
         {
@@ -949,7 +945,7 @@
     {
       "id": "3A45D18C384737DF",
       "x": 4.0,
-      "y": 13.0,
+      "y": 12.0,
       "icon": "gtceu:nichrome_coil_block",
       "tasks": [
         {
@@ -967,7 +963,7 @@
     {
       "id": "4DE3082C5A2AF1F6",
       "x": 5.0,
-      "y": 13.0,
+      "y": 12.0,
       "icon": "gtceu:rtm_alloy_coil_block",
       "tasks": [
         {
@@ -985,7 +981,7 @@
     {
       "id": "13584524A9C5BAC4",
       "x": 6.0,
-      "y": 13.0,
+      "y": 12.0,
       "icon": "gtceu:hssg_coil_block",
       "tasks": [
         {
@@ -1003,7 +999,7 @@
     {
       "id": "5331CF8D11929E3A",
       "x": 7.0,
-      "y": 13.0,
+      "y": 12.0,
       "icon": "gtceu:naquadah_coil_block",
       "tasks": [
         {
@@ -1021,7 +1017,7 @@
     {
       "id": "43C773B4094BDF6C",
       "x": 8.0,
-      "y": 13.0,
+      "y": 12.0,
       "icon": "gtceu:trinium_coil_block",
       "tasks": [
         {
@@ -1039,7 +1035,7 @@
     {
       "id": "04EF2F3B87B14CB1",
       "x": 9.0,
-      "y": 13.0,
+      "y": 12.0,
       "icon": "gtceu:tritanium_coil_block",
       "tasks": [
         {
@@ -1052,54 +1048,6 @@
       ],
       "dependencies": [
         "43C773B4094BDF6C"
-      ]
-    },
-    {
-      "id": "FFC94B3C45A5C5A3",
-      "x": 2,
-      "y": 4.0,
-      "icon": "grega_core:via_substrate",
-      "tasks": [
-        {
-          "id": "B6DDFFC50DF95ED3",
-          "type": "item",
-          "item": "grega_core:via_substrate",
-          "count": 1,
-          "consume_items": false
-        }
-      ]
-    },
-    {
-      "id": "55CA1D72341E3960",
-      "x": 3,
-      "y": 4.0,
-      "icon": "grega_core:bonded_nano_die",
-      "tasks": [
-        {
-          "id": "2B22470EE26D3A0A",
-          "type": "item",
-          "item": "grega_core:bonded_nano_die",
-          "count": 1,
-          "consume_items": false
-        }
-      ]
-    },
-    {
-      "id": "5A3EDC862536E995",
-      "x": 4,
-      "y": 4.0,
-      "icon": "grega_core:multilayer_interconnect",
-      "tasks": [
-        {
-          "id": "578386F898FF6147",
-          "type": "item",
-          "item": "grega_core:multilayer_interconnect",
-          "count": 1,
-          "consume_items": false
-        }
-      ],
-      "dependencies": [
-        "FFC94B3C45A5C5A3"
       ]
     }
   ],

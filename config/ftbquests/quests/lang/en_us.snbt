@@ -62,9 +62,9 @@
   "quest.7B899364DA8634EF.title": "The GREGA Milestone Map",
   "quest.7B899364DA8634EF.quest_desc": [
     "Columns show circuit ratings from ULV through UHV. Check the recipe viewer for manufacturing voltage. Every node detects a real item without consuming it.",
-    "Electronic and integrated names and ratings stay unchanged. The Microchip Processor is removed. Micro circuits now rate LV–EV; nano circuits rate MV–IV and use short recipes with light materials.",
-    "The independent HV–LuV laminated family is Compute Unit → Processor Core → Multicore Processor → Mainframe. Produce via substrates, bonded nano dies and multilayer interconnects first, using GregTech materials and machines.",
-    "Quantum, crystal and wetware retain their original GregTech recipes. Circuit families do not require GREGA laminated circuits. Materials and coils have their own item milestones."
+    "Electronic and integrated names and ratings stay unchanged. The Microchip Processor is removed. Micro circuits rate LV–EV; nano circuits rate MV–IV and use short recipes with light materials. From Micro onward, each family uses its own prefix followed by Compute Unit → Processor Core → Multicore Processor → High-Performance Computer.",
+    "The independent HV–LuV 3D Nano family is 3D Nano Compute Unit → 3D Nano Processor Core → 3D Nano Multicore Processor → 3D Nano High-Performance Computer. Produce via substrates, bonded nano dies and multilayer interconnects first, using GregTech materials and machines.",
+    "Quantum, crystal and wetware retain their original GregTech recipes. These families do not require GREGA 3D Nano circuits. Materials and coils have their own item milestones."
   ],
   "quest.31D93CB341C27342.title": "ULV Machine Hull",
   "quest.31D93CB341C27342.quest_desc": [
@@ -134,101 +134,101 @@
   "quest.3F9142B4A945D41A.quest_desc": [
     "Retains the existing GT circuit progression. Its rating is HV."
   ],
-  "quest.51B2E4D45B81F39C.title": "Microprocessor · LV",
+  "quest.51B2E4D45B81F39C.title": "Micro Compute Unit · LV",
   "quest.51B2E4D45B81F39C.quest_desc": [
     "Rated one tier earlier. Assemble with soldering alloy in a circuit assembler; manufacturing voltage is also reduced."
   ],
-  "quest.57D21A63046E575F.title": "Microprocessor Assembly · MV",
+  "quest.57D21A63046E575F.title": "Micro Processor Core · MV",
   "quest.57D21A63046E575F.quest_desc": [
     "Rated one tier earlier. Assemble with soldering alloy in a circuit assembler; manufacturing voltage is also reduced."
   ],
-  "quest.2B79EE7BA5C8DAE9.title": "Microprocessor Computer · HV",
+  "quest.2B79EE7BA5C8DAE9.title": "Micro Multicore Processor · HV",
   "quest.2B79EE7BA5C8DAE9.quest_desc": [
     "Rated one tier earlier. Assemble with soldering alloy in a circuit assembler; manufacturing voltage is also reduced."
   ],
-  "quest.3B4D1D488E98915C.title": "Microprocessor Mainframe · EV",
+  "quest.3B4D1D488E98915C.title": "Micro High-Performance Computer · EV",
   "quest.3B4D1D488E98915C.quest_desc": [
     "Rated one tier earlier. Assemble with soldering alloy in a circuit assembler; manufacturing voltage is also reduced."
   ],
-  "quest.04D7891740B4AD10.title": "Nano Processor · MV",
+  "quest.04D7891740B4AD10.title": "Nano Compute Unit · MV",
   "quest.04D7891740B4AD10.quest_desc": [
     "A light transition: coat nano CPU dies in an MV forming press, then build all four circuits in circuit assemblers. Short recipes require no cleanroom."
   ],
-  "quest.46371BD898F30B9D.title": "Nano Processor Assembly · HV",
+  "quest.46371BD898F30B9D.title": "Nano Processor Core · HV",
   "quest.46371BD898F30B9D.quest_desc": [
     "A light transition: coat nano CPU dies in an MV forming press, then build all four circuits in circuit assemblers. Short recipes require no cleanroom."
   ],
-  "quest.38C1E1366568618F.title": "Nano Processor Computer · EV",
+  "quest.38C1E1366568618F.title": "Nano Multicore Processor · EV",
   "quest.38C1E1366568618F.quest_desc": [
     "A light transition: coat nano CPU dies in an MV forming press, then build all four circuits in circuit assemblers. Short recipes require no cleanroom."
   ],
-  "quest.779F1F2E2DD938C1.title": "Nano Processor Mainframe · IV",
+  "quest.779F1F2E2DD938C1.title": "Nano High-Performance Computer · IV",
   "quest.779F1F2E2DD938C1.quest_desc": [
     "A light transition: coat nano CPU dies in an MV forming press, then build all four circuits in circuit assemblers. Short recipes require no cleanroom."
   ],
-  "quest.7F7A751BD8508DD6.title": "Compute Unit · HV",
+  "quest.7F7A751BD8508DD6.title": "3D Nano Compute Unit · HV",
   "quest.7F7A751BD8508DD6.quest_desc": [
-    "An independent circuit family built from via substrates, bonded dies and multilayer interconnects. Higher grades combine the preceding laminated circuit; other circuit families retain their own recipes."
+    "An independent 3D Nano circuit family built from via substrates, bonded dies and multilayer interconnects. Higher grades combine the preceding 3D Nano circuit; other circuit families retain their own recipes."
   ],
-  "quest.15C58CA45BA98B8B.title": "Processor Core · EV",
+  "quest.15C58CA45BA98B8B.title": "3D Nano Processor Core · EV",
   "quest.15C58CA45BA98B8B.quest_desc": [
-    "An independent circuit family built from via substrates, bonded dies and multilayer interconnects. Higher grades combine the preceding laminated circuit; other circuit families retain their own recipes."
+    "An independent 3D Nano circuit family built from via substrates, bonded dies and multilayer interconnects. Higher grades combine the preceding 3D Nano circuit; other circuit families retain their own recipes."
   ],
-  "quest.322E46AAE7D69913.title": "Multicore Processor · IV",
+  "quest.322E46AAE7D69913.title": "3D Nano Multicore Processor · IV",
   "quest.322E46AAE7D69913.quest_desc": [
-    "An independent circuit family built from via substrates, bonded dies and multilayer interconnects. Higher grades combine the preceding laminated circuit; other circuit families retain their own recipes."
+    "An independent 3D Nano circuit family built from via substrates, bonded dies and multilayer interconnects. Higher grades combine the preceding 3D Nano circuit; other circuit families retain their own recipes."
   ],
-  "quest.2616BE8183B1D4BD.title": "Mainframe · LuV",
+  "quest.2616BE8183B1D4BD.title": "3D Nano High-Performance Computer · LuV",
   "quest.2616BE8183B1D4BD.quest_desc": [
-    "An independent circuit family built from via substrates, bonded dies and multilayer interconnects. Higher grades combine the preceding laminated circuit; other circuit families retain their own recipes."
+    "An independent 3D Nano circuit family built from via substrates, bonded dies and multilayer interconnects. Higher grades combine the preceding 3D Nano circuit; other circuit families retain their own recipes."
   ],
-  "quest.294283C34AE97D04.title": "Quantum Processor · EV",
+  "quest.294283C34AE97D04.title": "Quantum Compute Unit · EV",
   "quest.294283C34AE97D04.quest_desc": [
-    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA laminated components."
+    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA 3D Nano components."
   ],
-  "quest.0235C85E73D1E61A.title": "Quantum Processor Assembly · IV",
+  "quest.0235C85E73D1E61A.title": "Quantum Processor Core · IV",
   "quest.0235C85E73D1E61A.quest_desc": [
-    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA laminated components."
+    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA 3D Nano components."
   ],
-  "quest.4906DCE219C4A5BD.title": "Quantum Processor Computer · LuV",
+  "quest.4906DCE219C4A5BD.title": "Quantum Multicore Processor · LuV",
   "quest.4906DCE219C4A5BD.quest_desc": [
-    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA laminated components."
+    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA 3D Nano components."
   ],
-  "quest.3B5CC1B66231F1FA.title": "Quantum Processor Mainframe · ZPM",
+  "quest.3B5CC1B66231F1FA.title": "Quantum High-Performance Computer · ZPM",
   "quest.3B5CC1B66231F1FA.quest_desc": [
-    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA laminated components."
+    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA 3D Nano components."
   ],
-  "quest.2D11BC6CAE596926.title": "Crystal Processor · IV",
+  "quest.2D11BC6CAE596926.title": "Crystal Compute Unit · IV",
   "quest.2D11BC6CAE596926.quest_desc": [
-    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA laminated components."
+    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA 3D Nano components."
   ],
-  "quest.4B379ACA08A9FD67.title": "Crystal Processor Assembly · LuV",
+  "quest.4B379ACA08A9FD67.title": "Crystal Processor Core · LuV",
   "quest.4B379ACA08A9FD67.quest_desc": [
-    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA laminated components."
+    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA 3D Nano components."
   ],
-  "quest.4D577B12C0BBF611.title": "Crystal Processor Computer · ZPM",
+  "quest.4D577B12C0BBF611.title": "Crystal Multicore Processor · ZPM",
   "quest.4D577B12C0BBF611.quest_desc": [
-    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA laminated components."
+    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA 3D Nano components."
   ],
-  "quest.6405515CF14B74BE.title": "Crystal Processor Mainframe · UV",
+  "quest.6405515CF14B74BE.title": "Crystal High-Performance Computer · UV",
   "quest.6405515CF14B74BE.quest_desc": [
-    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA laminated components."
+    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA 3D Nano components."
   ],
-  "quest.7A819A935174FA6B.title": "Wetware Processor · LuV",
+  "quest.7A819A935174FA6B.title": "Wetware Compute Unit · LuV",
   "quest.7A819A935174FA6B.quest_desc": [
-    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA laminated components."
+    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA 3D Nano components."
   ],
-  "quest.06C2363AE1E4CD32.title": "Wetware Processor Assembly · ZPM",
+  "quest.06C2363AE1E4CD32.title": "Wetware Processor Core · ZPM",
   "quest.06C2363AE1E4CD32.quest_desc": [
-    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA laminated components."
+    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA 3D Nano components."
   ],
-  "quest.6109EA2124D283C3.title": "Wetware Processor Computer · UV",
+  "quest.6109EA2124D283C3.title": "Wetware Multicore Processor · UV",
   "quest.6109EA2124D283C3.quest_desc": [
-    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA laminated components."
+    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA 3D Nano components."
   ],
-  "quest.35564F7453141C8A.title": "Wetware Processor Mainframe · UHV",
+  "quest.35564F7453141C8A.title": "Wetware High-Performance Computer · UHV",
   "quest.35564F7453141C8A.quest_desc": [
-    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA laminated components."
+    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA 3D Nano components."
   ],
   "quest.2C7F1E70249B2744.title": "Wrought Iron",
   "quest.2C7F1E70249B2744.quest_desc": [
@@ -317,17 +317,5 @@
   "quest.04EF2F3B87B14CB1.title": "Tritanium Coils",
   "quest.04EF2F3B87B14CB1.quest_desc": [
     "Base coil temperature: 10800 K. Coils are listed by heat capability; this is not a recipe or voltage unlock."
-  ],
-  "quest.FFC94B3C45A5C5A3.title": "Via Substrate",
-  "quest.FFC94B3C45A5C5A3.quest_desc": [
-    "Drill copper-clad plastic boards in a cutter; water cools the vias."
-  ],
-  "quest.55CA1D72341E3960.title": "Bonded Nano Die",
-  "quest.55CA1D72341E3960.quest_desc": [
-    "Bond four nano CPU dies with gold foil and silicone rubber in a forming press."
-  ],
-  "quest.5A3EDC862536E995.title": "Multilayer Interconnect",
-  "quest.5A3EDC862536E995.quest_desc": [
-    "Laminate four via substrates with copper foil, polyethylene and fine gold wire in an assembler."
   ]
 }

@@ -10,7 +10,7 @@ hash = "1ba55069c055cf0481baba31a5af7ccdb579ec3f5c9f34ff20bc2e9f7f780394"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/gregtech_milestones.snbt"
-hash = "34dd35340e5d4eacf9a1ce7ed68048420b0e8bc30fc45b737d9e66f1d4180f67"
+hash = "f541c09e24141fc177473af99f086d04b74e0913de1e412bbc74ea59ba9a0a70"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -18,11 +18,11 @@ hash = "8c0b6b56bfc86ae88269aaac768df87ba7082abb8e5ae1241f2cebdb5f25b3bc"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "d4e6fbd777bfdd6e121963c617ffb442ef29cac96d525a5528225270a6da0a04"
+hash = "4107dce52299d38517289411458f3c95a0998b5057fa8fd2e4fd34cabcc19b18"
 
 [[files]]
 file = "config/ftbquests/quests/lang/zh_cn.snbt"
-hash = "82f9f5f121df936b2518700c7af17c3c0c7e71b294ec79ecc8a8209564a5ba95"
+hash = "5f649f3dd2a81738ade38f5341487e2d931a48061e8e41815ac6a7081f8ee378"
 
 [[files]]
 file = "config/gtceu.yaml"
