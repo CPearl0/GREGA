@@ -1,329 +1,143 @@
 {
-  "file.0000000000000001.title": "GREGA",
-  "chapter.25569D0A4F2ACDAF.title": "First Gears, First Circuits",
-  "quest.2374AD6C2B265EA7.title": "Power a Mechanical Press",
-  "quest.2374AD6C2B265EA7.quest_desc": ["Grind Andesite and Zinc Ingots with a GT Mortar. Craft 3 Andesite Dust and 1 Zinc Dust into 3 Andesite Alloy Dust, then smelt it into Andesite Alloy. A steam mixer yields 4 dust from the same ingredients. Build a shaft, water wheel and Mechanical Press, then press the iron sheets for your first forge hammer."],
-  "quest.4057BD31B7AEEFA4.title": "Press Before You Hammer",
-  "quest.4057BD31B7AEEFA4.quest_desc": [
-    "Press iron ingots into six iron sheets. These are the head of your first GT hammer."
-  ],
-  "quest.4CCCA71DE7C1DF3B.title": "The First Forging Hammer",
-  "quest.4CCCA71DE7C1DF3B.quest_desc": [
-    "Combine six Create iron sheets with a wooden rod. Use GT tools and plates to build bronze steam machines; keep vents clear."
-  ],
-  "quest.6A989482F36FB02E.title": "Bronze and Steam",
-  "quest.6A989482F36FB02E.quest_desc": [
-    "Mix 3 Copper Dust and 1 Tin Dust into 4 Bronze Dust using a Create Mechanical Mixer and Basin, without heat. Crafting-table and GT mixer powder recipes are removed. Build a boiler and steam machines; the Steam Alloy Smelter supplies Red Alloy before electricity."
-  ],
-  "quest.19E0159F45B7AAEA.title": "A Furnace Made of Earth",
-  "quest.19E0159F45B7AAEA.quest_desc": [
-    "Build the GT Primitive Blast Furnace with primitive bricks. Iron or wrought iron and coal/charcoal provide your first steel; this stage needs no electric circuit."
-  ],
-  "quest.0AF73F7721E7F090.title": "The Steel Threshold",
-  "quest.0AF73F7721E7F090.quest_desc": [
-    "Prepare two Steel Plates for binding the spell book with Manasteel Dust and a Mana-infused Book. Save steel for GT tools and Basic Electronic Components too."
-  ],
-  "quest.4E20CCAD4ABA1ED3.title": "Bind a Spell Book with Steel and Mana",
-  "quest.4E20CCAD4ABA1ED3.quest_desc": [
-    "Craft in this exact 3x3 arrangement: File / Manasteel Dust / Forge Hammer; Steel Plate / Mana-infused Book / Steel Plate; Lapis Dust / Gold Dust / Redstone Dust. GT tools take normal crafting damage and are returned.",
-    "Infuse an ordinary Book in a Mana Pool with 3000 mana to make the Mana-infused Book. Use Botania's own Manasteel Ingots and grind them with a GT Mortar or Macerator. Higher spell books still upgrade from this one."
-  ],
-  "quest.47D833C0F30AC57D.title": "Travel Written in a Book",
-  "quest.47D833C0F30AC57D.quest_desc": ["At a Scribe's Table, select the four GREGA tier-one effect glyphs using your spell book. Each costs 27 XP points and its recipe ingredients. Take and use the glyph to learn it. The Glyph of Open Portal uses obsidian, a Steel Plate and a Source Gem.", "Save Touch → Open Portal in the spell editor. Cast on an inner obsidian or Aether frame face, a Twilight Forest pool, or an Elven Gateway Core. Native structure, dimension, progression and mana requirements still apply. Ordinary ignition, diamonds, water buckets and the Wand of the Forest no longer activate these gateways.", "Self → Set Home saves a safe position near your feet in the Overworld. Self → Homeward returns from any dimension. Your home survives death.", "Self → Wander performs Overworld RTP, checking up to eight safe surface locations 512–2048 blocks from spawn. Homeward and Wander share a 60-second cooldown; failed safety searches delay retries by 5 seconds. Dismount and wake up first. Effect mana costs are 80/20/80/100, plus the casting method."],
-  "quest.47D833C0F30AC57D.quest_subtitle": "Assemble travel spells in your book",
-  "task.6566FE169F275B70.title": "Obtain the Glyph of Open Portal",
-  "quest.2B63D4A0FB2EE0FF.title": "Alien Masters",
-  "quest.2B63D4A0FB2EE0FF.quest_desc": [
-    "Break a meteorite's mysterious cube to recover logic, calculation, engineering and germanium presses. Germanium is alien technology: keep it as a relic; no human recipe accepts it."
-  ],
-  "quest.09831E6BAD1F88D9.title": "The Piglin Revision",
-  "quest.09831E6BAD1F88D9.quest_desc": [
-    "Barter gold ingots with adult piglins. Their extra rewards include logic, calculation and silicon presses, with equal weights. They never supply engineering. Meteorites never supply silicon."
-  ],
-  "quest.763FB77B42C26AA4.title": "Four Usable Presses",
-  "quest.763FB77B42C26AA4.quest_desc": [
-    "You need logic, calculation, engineering and silicon. The four detection tasks do not consume your presses. Copies still require an existing master press."
-  ],
-  "quest.1111482F6BF29F70.title": "Steam Inscribing",
-  "quest.1111482F6BF29F70.quest_desc": [
-    "Craft the Steam Inscriber from a Bronze Machine Casing, six Small Bronze Fluid Pipes and two Pistons, without circuits. Supply steam and keep its vent clear. Presses are reusable; assemble printed circuits, printed silicon and Red Alloy Plates into AE processors.",
-    "Electric Inscribers are available at every standard voltage tier, using a matching Hull, two Electric Pistons, two Circuits and four Cables, with standard overclocking. AE2's original Inscriber crafting and processing recipes are removed."
-  ],
-  "quest.09E8E27A5CBB94B5.title": "The New Electronic Foundation",
-  "quest.09E8E27A5CBB94B5.quest_desc": [
-    "Craft in this exact 3×3 arrangement: hammer / file / wire cutter; logic / calculation / engineering processors; red alloy cable / steel plate / red alloy cable. GT tools return with their normal crafting damage. This part replaces vacuum tubes, including the ULV circuit tag used by the circuit assembler."
-  ],
-  "chapter.3A404246AC67A6B3.title": "GregTech Milestones",
-  "quest.7B899364DA8634EF.title": "The GREGA Milestone Map",
-  "quest.7B899364DA8634EF.quest_desc": [
-    "Columns show circuit ratings from ULV through UHV. Check the recipe viewer for manufacturing voltage. Every node detects a real item without consuming it.",
-    "Electronic and integrated names and ratings stay unchanged. The Microchip Processor is removed. Micro circuits rate LV–EV; nano circuits rate MV–IV and use short recipes with light materials. From Micro onward, each family uses its own prefix followed by Compute Unit → Processor Core → Multicore Processor → High-Performance Computer.",
-    "The independent HV–LuV 3D Nano family is 3D Nano Compute Unit → 3D Nano Processor Core → 3D Nano Multicore Processor → 3D Nano High-Performance Computer. Produce via substrates, bonded nano dies and multilayer interconnects first, using GregTech materials and machines.",
-    "Quantum, crystal and wetware retain their original GregTech recipes. These families do not require GREGA 3D Nano circuits. Materials and coils have their own item milestones."
-  ],
-  "quest.31D93CB341C27342.title": "ULV Machine Hull",
-  "quest.31D93CB341C27342.quest_desc": [
-    "Obtain this tier of machine hull. Circuits in the column are arranged by their rating; check each recipe for its manufacturing voltage."
-  ],
-  "quest.1EDDF3EFD66C7BE8.title": "LV Machine Hull",
-  "quest.1EDDF3EFD66C7BE8.quest_desc": [
-    "Obtain this tier of machine hull. Circuits in the column are arranged by their rating; check each recipe for its manufacturing voltage."
-  ],
-  "quest.403798DC7C0061F9.title": "MV Machine Hull",
-  "quest.403798DC7C0061F9.quest_desc": [
-    "Obtain this tier of machine hull. Circuits in the column are arranged by their rating; check each recipe for its manufacturing voltage."
-  ],
-  "quest.26DBDA4E75F7E277.title": "HV Machine Hull",
-  "quest.26DBDA4E75F7E277.quest_desc": [
-    "Obtain this tier of machine hull. Circuits in the column are arranged by their rating; check each recipe for its manufacturing voltage."
-  ],
-  "quest.5BD567E09BE0C71D.title": "EV Machine Hull",
-  "quest.5BD567E09BE0C71D.quest_desc": [
-    "Obtain this tier of machine hull. Circuits in the column are arranged by their rating; check each recipe for its manufacturing voltage."
-  ],
-  "quest.18C47E282A6283DD.title": "IV Machine Hull",
-  "quest.18C47E282A6283DD.quest_desc": [
-    "Obtain this tier of machine hull. Circuits in the column are arranged by their rating; check each recipe for its manufacturing voltage."
-  ],
-  "quest.2496467BC272E48D.title": "LuV Machine Hull",
-  "quest.2496467BC272E48D.quest_desc": [
-    "Obtain this tier of machine hull. Circuits in the column are arranged by their rating; check each recipe for its manufacturing voltage."
-  ],
-  "quest.5C120007BA6FE1C0.title": "ZPM Machine Hull",
-  "quest.5C120007BA6FE1C0.quest_desc": [
-    "Obtain this tier of machine hull. Circuits in the column are arranged by their rating; check each recipe for its manufacturing voltage."
-  ],
-  "quest.49202C8535C19805.title": "UV Machine Hull",
-  "quest.49202C8535C19805.quest_desc": [
-    "Obtain this tier of machine hull. Circuits in the column are arranged by their rating; check each recipe for its manufacturing voltage."
-  ],
-  "quest.7BF49C8C1B5F8107.title": "UHV Machine Hull",
-  "quest.7BF49C8C1B5F8107.quest_desc": [
-    "Obtain this tier of machine hull. Circuits in the column are arranged by their rating; check each recipe for its manufacturing voltage."
-  ],
-  "quest.49DEB3F88B437209.title": "Steam Foundation",
-  "quest.49DEB3F88B437209.quest_desc": [
-    "Create sheets lead to the first hammer; primitive steel and the Ars book lead to both sources of AE presses."
-  ],
-  "quest.432E2A1085843147.title": "Basic Electronic Component · ULV",
-  "quest.432E2A1085843147.quest_desc": [
-    "AE processors and steel replace the old vacuum tube. This is the actual ULV component used by early GT recipes."
-  ],
-  "quest.22AF2D684A44EE79.title": "Electronic Circuit · LV",
-  "quest.22AF2D684A44EE79.quest_desc": [
-    "Retains the existing GT circuit progression. Its rating is LV."
-  ],
-  "quest.67AF4278249A71EC.title": "Good Electronic Circuit · MV",
-  "quest.67AF4278249A71EC.quest_desc": [
-    "Retains the existing GT circuit progression. Its rating is MV."
-  ],
-  "quest.770E582403E4610F.title": "Integrated Logic Circuit · LV",
-  "quest.770E582403E4610F.quest_desc": [
-    "Retains the existing GT circuit progression. Its rating is LV."
-  ],
-  "quest.5D7C91AFCB1C0154.title": "Integrated Logic Processor · MV",
-  "quest.5D7C91AFCB1C0154.quest_desc": [
-    "Retains the existing GT circuit progression. Its rating is MV."
-  ],
-  "quest.3F9142B4A945D41A.title": "Integrated Logic Assembly · HV",
-  "quest.3F9142B4A945D41A.quest_desc": [
-    "Retains the existing GT circuit progression. Its rating is HV."
-  ],
-  "quest.51B2E4D45B81F39C.title": "Micro Compute Unit · LV",
-  "quest.51B2E4D45B81F39C.quest_desc": [
-    "Rated one tier earlier. Assemble with soldering alloy in a circuit assembler; manufacturing voltage is also reduced."
-  ],
-  "quest.57D21A63046E575F.title": "Micro Processor Core · MV",
-  "quest.57D21A63046E575F.quest_desc": [
-    "Rated one tier earlier. Assemble with soldering alloy in a circuit assembler; manufacturing voltage is also reduced."
-  ],
-  "quest.2B79EE7BA5C8DAE9.title": "Micro Multicore Processor · HV",
-  "quest.2B79EE7BA5C8DAE9.quest_desc": [
-    "Rated one tier earlier. Assemble with soldering alloy in a circuit assembler; manufacturing voltage is also reduced."
-  ],
-  "quest.3B4D1D488E98915C.title": "Micro High-Performance Computer · EV",
-  "quest.3B4D1D488E98915C.quest_desc": [
-    "Rated one tier earlier. Assemble with soldering alloy in a circuit assembler; manufacturing voltage is also reduced."
-  ],
-  "quest.04D7891740B4AD10.title": "Nano Compute Unit · MV",
-  "quest.04D7891740B4AD10.quest_desc": [
-    "A light transition: coat nano CPU dies in an MV forming press, then build all four circuits in circuit assemblers. Short recipes require no cleanroom."
-  ],
-  "quest.46371BD898F30B9D.title": "Nano Processor Core · HV",
-  "quest.46371BD898F30B9D.quest_desc": [
-    "A light transition: coat nano CPU dies in an MV forming press, then build all four circuits in circuit assemblers. Short recipes require no cleanroom."
-  ],
-  "quest.38C1E1366568618F.title": "Nano Multicore Processor · EV",
-  "quest.38C1E1366568618F.quest_desc": [
-    "A light transition: coat nano CPU dies in an MV forming press, then build all four circuits in circuit assemblers. Short recipes require no cleanroom."
-  ],
-  "quest.779F1F2E2DD938C1.title": "Nano High-Performance Computer · IV",
-  "quest.779F1F2E2DD938C1.quest_desc": [
-    "A light transition: coat nano CPU dies in an MV forming press, then build all four circuits in circuit assemblers. Short recipes require no cleanroom."
-  ],
-  "quest.7F7A751BD8508DD6.title": "3D Nano Compute Unit · HV",
-  "quest.7F7A751BD8508DD6.quest_desc": [
-    "An independent 3D Nano circuit family built from via substrates, bonded dies and multilayer interconnects. Higher grades combine the preceding 3D Nano circuit; other circuit families retain their own recipes."
-  ],
-  "quest.15C58CA45BA98B8B.title": "3D Nano Processor Core · EV",
-  "quest.15C58CA45BA98B8B.quest_desc": [
-    "An independent 3D Nano circuit family built from via substrates, bonded dies and multilayer interconnects. Higher grades combine the preceding 3D Nano circuit; other circuit families retain their own recipes."
-  ],
-  "quest.322E46AAE7D69913.title": "3D Nano Multicore Processor · IV",
-  "quest.322E46AAE7D69913.quest_desc": [
-    "An independent 3D Nano circuit family built from via substrates, bonded dies and multilayer interconnects. Higher grades combine the preceding 3D Nano circuit; other circuit families retain their own recipes."
-  ],
-  "quest.2616BE8183B1D4BD.title": "3D Nano High-Performance Computer · LuV",
-  "quest.2616BE8183B1D4BD.quest_desc": [
-    "An independent 3D Nano circuit family built from via substrates, bonded dies and multilayer interconnects. Higher grades combine the preceding 3D Nano circuit; other circuit families retain their own recipes."
-  ],
-  "quest.294283C34AE97D04.title": "Quantum Compute Unit · EV",
-  "quest.294283C34AE97D04.quest_desc": [
-    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA 3D Nano components."
-  ],
-  "quest.0235C85E73D1E61A.title": "Quantum Processor Core · IV",
-  "quest.0235C85E73D1E61A.quest_desc": [
-    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA 3D Nano components."
-  ],
-  "quest.4906DCE219C4A5BD.title": "Quantum Multicore Processor · LuV",
-  "quest.4906DCE219C4A5BD.quest_desc": [
-    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA 3D Nano components."
-  ],
-  "quest.3B5CC1B66231F1FA.title": "Quantum High-Performance Computer · ZPM",
-  "quest.3B5CC1B66231F1FA.quest_desc": [
-    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA 3D Nano components."
-  ],
-  "quest.2D11BC6CAE596926.title": "Crystal Compute Unit · IV",
-  "quest.2D11BC6CAE596926.quest_desc": [
-    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA 3D Nano components."
-  ],
-  "quest.4B379ACA08A9FD67.title": "Crystal Processor Core · LuV",
-  "quest.4B379ACA08A9FD67.quest_desc": [
-    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA 3D Nano components."
-  ],
-  "quest.4D577B12C0BBF611.title": "Crystal Multicore Processor · ZPM",
-  "quest.4D577B12C0BBF611.quest_desc": [
-    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA 3D Nano components."
-  ],
-  "quest.6405515CF14B74BE.title": "Crystal High-Performance Computer · UV",
-  "quest.6405515CF14B74BE.quest_desc": [
-    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA 3D Nano components."
-  ],
-  "quest.7A819A935174FA6B.title": "Wetware Compute Unit · LuV",
-  "quest.7A819A935174FA6B.quest_desc": [
-    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA 3D Nano components."
-  ],
-  "quest.06C2363AE1E4CD32.title": "Wetware Processor Core · ZPM",
-  "quest.06C2363AE1E4CD32.quest_desc": [
-    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA 3D Nano components."
-  ],
-  "quest.6109EA2124D283C3.title": "Wetware Multicore Processor · UV",
-  "quest.6109EA2124D283C3.quest_desc": [
-    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA 3D Nano components."
-  ],
-  "quest.35564F7453141C8A.title": "Wetware High-Performance Computer · UHV",
-  "quest.35564F7453141C8A.quest_desc": [
-    "Retains the original GregTech recipe and circuit rating. This family does not require GREGA 3D Nano components."
-  ],
-  "quest.2C7F1E70249B2744.title": "Wrought Iron",
-  "quest.2C7F1E70249B2744.quest_desc": [
-    "A material milestone near the ULV stage. This map does not change its production recipe."
-  ],
-  "quest.665153AB06F02835.title": "Bronze",
-  "quest.665153AB06F02835.quest_desc": [
-    "A material milestone near the ULV stage. This map does not change its production recipe."
-  ],
-  "quest.1A2D4DE137808A84.title": "Steel",
-  "quest.1A2D4DE137808A84.quest_desc": [
-    "A material milestone near the LV stage. This map does not change its production recipe."
-  ],
-  "quest.3F1E5FA4738A8CDA.title": "Aluminium",
-  "quest.3F1E5FA4738A8CDA.quest_desc": [
-    "A material milestone near the MV stage. This map does not change its production recipe."
-  ],
-  "quest.29174284BE95D415.title": "Gallium",
-  "quest.29174284BE95D415.quest_desc": [
-    "A material milestone near the MV stage. This map does not change its production recipe."
-  ],
-  "quest.2570A13E0B9D3103.title": "Stainless Steel",
-  "quest.2570A13E0B9D3103.quest_desc": [
-    "A material milestone near the HV stage. This map does not change its production recipe."
-  ],
-  "quest.58BC469662794E68.title": "Titanium",
-  "quest.58BC469662794E68.quest_desc": [
-    "A material milestone near the EV stage. This map does not change its production recipe."
-  ],
-  "quest.64D9720B463056F1.title": "Platinum",
-  "quest.64D9720B463056F1.quest_desc": [
-    "A material milestone near the EV stage. This map does not change its production recipe."
-  ],
-  "quest.37EEC5FAAF951001.title": "Tungstensteel",
-  "quest.37EEC5FAAF951001.quest_desc": [
-    "A material milestone near the IV stage. This map does not change its production recipe."
-  ],
-  "quest.7BB35D81F18D7F73.title": "Tungsten",
-  "quest.7BB35D81F18D7F73.quest_desc": [
-    "A material milestone near the IV stage. This map does not change its production recipe."
-  ],
-  "quest.4F2CE5032FABD81A.title": "Rhodium-Plated Palladium",
-  "quest.4F2CE5032FABD81A.quest_desc": [
-    "A material milestone near the LuV stage. This map does not change its production recipe."
-  ],
-  "quest.667D78EFE7C82857.title": "Naquadah Alloy",
-  "quest.667D78EFE7C82857.quest_desc": [
-    "A material milestone near the ZPM stage. This map does not change its production recipe."
-  ],
-  "quest.7806CE12C1200F10.title": "Darmstadtium",
-  "quest.7806CE12C1200F10.quest_desc": [
-    "A material milestone near the UV stage. This map does not change its production recipe."
-  ],
-  "quest.71B6786C67170E78.title": "Neutronium",
-  "quest.71B6786C67170E78.quest_desc": [
-    "A material milestone near the UHV stage. This map does not change its production recipe."
-  ],
-  "quest.278A720D78DA89C1.title": "Cupronickel Coils",
-  "quest.278A720D78DA89C1.quest_desc": [
-    "Base coil temperature: 1800 K. Coils are listed by heat capability; this is not a recipe or voltage unlock."
-  ],
-  "quest.42DF6DC0A9F0D4CC.title": "Kanthal Coils",
-  "quest.42DF6DC0A9F0D4CC.quest_desc": [
-    "Base coil temperature: 2700 K. Coils are listed by heat capability; this is not a recipe or voltage unlock."
-  ],
-  "quest.3A45D18C384737DF.title": "Nichrome Coils",
-  "quest.3A45D18C384737DF.quest_desc": [
-    "Base coil temperature: 3600 K. Coils are listed by heat capability; this is not a recipe or voltage unlock."
-  ],
-  "quest.4DE3082C5A2AF1F6.title": "RTM Alloy Coils",
-  "quest.4DE3082C5A2AF1F6.quest_desc": [
-    "Base coil temperature: 4500 K. Coils are listed by heat capability; this is not a recipe or voltage unlock."
-  ],
-  "quest.13584524A9C5BAC4.title": "HSS-G Coils",
-  "quest.13584524A9C5BAC4.quest_desc": [
-    "Base coil temperature: 5400 K. Coils are listed by heat capability; this is not a recipe or voltage unlock."
-  ],
-  "quest.5331CF8D11929E3A.title": "Naquadah Coils",
-  "quest.5331CF8D11929E3A.quest_desc": [
-    "Base coil temperature: 7200 K. Coils are listed by heat capability; this is not a recipe or voltage unlock."
-  ],
-  "quest.43C773B4094BDF6C.title": "Trinium Coils",
-  "quest.43C773B4094BDF6C.quest_desc": [
-    "Base coil temperature: 9001 K. Coils are listed by heat capability; this is not a recipe or voltage unlock."
-  ],
-  "quest.04EF2F3B87B14CB1.title": "Tritanium Coils",
-  "quest.04EF2F3B87B14CB1.quest_desc": [
-    "Base coil temperature: 10800 K. Coils are listed by heat capability; this is not a recipe or voltage unlock."
-  ],
-  "quest.6D4A1B8E2C903F10.title": "Pure Daisy, Livingwood and Livingrock",
-  "quest.6D4A1B8E2C903F10.quest_desc": [
-    "Start with Mystical Flowers and a Petal Apothecary. Make a Pure Daisy using white petals and seeds. Place logs and stone around it to turn them into Livingwood and Livingrock; consult the Lexica Botania for the full steps."
-  ],
-  "quest.6D4A1B8E2C903F20.title": "The First Mana",
-  "quest.6D4A1B8E2C903F20.quest_desc": [
-    "Build a Mana Spreader from Livingwood and a Mana Pool from Livingrock. Bind an Endoflame to the spreader with a Wand of the Forest and point the spreader at the pool. Drop fuel near the Endoflame to start filling the pool."
-  ],
-  "quest.6D4A1B8E2C903F30.title": "Mana in Steel and Paper",
-  "quest.6D4A1B8E2C903F30.quest_desc": [
-    "Drop an Iron Ingot into a sufficiently filled Mana Pool to obtain Botania's own Manasteel Ingot. Manasteel is a GT material: grind an ingot into dust with a GT Mortar, or later use a Macerator.",
-    "Drop an ordinary Book into the pool and spend 3000 mana to obtain a Mana-infused Book. Together with Manasteel Dust and Steel Plates, it opens the Ars Nouveau mainline."
-  ]
+	chapter.3A404246AC67A6B3.title: "GregTech Milestones"
+	file.0000000000000001.title: "GREGA"
+	quest.0235C85E73D1E61A.quest_desc: ["Retains the original GregTech recipe and circuit rating. This family does not require GREGA 3D Nano components."]
+	quest.0235C85E73D1E61A.title: "Quantum Processor Core · IV"
+	quest.04D7891740B4AD10.quest_desc: ["A light transition: coat nano CPU dies in an MV forming press, then build all four circuits in circuit assemblers. Short recipes require no cleanroom."]
+	quest.04D7891740B4AD10.title: "Nano Compute Unit · MV"
+	quest.04EF2F3B87B14CB1.quest_desc: ["Base coil temperature: 10800 K. Coils are listed by heat capability; this is not a recipe or voltage unlock."]
+	quest.04EF2F3B87B14CB1.title: "Tritanium Coils"
+	quest.06C2363AE1E4CD32.quest_desc: ["Retains the original GregTech recipe and circuit rating. This family does not require GREGA 3D Nano components."]
+	quest.06C2363AE1E4CD32.title: "Wetware Processor Core · ZPM"
+	quest.13584524A9C5BAC4.quest_desc: ["Base coil temperature: 5400 K. Coils are listed by heat capability; this is not a recipe or voltage unlock."]
+	quest.13584524A9C5BAC4.title: "HSS-G Coils"
+	quest.15C58CA45BA98B8B.quest_desc: ["An independent 3D Nano circuit family built from via substrates, bonded dies and multilayer interconnects. Higher grades combine the preceding 3D Nano circuit; other circuit families retain their own recipes."]
+	quest.15C58CA45BA98B8B.title: "3D Nano Processor Core · EV"
+	quest.18C47E282A6283DD.quest_desc: ["Obtain this tier of machine hull. Circuits in the column are arranged by their rating; check each recipe for its manufacturing voltage."]
+	quest.18C47E282A6283DD.title: "IV Machine Hull"
+	quest.1A2D4DE137808A84.quest_desc: ["A material milestone near the LV stage. This map does not change its production recipe."]
+	quest.1A2D4DE137808A84.title: "Steel"
+	quest.1EDDF3EFD66C7BE8.quest_desc: ["Obtain this tier of machine hull. Circuits in the column are arranged by their rating; check each recipe for its manufacturing voltage."]
+	quest.1EDDF3EFD66C7BE8.title: "LV Machine Hull"
+	quest.22AF2D684A44EE79.quest_desc: ["Retains the existing GT circuit progression. Its rating is LV."]
+	quest.22AF2D684A44EE79.title: "Electronic Circuit · LV"
+	quest.2496467BC272E48D.quest_desc: ["Obtain this tier of machine hull. Circuits in the column are arranged by their rating; check each recipe for its manufacturing voltage."]
+	quest.2496467BC272E48D.title: "LuV Machine Hull"
+	quest.2570A13E0B9D3103.quest_desc: ["A material milestone near the HV stage. This map does not change its production recipe."]
+	quest.2570A13E0B9D3103.title: "Stainless Steel"
+	quest.2616BE8183B1D4BD.quest_desc: ["An independent 3D Nano circuit family built from via substrates, bonded dies and multilayer interconnects. Higher grades combine the preceding 3D Nano circuit; other circuit families retain their own recipes."]
+	quest.2616BE8183B1D4BD.title: "3D Nano High-Performance Computer · LuV"
+	quest.26DBDA4E75F7E277.quest_desc: ["Obtain this tier of machine hull. Circuits in the column are arranged by their rating; check each recipe for its manufacturing voltage."]
+	quest.26DBDA4E75F7E277.title: "HV Machine Hull"
+	quest.278A720D78DA89C1.quest_desc: ["Base coil temperature: 1800 K. Coils are listed by heat capability; this is not a recipe or voltage unlock."]
+	quest.278A720D78DA89C1.title: "Cupronickel Coils"
+	quest.29174284BE95D415.quest_desc: ["A material milestone near the MV stage. This map does not change its production recipe."]
+	quest.29174284BE95D415.title: "Gallium"
+	quest.294283C34AE97D04.quest_desc: ["Retains the original GregTech recipe and circuit rating. This family does not require GREGA 3D Nano components."]
+	quest.294283C34AE97D04.title: "Quantum Compute Unit · EV"
+	quest.2B79EE7BA5C8DAE9.quest_desc: ["Rated one tier earlier. Assemble with soldering alloy in a circuit assembler; manufacturing voltage is also reduced."]
+	quest.2B79EE7BA5C8DAE9.title: "Micro Multicore Processor · HV"
+	quest.2C7F1E70249B2744.quest_desc: ["A material milestone near the ULV stage. This map does not change its production recipe."]
+	quest.2C7F1E70249B2744.title: "Wrought Iron"
+	quest.2D11BC6CAE596926.quest_desc: ["Retains the original GregTech recipe and circuit rating. This family does not require GREGA 3D Nano components."]
+	quest.2D11BC6CAE596926.title: "Crystal Compute Unit · IV"
+	quest.31D93CB341C27342.quest_desc: ["Obtain this tier of machine hull. Circuits in the column are arranged by their rating; check each recipe for its manufacturing voltage."]
+	quest.31D93CB341C27342.title: "ULV Machine Hull"
+	quest.322E46AAE7D69913.quest_desc: ["An independent 3D Nano circuit family built from via substrates, bonded dies and multilayer interconnects. Higher grades combine the preceding 3D Nano circuit; other circuit families retain their own recipes."]
+	quest.322E46AAE7D69913.title: "3D Nano Multicore Processor · IV"
+	quest.35564F7453141C8A.quest_desc: ["Retains the original GregTech recipe and circuit rating. This family does not require GREGA 3D Nano components."]
+	quest.35564F7453141C8A.title: "Wetware High-Performance Computer · UHV"
+	quest.37EEC5FAAF951001.quest_desc: ["A material milestone near the IV stage. This map does not change its production recipe."]
+	quest.37EEC5FAAF951001.title: "Tungstensteel"
+	quest.38C1E1366568618F.quest_desc: ["A light transition: coat nano CPU dies in an MV forming press, then build all four circuits in circuit assemblers. Short recipes require no cleanroom."]
+	quest.38C1E1366568618F.title: "Nano Multicore Processor · EV"
+	quest.3A45D18C384737DF.quest_desc: ["Base coil temperature: 3600 K. Coils are listed by heat capability; this is not a recipe or voltage unlock."]
+	quest.3A45D18C384737DF.title: "Nichrome Coils"
+	quest.3B4D1D488E98915C.quest_desc: ["Rated one tier earlier. Assemble with soldering alloy in a circuit assembler; manufacturing voltage is also reduced."]
+	quest.3B4D1D488E98915C.title: "Micro High-Performance Computer · EV"
+	quest.3B5CC1B66231F1FA.quest_desc: ["Retains the original GregTech recipe and circuit rating. This family does not require GREGA 3D Nano components."]
+	quest.3B5CC1B66231F1FA.title: "Quantum High-Performance Computer · ZPM"
+	quest.3F1E5FA4738A8CDA.quest_desc: ["A material milestone near the MV stage. This map does not change its production recipe."]
+	quest.3F1E5FA4738A8CDA.title: "Aluminium"
+	quest.3F9142B4A945D41A.quest_desc: ["Retains the existing GT circuit progression. Its rating is HV."]
+	quest.3F9142B4A945D41A.title: "Integrated Logic Assembly · HV"
+	quest.403798DC7C0061F9.quest_desc: ["Obtain this tier of machine hull. Circuits in the column are arranged by their rating; check each recipe for its manufacturing voltage."]
+	quest.403798DC7C0061F9.title: "MV Machine Hull"
+	quest.42DF6DC0A9F0D4CC.quest_desc: ["Base coil temperature: 2700 K. Coils are listed by heat capability; this is not a recipe or voltage unlock."]
+	quest.42DF6DC0A9F0D4CC.title: "Kanthal Coils"
+	quest.432E2A1085843147.quest_desc: ["AE processors and steel replace the old vacuum tube. This is the actual ULV component used by early GT recipes."]
+	quest.432E2A1085843147.title: "Basic Electronic Component · ULV"
+	quest.43C773B4094BDF6C.quest_desc: ["Base coil temperature: 9001 K. Coils are listed by heat capability; this is not a recipe or voltage unlock."]
+	quest.43C773B4094BDF6C.title: "Trinium Coils"
+	quest.46371BD898F30B9D.quest_desc: ["A light transition: coat nano CPU dies in an MV forming press, then build all four circuits in circuit assemblers. Short recipes require no cleanroom."]
+	quest.46371BD898F30B9D.title: "Nano Processor Core · HV"
+	quest.4906DCE219C4A5BD.quest_desc: ["Retains the original GregTech recipe and circuit rating. This family does not require GREGA 3D Nano components."]
+	quest.4906DCE219C4A5BD.title: "Quantum Multicore Processor · LuV"
+	quest.49202C8535C19805.quest_desc: ["Obtain this tier of machine hull. Circuits in the column are arranged by their rating; check each recipe for its manufacturing voltage."]
+	quest.49202C8535C19805.title: "UV Machine Hull"
+	quest.49DEB3F88B437209.quest_desc: ["Create sheets lead to the first hammer; primitive steel and the Ars book lead to both sources of AE presses."]
+	quest.49DEB3F88B437209.title: "Steam Foundation"
+	quest.4B379ACA08A9FD67.quest_desc: ["Retains the original GregTech recipe and circuit rating. This family does not require GREGA 3D Nano components."]
+	quest.4B379ACA08A9FD67.title: "Crystal Processor Core · LuV"
+	quest.4D577B12C0BBF611.quest_desc: ["Retains the original GregTech recipe and circuit rating. This family does not require GREGA 3D Nano components."]
+	quest.4D577B12C0BBF611.title: "Crystal Multicore Processor · ZPM"
+	quest.4DE3082C5A2AF1F6.quest_desc: ["Base coil temperature: 4500 K. Coils are listed by heat capability; this is not a recipe or voltage unlock."]
+	quest.4DE3082C5A2AF1F6.title: "RTM Alloy Coils"
+	quest.4F2CE5032FABD81A.quest_desc: ["A material milestone near the LuV stage. This map does not change its production recipe."]
+	quest.4F2CE5032FABD81A.title: "Rhodium-Plated Palladium"
+	quest.51B2E4D45B81F39C.quest_desc: ["Rated one tier earlier. Assemble with soldering alloy in a circuit assembler; manufacturing voltage is also reduced."]
+	quest.51B2E4D45B81F39C.title: "Micro Compute Unit · LV"
+	quest.5331CF8D11929E3A.quest_desc: ["Base coil temperature: 7200 K. Coils are listed by heat capability; this is not a recipe or voltage unlock."]
+	quest.5331CF8D11929E3A.title: "Naquadah Coils"
+	quest.57D21A63046E575F.quest_desc: ["Rated one tier earlier. Assemble with soldering alloy in a circuit assembler; manufacturing voltage is also reduced."]
+	quest.57D21A63046E575F.title: "Micro Processor Core · MV"
+	quest.58BC469662794E68.quest_desc: ["A material milestone near the EV stage. This map does not change its production recipe."]
+	quest.58BC469662794E68.title: "Titanium"
+	quest.5BD567E09BE0C71D.quest_desc: ["Obtain this tier of machine hull. Circuits in the column are arranged by their rating; check each recipe for its manufacturing voltage."]
+	quest.5BD567E09BE0C71D.title: "EV Machine Hull"
+	quest.5C120007BA6FE1C0.quest_desc: ["Obtain this tier of machine hull. Circuits in the column are arranged by their rating; check each recipe for its manufacturing voltage."]
+	quest.5C120007BA6FE1C0.title: "ZPM Machine Hull"
+	quest.5D7C91AFCB1C0154.quest_desc: ["Retains the existing GT circuit progression. Its rating is MV."]
+	quest.5D7C91AFCB1C0154.title: "Integrated Logic Processor · MV"
+	quest.6109EA2124D283C3.quest_desc: ["Retains the original GregTech recipe and circuit rating. This family does not require GREGA 3D Nano components."]
+	quest.6109EA2124D283C3.title: "Wetware Multicore Processor · UV"
+	quest.6405515CF14B74BE.quest_desc: ["Retains the original GregTech recipe and circuit rating. This family does not require GREGA 3D Nano components."]
+	quest.6405515CF14B74BE.title: "Crystal High-Performance Computer · UV"
+	quest.64D9720B463056F1.quest_desc: ["A material milestone near the EV stage. This map does not change its production recipe."]
+	quest.64D9720B463056F1.title: "Platinum"
+	quest.665153AB06F02835.quest_desc: ["A material milestone near the ULV stage. This map does not change its production recipe."]
+	quest.665153AB06F02835.title: "Bronze"
+	quest.667D78EFE7C82857.quest_desc: ["A material milestone near the ZPM stage. This map does not change its production recipe."]
+	quest.667D78EFE7C82857.title: "Naquadah Alloy"
+	quest.67AF4278249A71EC.quest_desc: ["Retains the existing GT circuit progression. Its rating is MV."]
+	quest.67AF4278249A71EC.title: "Good Electronic Circuit · MV"
+	quest.71B6786C67170E78.quest_desc: ["A material milestone near the UHV stage. This map does not change its production recipe."]
+	quest.71B6786C67170E78.title: "Neutronium"
+	quest.770E582403E4610F.quest_desc: ["Retains the existing GT circuit progression. Its rating is LV."]
+	quest.770E582403E4610F.title: "Integrated Logic Circuit · LV"
+	quest.779F1F2E2DD938C1.quest_desc: ["A light transition: coat nano CPU dies in an MV forming press, then build all four circuits in circuit assemblers. Short recipes require no cleanroom."]
+	quest.779F1F2E2DD938C1.title: "Nano High-Performance Computer · IV"
+	quest.7806CE12C1200F10.quest_desc: ["A material milestone near the UV stage. This map does not change its production recipe."]
+	quest.7806CE12C1200F10.title: "Darmstadtium"
+	quest.7A819A935174FA6B.quest_desc: ["Retains the original GregTech recipe and circuit rating. This family does not require GREGA 3D Nano components."]
+	quest.7A819A935174FA6B.title: "Wetware Compute Unit · LuV"
+	quest.7B899364DA8634EF.quest_desc: [
+		"Columns show circuit ratings from ULV through UHV. Check the recipe viewer for manufacturing voltage. Every node detects a real item without consuming it."
+		"Electronic and integrated names and ratings stay unchanged. The Microchip Processor is removed. Micro circuits rate LV–EV; nano circuits rate MV–IV and use short recipes with light materials. From Micro onward, each family uses its own prefix followed by Compute Unit → Processor Core → Multicore Processor → High-Performance Computer."
+		"The independent HV–LuV 3D Nano family is 3D Nano Compute Unit → 3D Nano Processor Core → 3D Nano Multicore Processor → 3D Nano High-Performance Computer. Produce via substrates, bonded nano dies and multilayer interconnects first, using GregTech materials and machines."
+		"Quantum, crystal and wetware retain their original GregTech recipes. These families do not require GREGA 3D Nano circuits. Materials and coils have their own item milestones."
+	]
+	quest.7B899364DA8634EF.title: "The GREGA Milestone Map"
+	quest.7BB35D81F18D7F73.quest_desc: ["A material milestone near the IV stage. This map does not change its production recipe."]
+	quest.7BB35D81F18D7F73.title: "Tungsten"
+	quest.7BF49C8C1B5F8107.quest_desc: ["Obtain this tier of machine hull. Circuits in the column are arranged by their rating; check each recipe for its manufacturing voltage."]
+	quest.7BF49C8C1B5F8107.title: "UHV Machine Hull"
+	quest.7F7A751BD8508DD6.quest_desc: ["An independent 3D Nano circuit family built from via substrates, bonded dies and multilayer interconnects. Higher grades combine the preceding 3D Nano circuit; other circuit families retain their own recipes."]
+	quest.7F7A751BD8508DD6.title: "3D Nano Compute Unit · HV"
+	task.03E5BC2BF4865CA3.title: "Steam Inscriber"
+	task.0EE7F3621EF2EFF5.title: "Steam Boiler"
+	task.17090C182371278B.title: "Steam Forge Hammer"
+	task.4348B7C5B254BEF7.title: "Steam Furnace"
+	task.4527CF8797D676E1.title: "Steam Alloy Smelter"
+	task.7D65EF997D26A84E.title: "Steam Macerator"
 }

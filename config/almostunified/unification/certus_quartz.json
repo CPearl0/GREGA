@@ -1,0 +1,36 @@
+{
+  "mod_priorities": [
+    "gtceu",
+    "ae2"
+  ],
+  "priority_overrides": {
+    "c:gems/certus_quartz": "gtceu",
+    "c:dusts/certus_quartz": "gtceu",
+    "c:storage_blocks/certus_quartz": "gtceu"
+  },
+  "stone_variants": [
+    "stone",
+    "andesite",
+    "deepslate",
+    "diorite",
+    "granite",
+    "netherrack",
+    "end_stone"
+  ],
+  "tags": [
+    "c:gems/certus_quartz",
+    "c:dusts/certus_quartz",
+    "c:storage_blocks/certus_quartz"
+  ],
+  "ignored_tags": [],
+  "ignored_items": [
+    "ae2:charged_certus_quartz_crystal"
+  ],
+  "ignored_recipe_types": [
+    "cucumber:shaped_tag"
+  ],
+  "ignored_recipe_ids": [],
+  "recipe_viewer_hiding": true,
+  "loot_unification": true,
+  "ignored_loot_tables": []
+}

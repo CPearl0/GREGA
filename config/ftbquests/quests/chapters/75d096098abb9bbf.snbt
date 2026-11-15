@@ -1,0 +1,83 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "75d096098abb9bbf"
+	group: "1E41C4251BE5664C"
+	icon: {
+		id: "ars_nouveau:archmage_spell_book"
+	}
+	id: "75D096098ABB9BBF"
+	images: [ ]
+	order_index: 3
+	quest_links: [{
+		id: "18F1126CDE715DC3"
+		linked_quest: "1DBD1C9E3B86371B"
+		x: -2.0d
+		y: 0.0d
+	}]
+	quests: [
+		{
+			dependencies: ["1DBD1C9E3B86371B"]
+			id: "77776B544C8C2E61"
+			size: 1.5d
+			tasks: [{
+				id: "220D1B87F50BC6DF"
+				item: { count: 1, id: "ars_nouveau:novice_spell_book" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["77776B544C8C2E61"]
+			id: "6676840EB81B2005"
+			tasks: [{
+				id: "6A972E9E08627C9A"
+				item: { count: 1, id: "grega_core:glyph_open_portal" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6676840EB81B2005"]
+			id: "3C27B6C795387E73"
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				id: "2D5980162DD2384B"
+				type: "dimension"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["77776B544C8C2E61"]
+			id: "3AADA17035B2F38D"
+			tasks: [{
+				id: "0DB997D1E2333DB7"
+				item: { count: 1, id: "grega_core:glyph_rtp" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["77776B544C8C2E61"]
+			id: "72A396F5890792CB"
+			tasks: [
+				{
+					id: "33B73D97AA783A15"
+					item: { count: 1, id: "grega_core:glyph_set_home" }
+					type: "item"
+				}
+				{
+					id: "6FE569A30504EEA8"
+					item: { count: 1, id: "grega_core:glyph_home" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: -2.0d
+		}
+	]
+}

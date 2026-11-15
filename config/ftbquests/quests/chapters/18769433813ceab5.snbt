@@ -3,10 +3,18 @@
 	default_quest_shape: ""
 	filename: "18769433813ceab5"
 	group: "1E41C4251BE5664C"
+	icon: {
+		id: "minecraft:crafting_table"
+	}
 	id: "18769433813CEAB5"
 	images: [ ]
 	order_index: 0
-	quest_links: [ ]
+	quest_links: [{
+		id: "7B1A6965ECAA1A83"
+		linked_quest: "4A5EB1C1CF82B20B"
+		x: 0.0d
+		y: -1.0d
+	}]
 	quests: [
 		{
 			id: "32F0C85989FF5CC8"
@@ -114,6 +122,7 @@
 				"5897FCE3C2100FA2"
 			]
 			id: "4BE4F9EF5ECA38C2"
+			size: 1.5d
 			tasks: [
 				{
 					id: "34000AFE3DC1C17C"
@@ -162,6 +171,29 @@
 			}]
 			x: 10.0d
 			y: 0.0d
+		}
+		{
+			dependencies: ["371D626D516E0A63"]
+			id: "5BAABEDFB735D05F"
+			tasks: [
+				{
+					id: "31A813541EE70B2F"
+					item: { count: 1, id: "minecraft:redstone" }
+					type: "item"
+				}
+				{
+					id: "7A6416F048FEF89A"
+					item: { count: 1, id: "minecraft:lapis_lazuli" }
+					type: "item"
+				}
+				{
+					id: "60DDC6E699C158A6"
+					item: { count: 1, id: "minecraft:diamond" }
+					type: "item"
+				}
+			]
+			x: 8.0d
+			y: -2.0d
 		}
 	]
 }

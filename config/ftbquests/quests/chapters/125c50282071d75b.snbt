@@ -1,0 +1,46 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "125c50282071d75b"
+	group: "1E41C4251BE5664C"
+	icon: {
+		components: {
+			"ftbquests:icon": "chisel:block/futura/futura_controller-bg"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "125C50282071D75B"
+	images: [ ]
+	order_index: 7
+	quest_links: [
+		{
+			id: "3E1B12BBCFE504DD"
+			linked_quest: "0FE29BED489F1EB2"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "1302FDF378894F36"
+			linked_quest: "16C9E6B7B7BA41F3"
+			x: 2.0d
+			y: -2.0d
+		}
+	]
+	quests: [{
+		id: "18A592677B271443"
+		tasks: [
+			{
+				id: "7E3B3019A43DC78E"
+				item: { count: 1, id: "ae2:charged_certus_quartz_crystal" }
+				type: "item"
+			}
+			{
+				id: "7FA17C679847CF8C"
+				item: { count: 1, id: "ae2:fluix_crystal" }
+				type: "item"
+			}
+		]
+		x: 2.0d
+		y: 0.0d
+	}]
+}

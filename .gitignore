@@ -33,7 +33,10 @@
 /local/
 /moddata/
 /xaero/
+/XaeroWaypoints_BACKUP*/
 /journeymap/
+/gtceu/prospection_cache/
+/emi.json
 /options*.txt
 /servers.dat*
 /usercache.json
@@ -50,6 +53,7 @@
 !/config/almostunified/unification/
 /config/almostunified/unification/*
 !/config/almostunified/unification/materials.json
+!/config/almostunified/unification/certus_quartz.json
 !/config/ftbquests/
 !/config/ftbquests/**
 

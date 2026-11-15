@@ -3,15 +3,26 @@
 	default_quest_shape: ""
 	filename: "2b8d34ef15502de0"
 	group: "1E41C4251BE5664C"
+	icon: {
+		id: "botania:pure_daisy"
+	}
 	id: "2B8D34EF15502DE0"
 	images: [ ]
 	order_index: 2
-	quest_links: [{
-		id: "493E81DFE3C929DC"
-		linked_quest: "0A00D22823E90B18"
-		x: -2.0d
-		y: 2.0d
-	}]
+	quest_links: [
+		{
+			id: "493E81DFE3C929DC"
+			linked_quest: "0A00D22823E90B18"
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			id: "7E90D384ABB5F410"
+			linked_quest: "07EB8F4D03A46922"
+			x: 6.0d
+			y: 0.0d
+		}
+	]
 	quests: [
 		{
 			id: "0F2A3E2C86D780C9"
@@ -119,6 +130,37 @@
 			}]
 			x: 0.0d
 			y: -2.0d
+		}
+		{
+			dependencies: [
+				"07EB8F4D03A46922"
+				"3548459082A5A44E"
+			]
+			id: "1DBD1C9E3B86371B"
+			tasks: [
+				{
+					id: "025A544572980887"
+					item: { count: 1, id: "botania:manasteel_ingot" }
+					type: "item"
+				}
+				{
+					id: "2A4749B94C5F7881"
+					item: { count: 1, id: "botania:mana_powder" }
+					type: "item"
+				}
+				{
+					id: "5BB99EF5528A0D9C"
+					item: { count: 1, id: "botania:mana_diamond" }
+					type: "item"
+				}
+				{
+					id: "660FE5DA852FA6C5"
+					item: { count: 1, id: "grega_core:mana_book" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 2.0d
 		}
 	]
 }

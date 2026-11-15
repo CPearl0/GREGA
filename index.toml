@@ -1,40 +1,56 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/almostunified/unification/certus_quartz.json"
+hash = "91cd338c59321bac2c4606804ca02c337051e324867abd6516448761a7d04e23"
+
+[[files]]
 file = "config/almostunified/unification/materials.json"
-hash = "4c5bc89c02f90cd27af4fd6977e1f2adc38cdad4eaac8fe4c707f1a6aa53578b"
+hash = "2c83afd6562f0d399282fcac050fce39b9015cd6395c1e90c83665664239cb6c"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
 hash = "76910b499b54ef0ca87ea6b1b53174bc2880defee469a9199352d2e43ec0fdeb"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/125c50282071d75b.snbt"
+hash = "81d223ad663aff55983a7fb3889f2daf02ed7337853ad82303d6693a20a4f348"
+
+[[files]]
 file = "config/ftbquests/quests/chapters/18769433813ceab5.snbt"
-hash = "8b2ff5538e33c6d206e0c714dbe8ae72c94769cb91c2db2d78f630f260381bea"
+hash = "98b3948966d5d07322dbb9a2622e9c0f202a19377153c711535078853834e3c4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/2b8d34ef15502de0.snbt"
-hash = "d2fbbf6fa48267a82b7507e139038bfc204d582310e11c53ce7667013bcc1fb0"
+hash = "171d368e4a60f0deb3587ccd6bad9eec851175aa9c353c76363b3f8a309fbea5"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/34c5f6f72db31d06.snbt"
-hash = "71093b6e9fb37e539e5d0cba274fdea1d2e1f51a4c04255e57e6f9cfeca18f3d"
+hash = "88874210d6035c86b878c596325db2b80537778df50334f35fe1f1ff80ca2319"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/48ae5bd13d05597c.snbt"
+hash = "c6a83042e1dd4f5ca3ab44642994ba31262a9c008c66a4d2bce5df8f7afcb3a2"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/4eadfc9ac113db4f.snbt"
-hash = "25309d9ec5858476fe4847ba356f47d764c87020181bed62ee3c25e37f778043"
+hash = "2571a07c508bf181a52a6720ab55e60a5f1dbe744e35212563a3a810d48fad52"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/542e096231c9870f.snbt"
-hash = "ea5ab65d3c0f47c1fa682af3817e786e31de6e2727962e73ac63305f52ff9c83"
+hash = "c616bcedca6f0ae7b4b45ae0030d938f9cb02f3b59e37d22a3524559de45dc68"
 
 [[files]]
-file = "config/ftbquests/quests/chapters/early_progression.snbt"
-hash = "dbdcc81213fc7a19d91fbcaf2f4972aeb8e806efbda4a55eefba2e7ba5036fc5"
+file = "config/ftbquests/quests/chapters/68d1e98d585ec95f.snbt"
+hash = "30e1846ea1ed562b469ed8fd90c1dc5fa14ab72699cd1f15524edcf0a59a48c8"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/75d096098abb9bbf.snbt"
+hash = "32bc67fbbd36640b26028615e92db33ee6e497b51c0d3349ab00d15a529a1f9f"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/gregtech_milestones.snbt"
-hash = "81bab768a3b3c72bc74ee3328d8aff528960d42963d6cdc9823641b7d6922e39"
+hash = "052b164e01eb1a8d72a8a04918de0365b0249ba73be81f32774a774cdb228eb1"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -42,15 +58,15 @@ hash = "c0cbd0d7b79e05c518167de51be73138d83e18eff89331f53ce64f7d3980d6c8"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "a0f84b15657a1fc774b381dd223adb56e367d49d68c5fe8a2bdd2aab086153bf"
+hash = "c4a0855363c55aa069a0e5ecfd3c4085d626ca8c244812d611e24fdbb98ccd4c"
 
 [[files]]
 file = "config/ftbquests/quests/lang/zh_cn.snbt"
-hash = "95766e5a61a8ec28327b7bfb601cd50b2f3cade3094f255851a7c683a6c9b40f"
+hash = "a68f3527ced57bdef9c3b5a2b443bd61860dc8b691fd7513193a990d5e3a80da"
 
 [[files]]
 file = "config/gtceu.yaml"
-hash = "751cac687ef5a241a11f0366cd04e35152d0200c6926b07d1eec200a8816f0c9"
+hash = "28f4ffde9889ef89a52008c568dc7e6758675fe4c0412d0767010740ef1da212"
 
 [[files]]
 file = "config/twilightforest-common.toml"
@@ -70,7 +86,7 @@ hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
 file = "kubejs/config/client.json"
-hash = "0aeb4cb329b896e33a0777a1683b0b813a6f2f0adc5bc2cf3e6d10e18e442fef"
+hash = "3c3c64cfa7189a079d674768d0eea11477debd3b56275880e4ae1bba21151a5e"
 
 [[files]]
 file = "kubejs/config/common.json"
@@ -157,6 +173,11 @@ hash = "8a69e7494ed02e9aacad31734d6363f4dea03c47a81a3b1cfeb891f0c6a3676e"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "35acdf433fe8f8599f59975e848efdb717663c2c471d3a5dc18743799795a736"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
 metafile = true
@@ -164,4 +185,9 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "e80f0b9d01a0b8cf129d0b9f4b1ecebaf322b4eb9add8bcff048fdf61ad29018"
+metafile = true
+
+[[files]]
+file = "mods/totemic.pw.toml"
+hash = "82bf6b377ba62db60101edf71f7ba58e074727a10d46416decac488c2b1dfa16"
 metafile = true

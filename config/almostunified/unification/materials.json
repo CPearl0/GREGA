@@ -29,7 +29,11 @@
     "c:storage_blocks/{material}",
     "c:wires/{material}"
   ],
-  "ignored_tags": [],
+  "ignored_tags": [
+    "c:gems/certus_quartz",
+    "c:dusts/certus_quartz",
+    "c:storage_blocks/certus_quartz"
+  ],
   "ignored_items": [],
   "ignored_recipe_types": [
     "cucumber:shaped_tag"

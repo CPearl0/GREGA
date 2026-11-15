@@ -3,12 +3,16 @@
 	default_quest_shape: ""
 	filename: "4eadfc9ac113db4f"
 	group: "1E41C4251BE5664C"
+	icon: {
+		id: "create:andesite_casing"
+	}
 	id: "4EADFC9AC113DB4F"
 	images: [ ]
 	order_index: 1
 	quest_links: [{
 		id: "33278E40779C8493"
 		linked_quest: "4BE4F9EF5ECA38C2"
+		size: 1.5d
 		x: 0.0d
 		y: 0.0d
 	}]
@@ -106,6 +110,7 @@
 				"52B8E4AFEE4651D5"
 			]
 			id: "1D5EE19FFCBB61C8"
+			size: 1.5d
 			tasks: [
 				{
 					id: "6F4BC58485321E33"

@@ -1,0 +1,216 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "68d1e98d585ec95f"
+	group: "1E41C4251BE5664C"
+	icon: {
+		id: "totemic:infused_flute"
+	}
+	id: "68D1E98D585EC95F"
+	images: [ ]
+	order_index: 4
+	quest_links: [{
+		id: "05D7248740508778"
+		linked_quest: "0A00D22823E90B18"
+		x: -2.0d
+		y: 0.0d
+	}]
+	quests: [
+		{
+			dependencies: ["0A00D22823E90B18"]
+			id: "0C399E408066B228"
+			tasks: [{
+				id: "41D623E05F2E64A1"
+				item: { count: 1, id: "totemic:totem_whittling_knife" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0C399E408066B228"]
+			id: "5C91872F179325FA"
+			tasks: [{
+				id: "0F791834180CF469"
+				item: { count: 1, id: "totemic:flute" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0C399E408066B228"]
+			id: "45203E1CE4E99A79"
+			tasks: [{
+				id: "7F3A4E2F1BB5633E"
+				item: { count: 1, id: "totemic:drum" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"5C91872F179325FA"
+				"45203E1CE4E99A79"
+			]
+			id: "2E0339A5B2D17291"
+			tasks: [
+				{
+					id: "6A7CF689BDD73CD5"
+					item: { count: 1, id: "totemic:cedar_sapling" }
+					type: "item"
+				}
+				{
+					id: "43BF25E58160EF3C"
+					item: { count: 1, id: "totemic:cedar_log" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2E0339A5B2D17291"]
+			id: "795CAB0E8EEF8B50"
+			optional: true
+			tasks: [{
+				id: "63075B9831353063"
+				item: { count: 1, id: "totemic:jingle_dress" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7F2D1D5AD0210B0D"]
+			id: "726EE8A27393C1D7"
+			tasks: [
+				{
+					entity: "totemic:buffalo"
+					icon: {
+						components: {
+							"!ftbquests:icon": { }
+							"ftbquests:entity_face": "minecraft:cow"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "0826879F5E3A32E2"
+					type: "kill"
+					value: 1L
+				}
+				{
+					id: "5BB31BCA0329A646"
+					item: { count: 1, id: "totemic:buffalo_tooth" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["2E0339A5B2D17291"]
+			id: "7F2D1D5AD0210B0D"
+			tasks: [{
+				id: "351676B2464E780A"
+				item: { count: 1, id: "totemic:wind_chime" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["726EE8A27393C1D7"]
+			id: "7A2EA5850E98C614"
+			tasks: [{
+				id: "3C8E7D5127906A15"
+				item: { count: 1, id: "totemic:rattle" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7A2EA5850E98C614"]
+			id: "4BD8A0027F3F1BB9"
+			tasks: [
+				{
+					entity: "totemic:bald_eagle"
+					id: "44792E9967857437"
+					type: "kill"
+					value: 1L
+				}
+				{
+					id: "7DEA19025F8C50D4"
+					item: { count: 1, id: "totemic:eagle_bone" }
+					type: "item"
+				}
+				{
+					id: "33BE257A1BCB0DF1"
+					item: { count: 1, id: "totemic:eagle_feather" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["4BD8A0027F3F1BB9"]
+			id: "7238949B55E909FF"
+			tasks: [{
+				id: "537B16914A42E943"
+				item: { count: 1, id: "totemic:eagle_bone_whistle" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"7238949B55E909FF"
+				"4A5EB1C1CF82B20B"
+			]
+			id: "40ECB182C9334160"
+			tasks: [
+				{
+					id: "692025B5B7F621CB"
+					item: { count: 1, id: "gtceu:rubber_sapling" }
+					type: "item"
+				}
+				{
+					id: "39D85DFC63FCD3DC"
+					item: { count: 1, id: "gtceu:rubber_log" }
+					type: "item"
+				}
+				{
+					id: "64815035A612C219"
+					item: { count: 1, id: "gtceu:sticky_resin" }
+					type: "item"
+				}
+			]
+			x: 8.0d
+			y: 4.0d
+		}
+		{
+			id: "4A5EB1C1CF82B20B"
+			tasks: [{
+				id: "08286F54628A98B3"
+				item: { count: 1, id: "minecraft:oak_sapling" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0CAA73BDF065D204"]
+			id: "1400E4E6A7EA3E2A"
+			tasks: [{
+				id: "2D2E7F725C0D533E"
+				item: { count: 1, id: "naturescompass:naturescompass" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+	]
+}

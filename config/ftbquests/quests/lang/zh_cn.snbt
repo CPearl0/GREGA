@@ -1,62 +1,83 @@
 {
-	chapter.18769433813CEAB5.title: "启程"
-	chapter.25569D0A4F2ACDAF.title: "初转齿轮，初成电路"
+	chapter.125C50282071D75B.title: "数字化"
+	chapter.18769433813CEAB5.title: "初来乍到"
 	chapter.2B8D34EF15502DE0.title: "魔法植物"
 	chapter.34C5F6F72DB31D06.title: "工业革命"
 	chapter.3A404246AC67A6B3.title: "格雷里程碑"
+	chapter.48AE5BD13D05597C.title: "接通电源"
 	chapter.4EADFC9AC113DB4F.title: "齿轮初转"
 	chapter.542E096231C9870F.title: "欢迎游玩各类格雷科技"
+	chapter.68D1E98D585EC95F.title: "格雷歌舞团"
+	chapter.75D096098ABB9BBF.title: "大法师"
 	chapter_group.1E41C4251BE5664C.title: "主线"
 	file.0000000000000001.title: "各类格雷科技 · GREGA"
 	quest.0235C85E73D1E61A.quest_desc: ["保持原版格雷配方和电路额定等级，本系列无需本包3D纳米部件。"]
 	quest.0235C85E73D1E61A.title: "量子处理器核心 · IV"
+	quest.02445D7603FB0651.quest_desc: [
+		"好吧，其实用来做矿物处理有点太慢了，但我还是建议你做一个，因为..."
+		"你不会想要研磨整个砖块来获得1个砖粉的。"
+	]
+	quest.02445D7603FB0651.title: "终于可以倍矿了"
 	quest.04D7891740B4AD10.quest_desc: ["轻量过渡：MV压模机制纳米CPU，电路组装机完成四级，短配方且无需洁净室。"]
 	quest.04D7891740B4AD10.title: "纳米计算单元 · MV"
+	quest.04E9C00F74524DB3.quest_desc: ["虽然陨石中心的宝藏是我们目前最需要的东西，然而外围的陨石块将来也会用到，记得采集一些。"]
 	quest.04EF2F3B87B14CB1.quest_desc: ["基础线圈温度：10800 K。此行按加热能力排列，不表示配方或电压解锁。"]
 	quest.04EF2F3B87B14CB1.title: "三钛合金线圈"
 	quest.06C2363AE1E4CD32.quest_desc: ["保持原版格雷配方和电路额定等级，本系列无需本包3D纳米部件。"]
 	quest.06C2363AE1E4CD32.title: "湿件处理器核心 · ZPM"
-	quest.09831E6BAD1F88D9.quest_desc: ["用金锭与成年猪灵以物易物。新增奖励为等权重的逻辑、运算、硅模板，不含工程模板；陨石则不出硅模板。"]
-	quest.09831E6BAD1F88D9.title: "猪灵的改良版"
-	quest.09E8E27A5CBB94B5.quest_desc: ["按指定 3×3 排列合成：第一行锤、锉刀、剪线钳；第二行逻辑、运算、工程处理器；第三行红色合金线缆、钢板、红色合金线缆。GT 工具按正常合成规则损耗并返还。此部件替代真空管，也进入电路装配机使用的 ULV 电路标签。"]
-	quest.09E8E27A5CBB94B5.title: "新的电子基础"
+	quest.07EB8F4D03A46922.quest_desc: ["具有划时代意义的材料！"]
 	quest.0A00D22823E90B18.title: "各类格雷工具"
-	quest.0AF73F7721E7F090.quest_desc: ["为法术书准备两张钢板。与植物魔法的魔力钢粉、魔力书一同装订，也要为 GT 工具和基础电子电路部件留出钢。"]
-	quest.0AF73F7721E7F090.title: "钢的门槛"
+	quest.0C399E408066B228.quest_desc: [
+		"右键原木以将其雕刻成图腾基座。我们之后的演奏都要在其周围。"
+		"如果你有任何疑问，可以打开图腾百科全书查看。"
+	]
 	quest.0F2A3E2C86D780C9.quest_desc: ["路上见到可以顺手采一些，将来会用到"]
 	quest.0F2A3E2C86D780C9.title: "五颜六色的花"
-	quest.1111482F6BF29F70.quest_desc: [
-		"用青铜机器外壳、六根小型青铜流体管与两个活塞制作 GREGA 蒸汽压印机，不需要电路。输入蒸汽并留出排气空间，模板不消耗。用印刷电路、印刷硅与红色合金板组装各类 AE 处理器。"
-		"后续各标准电压都有电力压印机，使用同档机器外壳、两个电动活塞、两块电路与四根线缆制作，支持标准超频。本包移除了 AE 原版压印器的制作与压印配方。"
-	]
-	quest.1111482F6BF29F70.title: "以蒸汽压印"
 	quest.13584524A9C5BAC4.quest_desc: ["基础线圈温度：5400 K。此行按加热能力排列，不表示配方或电压解锁。"]
 	quest.13584524A9C5BAC4.title: "高速钢 G线圈"
+	quest.1400E4E6A7EA3E2A.quest_desc: [
+		"希望这个能帮到你。"
+		"翻翻任务，或许还有其他东西也能帮到你！"
+	]
+	quest.1400E4E6A7EA3E2A.title: "好想找到丛林啊"
+	quest.140763B1D4091777.title: "压缩！"
+	quest.1564F3C0950AA42C.quest_desc: ["顺便一提，你能制作更多烟花火箭了现在（相比原版）。"]
+	quest.1564F3C0950AA42C.title: "格雷人能飞格雷人能飞"
 	quest.15C58CA45BA98B8B.quest_desc: ["由过孔基板、键合晶粒、多层互连构成的独立3D纳米电路系列。高阶3D纳米电路使用本系列前一级；其他电路系列保持各自配方。"]
 	quest.15C58CA45BA98B8B.title: "3D纳米处理器核心 · EV"
+	quest.16C9E6B7B7BA41F3.quest_desc: ["是的，这也是一种矿物。当然，你也可以从陨石中得到！"]
+	quest.183DEFA4930AAE57.quest_desc: ["将来会有很多很多合金的！"]
+	quest.183DEFA4930AAE57.title: "制作合金专用"
 	quest.18C47E282A6283DD.quest_desc: ["检测此级机器外壳。列中电路按额定等级排列，制作电压以实际配方为准。"]
 	quest.18C47E282A6283DD.title: "IV 机器外壳等级"
-	quest.19E0159F45B7AAEA.quest_desc: ["用土高炉砖搭建 GT 土高炉。以铁或锻铁配合煤、木炭炼出第一批钢，这一步不需要电路。"]
-	quest.19E0159F45B7AAEA.title: "以土石筑炉"
 	quest.1A2D4DE137808A84.quest_desc: ["接近 LV 阶段的材料里程碑；本图不改写其生产配方。"]
 	quest.1A2D4DE137808A84.title: "钢"
 	quest.1A83CD0FEF41D7A3.quest_desc: ["如果你不知道该做什么，看看火红莲吧"]
 	quest.1A83CD0FEF41D7A3.title: "产生魔法力量"
+	quest.1B68390E17F3AD2E.quest_desc: ["尽管外星科技做出的电路板非常适合存储物品和流体，在我们的环境中，它们很难胜任控制机器的工作。不过，把它们组合为一个部件，我们就可以造出我们的第一块能够控制机器的电路板。"]
+	quest.1BCDA39D911254F2.quest_desc: ["很合理"]
+	quest.1BCDA39D911254F2.title: "搅拌机...蒸汽？"
 	quest.1C9878369075680B.title: "蒸汽！"
 	quest.1D5EE19FFCBB61C8.title: "非常适合制作蒸汽机器的合金"
+	quest.1DBD1C9E3B86371B.title: "魔力物品"
 	quest.1EDDF3EFD66C7BE8.quest_desc: ["检测此级机器外壳。列中电路按额定等级排列，制作电压以实际配方为准。"]
 	quest.1EDDF3EFD66C7BE8.title: "LV 机器外壳等级"
+	quest.1F7F85166EE6531F.quest_desc: [
+		"外星科技落到我们手里啦！"
+		"然而锗压印工艺我们目前无法获知，因此也无法造出电路板——不过，也许在其他地方会有一些替代方案？"
+	]
+	quest.209F4C4B65FCD7B0.quest_desc: ["锻铁制作的工具具有更高的耐久。"]
 	quest.209F4C4B65FCD7B0.title: "炼钢青春版"
 	quest.22AF2D684A44EE79.quest_desc: ["沿用现有 GT 电路进度，额定等级为 LV。"]
 	quest.22AF2D684A44EE79.title: "基础电子电路 · LV"
-	quest.2374AD6C2B265EA7.quest_desc: ["用研钵把安山岩与锌锭磨成粉。工作台将3份安山岩粉与1份锌粉混成3份安山合金粉，再烧制为安山合金；蒸汽搅拌机可把相同配料的产量提高到4份。随后制作传动杆、水车和机械压力机，压出锻造锤所需的铁板材。"]
-	quest.2374AD6C2B265EA7.title: "驱动机械压力机"
+	quest.244F5388C7E4CFE5.title: "真拿你没办法，坐好喽！"
 	quest.2496467BC272E48D.quest_desc: ["检测此级机器外壳。列中电路按额定等级排列，制作电压以实际配方为准。"]
 	quest.2496467BC272E48D.title: "LuV 机器外壳等级"
 	quest.2570A13E0B9D3103.quest_desc: ["接近 HV 阶段的材料里程碑；本图不改写其生产配方。"]
 	quest.2570A13E0B9D3103.title: "不锈钢"
 	quest.2616BE8183B1D4BD.quest_desc: ["由过孔基板、键合晶粒、多层互连构成的独立3D纳米电路系列。高阶3D纳米电路使用本系列前一级；其他电路系列保持各自配方。"]
 	quest.2616BE8183B1D4BD.title: "3D纳米高性能计算机 · LuV"
+	quest.268448C6576EEE9D.title: "更省燃料的熔炉"
 	quest.26DBDA4E75F7E277.quest_desc: ["检测此级机器外壳。列中电路按额定等级排列，制作电压以实际配方为准。"]
 	quest.26DBDA4E75F7E277.title: "HV 机器外壳等级"
 	quest.278A720D78DA89C1.quest_desc: ["基础线圈温度：1800 K。此行按加热能力排列，不表示配方或电压解锁。"]
@@ -65,8 +86,6 @@
 	quest.29174284BE95D415.title: "镓"
 	quest.294283C34AE97D04.quest_desc: ["保持原版格雷配方和电路额定等级，本系列无需本包3D纳米部件。"]
 	quest.294283C34AE97D04.title: "量子计算单元 · EV"
-	quest.2B63D4A0FB2EE0FF.quest_desc: ["打破陨石中的神秘方块可获得逻辑、运算、工程、锗四种模板。锗模板属于外星工艺，可收藏，但不能用于人类的压印或合成。"]
-	quest.2B63D4A0FB2EE0FF.title: "陨石里的外星模板"
 	quest.2B79EE7BA5C8DAE9.quest_desc: ["额定等级降低一级；在电路组装机使用焊锡合金焊接，制作电压也已降低。"]
 	quest.2B79EE7BA5C8DAE9.title: "微型多核处理器 · HV"
 	quest.2B9B2ED87BCC8D3C.quest_desc: [
@@ -78,6 +97,11 @@
 	quest.2C7F1E70249B2744.title: "锻铁"
 	quest.2D11BC6CAE596926.quest_desc: ["保持原版格雷配方和电路额定等级，本系列无需本包3D纳米部件。"]
 	quest.2D11BC6CAE596926.title: "晶体计算单元 · IV"
+	quest.2E0339A5B2D17291.quest_desc: [
+		"在图腾基座附近，潜行时依次吹响长笛、敲响鼓，便能够启动春之祭仪式。"
+		"尽可能使用各种乐器进行演奏，在事件结束之前奏响足够多的旋律！（提示：只使用一种乐器似乎难以产生足够悦耳的交响乐）"
+	]
+	quest.2E0339A5B2D17291.title: "春之祭"
 	quest.3113A158D6E40789.title: "需要应力"
 	quest.31D93CB341C27342.quest_desc: ["检测此级机器外壳。列中电路按额定等级排列，制作电压以实际配方为准。"]
 	quest.31D93CB341C27342.title: "ULV 机器外壳等级"
@@ -89,6 +113,7 @@
 	quest.3548459082A5A44E.title: "魔力系统"
 	quest.35564F7453141C8A.quest_desc: ["保持原版格雷配方和电路额定等级，本系列无需本包3D纳米部件。"]
 	quest.35564F7453141C8A.title: "湿件高性能计算机 · UHV"
+	quest.371D626D516E0A63.quest_desc: ["熟悉的物品，不一样的配方。"]
 	quest.37EEC5FAAF951001.quest_desc: ["接近 IV 阶段的材料里程碑；本图不改写其生产配方。"]
 	quest.37EEC5FAAF951001.title: "钨钢"
 	quest.38C1E1366568618F.quest_desc: ["轻量过渡：MV压模机制纳米CPU，电路组装机完成四级，短配方且无需洁净室。"]
@@ -99,102 +124,108 @@
 	quest.3B4D1D488E98915C.title: "微型高性能计算机 · EV"
 	quest.3B5CC1B66231F1FA.quest_desc: ["保持原版格雷配方和电路额定等级，本系列无需本包3D纳米部件。"]
 	quest.3B5CC1B66231F1FA.title: "量子高性能计算机 · ZPM"
+	quest.3C27B6C795387E73.title: "进入下界"
 	quest.3F1E5FA4738A8CDA.quest_desc: ["接近 MV 阶段的材料里程碑；本图不改写其生产配方。"]
 	quest.3F1E5FA4738A8CDA.title: "铝"
 	quest.3F9142B4A945D41A.quest_desc: ["沿用现有 GT 电路进度，额定等级为 HV。"]
 	quest.3F9142B4A945D41A.title: "高级集成电路 · HV"
 	quest.403798DC7C0061F9.quest_desc: ["检测此级机器外壳。列中电路按额定等级排列，制作电压以实际配方为准。"]
 	quest.403798DC7C0061F9.title: "MV 机器外壳等级"
-	quest.4057BD31B7AEEFA4.quest_desc: ["用机械压力机把铁锭压成铁板材。准备六张，为第一把 GT 锻造锤制作锤头。"]
-	quest.4057BD31B7AEEFA4.title: "先压板，再锻造"
+	quest.40ECB182C9334160.quest_desc: ["没办法，毕竟按理说橡胶树已经在这个世界灭绝了，我们也只能采取这种猎奇的方式了。"]
 	quest.42DF6DC0A9F0D4CC.quest_desc: ["基础线圈温度：2700 K。此行按加热能力排列，不表示配方或电压解锁。"]
 	quest.42DF6DC0A9F0D4CC.title: "坎塔尔合金线圈"
 	quest.432E2A1085843147.quest_desc: ["AE 处理器与钢取代旧真空管，成为前期 GT 配方实际使用的 ULV 部件。"]
 	quest.432E2A1085843147.title: "基础电子电路部件 · ULV"
 	quest.43C773B4094BDF6C.quest_desc: ["基础线圈温度：9001 K。此行按加热能力排列，不表示配方或电压解锁。"]
 	quest.43C773B4094BDF6C.title: "凯金线圈"
+	quest.45203E1CE4E99A79.quest_desc: ["与拿在手中吹响的长笛不同，鼓是一种放在地上进行击打的乐器。我们可以多放几个鼓，并在演奏时交替击打。"]
 	quest.46371BD898F30B9D.quest_desc: ["轻量过渡：MV压模机制纳米CPU，电路组装机完成四级，短配方且无需洁净室。"]
 	quest.46371BD898F30B9D.title: "纳米处理器核心 · HV"
-	quest.47D833C0F30AC57D.quest_desc: [
-		"在抄写台使用法术书选择 GREGA 的四种一级效果魔符，每种消耗27点经验与配方材料。取出并使用魔符来学习效果；开启传送门之魔符使用黑曜石、钢板和魔源宝石制作。"
-		"法术编辑器中组合并保存「接触 → 开启传送门」。对黑曜石或天境门框内侧、暮色森林水池、植物魔法精灵传送门核心施法。保留各模组的结构、维度、进度与魔力要求；这些门不再由普通点火、钻石、水桶或森林法杖开启。"
-		"「自身 → 设置家」在主世界记录脚边安全落点；「自身 → 归家」从任意维度返回，死亡保留家坐标。"
-		"「自身 → 漫游」在主世界进行RTP：在出生点周围512–2048格搜索至多八处安全地表。归家与漫游共用60秒冷却，搜索失败等待5秒；骑乘或睡眠时不可旅行。效果耗魔依次为80/20/80/100，另加施法方式耗魔。"
-	]
-	quest.47D833C0F30AC57D.quest_subtitle: "在法术书中组装旅行法术"
-	quest.47D833C0F30AC57D.title: "写在书页中的旅途"
 	quest.4906DCE219C4A5BD.quest_desc: ["保持原版格雷配方和电路额定等级，本系列无需本包3D纳米部件。"]
 	quest.4906DCE219C4A5BD.title: "量子多核处理器 · LuV"
 	quest.49202C8535C19805.quest_desc: ["检测此级机器外壳。列中电路按额定等级排列，制作电压以实际配方为准。"]
 	quest.49202C8535C19805.title: "UV 机器外壳等级"
+	quest.498C9CE84F68DAEE.quest_desc: [
+		"格雷的电力有电压和电流。"
+		"配方会有需求的电压等级，若机器的电压等级小于需求等级则无法制作该配方。电压等级每升1级，电压变为4倍。"
+		"配方中标注的还有功率，功率等于电压乘电流，一般的配方会需求一个小于1A的电流，这是因为导线有线损，机器难以获得全额的1A电流。"
+		"将高等级电压的电接入低等级机器将引发&4&l爆炸&r！"
+	]
+	quest.498C9CE84F68DAEE.title: "电力系统"
 	quest.49DEB3F88B437209.quest_desc: ["Create 铁板材通往第一把锻造锤；土高炉钢与法术书将带你找到 AE 模板的两种来源。"]
 	quest.49DEB3F88B437209.title: "蒸汽基础"
+	quest.4A5EB1C1CF82B20B.quest_desc: ["橡树有某种优秀的基因，我们需要它！"]
 	quest.4B379ACA08A9FD67.quest_desc: ["保持原版格雷配方和电路额定等级，本系列无需本包3D纳米部件。"]
 	quest.4B379ACA08A9FD67.title: "晶体处理器核心 · LuV"
+	quest.4BD8A0027F3F1BB9.quest_desc: ["与上次类似，这次是摇响器然后风铃，而这次将要变身的动物是...鹦鹉？"]
 	quest.4BE4F9EF5ECA38C2.title: "非常适合制作机械组件的合金"
-	quest.4CCCA71DE7C1DF3B.quest_desc: ["将六张 Create 铁板材与木棒组合成铁锻造锤。随后按 GT 工具与板材路线制作青铜蒸汽机器，并保持排气口畅通。"]
-	quest.4CCCA71DE7C1DF3B.title: "第一把锻造锤"
 	quest.4D577B12C0BBF611.quest_desc: ["保持原版格雷配方和电路额定等级，本系列无需本包3D纳米部件。"]
 	quest.4D577B12C0BBF611.title: "晶体多核处理器 · ZPM"
 	quest.4DE3082C5A2AF1F6.quest_desc: ["基础线圈温度：4500 K。此行按加热能力排列，不表示配方或电压解锁。"]
 	quest.4DE3082C5A2AF1F6.title: "RTM 合金线圈"
-	quest.4E20CCAD4ABA1ED3.quest_desc: [
-		"按九宫格装订初学者法术书：第一行「锉刀、魔力钢粉、锻造锤」；第二行「钢板、魔力书、钢板」；第三行「青金石粉、金粉、红石粉」。锉刀与锻造锤按 GT 工具规则损耗并返还。"
-		"魔力书由普通书在魔力池中消耗3000魔力注入得到。魔力钢锭使用植物魔法原物品，可用 GT 研钵磨成粉或在打粉机加工；更高级法术书仍从这本书升级。"
-	]
-	quest.4E20CCAD4ABA1ED3.title: "以钢与魔力装订法术书"
 	quest.4F2CE5032FABD81A.quest_desc: ["接近 LuV 阶段的材料里程碑；本图不改写其生产配方。"]
 	quest.4F2CE5032FABD81A.title: "镀铑钯"
 	quest.51B2E4D45B81F39C.quest_desc: ["额定等级降低一级；在电路组装机使用焊锡合金焊接，制作电压也已降低。"]
 	quest.51B2E4D45B81F39C.title: "微型计算单元 · LV"
 	quest.5331CF8D11929E3A.quest_desc: ["基础线圈温度：7200 K。此行按加热能力排列，不表示配方或电压解锁。"]
 	quest.5331CF8D11929E3A.title: "硅岩线圈"
+	quest.5420144865E4362A.quest_desc: ["打碎随处可见的沙砾，就得到了最基础的一种材料——燧石。"]
 	quest.57D21A63046E575F.quest_desc: ["额定等级降低一级；在电路组装机使用焊锡合金焊接，制作电压也已降低。"]
 	quest.57D21A63046E575F.title: "微型处理器核心 · MV"
+	quest.582844DB9C12333B.quest_desc: ["高压蒸汽锅炉和机器不会为你解锁更多配方，但他们工作得更快。"]
+	quest.582844DB9C12333B.title: "高压机器"
 	quest.58BC469662794E68.quest_desc: ["接近 EV 阶段的材料里程碑；本图不改写其生产配方。"]
 	quest.58BC469662794E68.title: "钛"
+	quest.5BAABEDFB735D05F.title: "其他矿物"
 	quest.5BB76A9F0B3883EC.title: "神奇的花药台"
 	quest.5BD567E09BE0C71D.quest_desc: ["检测此级机器外壳。列中电路按额定等级排列，制作电压以实际配方为准。"]
 	quest.5BD567E09BE0C71D.title: "EV 机器外壳等级"
 	quest.5C120007BA6FE1C0.quest_desc: ["检测此级机器外壳。列中电路按额定等级排列，制作电压以实际配方为准。"]
 	quest.5C120007BA6FE1C0.title: "ZPM 机器外壳等级"
+	quest.5C91872F179325FA.quest_desc: ["长笛是一种非常简单的乐器。"]
 	quest.5D7C91AFCB1C0154.quest_desc: ["沿用现有 GT 电路进度，额定等级为 MV。"]
 	quest.5D7C91AFCB1C0154.title: "优质集成电路 · MV"
+	quest.5F650BA07FD35AD0.title: "金属资源"
+	quest.60E5E545542AC844.quest_desc: [
+		"大型锅炉能够产生大量蒸汽，是前期发电的不二之选！"
+		"以后你还可以将其升级为大型钢锅炉、大型钛锅炉甚至大型钨钢锅炉，而且燃料燃烧的时间并&l&2不会&r&r随锅炉升级而变短！"
+		"你还可以选择调整节流来减少不必要的蒸汽浪费，延长燃料的燃烧时间。"
+	]
 	quest.6109EA2124D283C3.quest_desc: ["保持原版格雷配方和电路额定等级，本系列无需本包3D纳米部件。"]
 	quest.6109EA2124D283C3.title: "湿件多核处理器 · UV"
 	quest.6405515CF14B74BE.quest_desc: ["保持原版格雷配方和电路额定等级，本系列无需本包3D纳米部件。"]
 	quest.6405515CF14B74BE.title: "晶体高性能计算机 · UV"
+	quest.6431E98DFBA13B7A.title: "锻造时间到！"
 	quest.64D9720B463056F1.quest_desc: ["接近 EV 阶段的材料里程碑；本图不改写其生产配方。"]
 	quest.64D9720B463056F1.title: "铂"
 	quest.665153AB06F02835.quest_desc: ["接近 ULV 阶段的材料里程碑；本图不改写其生产配方。"]
 	quest.665153AB06F02835.title: "青铜"
 	quest.667D78EFE7C82857.quest_desc: ["接近 ZPM 阶段的材料里程碑；本图不改写其生产配方。"]
 	quest.667D78EFE7C82857.title: "硅岩合金"
+	quest.67922137F8AB367A.quest_desc: ["不是你记忆中的压印机，但你离不开它的程度没两样。"]
+	quest.67922137F8AB367A.title: "这是什么？"
 	quest.67AF4278249A71EC.quest_desc: ["沿用现有 GT 电路进度，额定等级为 MV。"]
 	quest.67AF4278249A71EC.title: "优质电子电路 · MV"
-	quest.6A3971C3E46C91CE.title: "传递动力"
-	quest.6A989482F36FB02E.quest_desc: ["青铜粉必须在 Create 搅拌盆中用机械搅拌器混合：3份铜粉与1份锡粉得到4份青铜粉，无需加热。工作台和 GT 搅拌机的混粉配方已移除。随后搭建小型锅炉和蒸汽机器；蒸汽合金炉可在电力之前供应红色合金。"]
-	quest.6A989482F36FB02E.title: "青铜与蒸汽"
-	quest.6D4A1B8E2C903F10.quest_desc: ["从神秘花与花药台开始，用白色花瓣和种子制作白雏菊。把原木与石头放在白雏菊周围，分别转化为活木和活石；植物魔法辞典可随时查阅完整步骤。"]
-	quest.6D4A1B8E2C903F10.title: "白雏菊与活木活石"
-	quest.6D4A1B8E2C903F20.quest_desc: ["用活木制作魔力发射器，用活石制作魔力池。用森林法杖把炽玫瑰绑定到发射器，再让发射器指向池。炽玫瑰消耗投掷在附近的燃料，把魔力积存在池里。"]
-	quest.6D4A1B8E2C903F20.title: "最初的魔力"
-	quest.6D4A1B8E2C903F30.quest_desc: [
-		"把铁锭投入有足够魔力的池，得到植物魔法原生的魔力钢锭。魔力钢已注册为 GT 材料：用研钵磨成魔力钢粉，后续也可用打粉机加工。"
-		"再将普通书投入魔力池，消耗3000魔力得到魔力书。带上魔力钢粉、魔力书和钢板，主线便可进入新生魔艺。"
-	]
-	quest.6D4A1B8E2C903F30.title: "把魔力写入钢与书"
+	quest.6A30ACC66D0BA3C5.quest_desc: ["每2mB蒸汽可以推动涡轮产生1EU电力。"]
+	quest.6A3971C3E46C91CE.title: "传递应力"
+	quest.6F9F17B7F9129251.title: "采矿时间到！"
 	quest.70BA313A629076D6.title: "研钵"
 	quest.71B6786C67170E78.quest_desc: ["接近 UHV 阶段的材料里程碑；本图不改写其生产配方。"]
 	quest.71B6786C67170E78.title: "中子素"
-	quest.763FB77B42C26AA4.quest_desc: ["最终需要逻辑、运算、工程、硅四块模板。检测不会消耗模板；复制模板也必须先有一块母版。"]
-	quest.763FB77B42C26AA4.title: "凑齐四块可用模板"
+	quest.726EE8A27393C1D7.quest_desc: [
+		"找到一些牛，让他们跟随你来到周围，然后潜行状态下依次击打鼓和风铃。"
+		"一场美妙的演奏会让他们当场化身野牛。"
+		"然后...希望野生动物保护组织不要找上门。"
+	]
+	quest.726EE8A27393C1D7.title: "曼丹野牛舞"
 	quest.770E582403E4610F.quest_desc: ["沿用现有 GT 电路进度，额定等级为 LV。"]
 	quest.770E582403E4610F.title: "基础集成电路 · LV"
 	quest.779F1F2E2DD938C1.quest_desc: ["轻量过渡：MV压模机制纳米CPU，电路组装机完成四级，短配方且无需洁净室。"]
 	quest.779F1F2E2DD938C1.title: "纳米高性能计算机 · IV"
+	quest.77DD7EB2BB53E70E.quest_desc: ["梦开始的地方！"]
 	quest.7806CE12C1200F10.quest_desc: ["接近 UV 阶段的材料里程碑；本图不改写其生产配方。"]
 	quest.7806CE12C1200F10.title: "鐽"
+	quest.795CAB0E8EEF8B50.quest_desc: ["叮当舞装可以让你在跑跳时产生美妙的音乐。虽然其能产生的旋律并不多，但毕竟不会占用其他乐器的演奏时间。"]
 	quest.7A819A935174FA6B.quest_desc: ["保持原版格雷配方和电路额定等级，本系列无需本包3D纳米部件。"]
 	quest.7A819A935174FA6B.title: "湿件计算单元 · LuV"
 	quest.7B899364DA8634EF.quest_desc: [
@@ -208,19 +239,27 @@
 	quest.7BB35D81F18D7F73.title: "钨"
 	quest.7BF49C8C1B5F8107.quest_desc: ["检测此级机器外壳。列中电路按额定等级排列，制作电压以实际配方为准。"]
 	quest.7BF49C8C1B5F8107.title: "UHV 机器外壳等级"
+	quest.7D48F546E779106B.quest_desc: ["下界的猪灵们意外获得了外星科技的一些样板。他们将锗压印工艺改良为硅工艺。只要你获得他们的硅压印模板，你也可以使用。不过可惜的是，他们并没有获得工程压印模板，这也极大限制了他们的科技发展。"]
+	quest.7F2D1D5AD0210B0D.quest_desc: ["把它挂在树上，它能够为你的演奏添加一些不一样的旋律！"]
 	quest.7F7A751BD8508DD6.quest_desc: ["由过孔基板、键合晶粒、多层互连构成的独立3D纳米电路系列。高阶3D纳米电路使用本系列前一级；其他电路系列保持各自配方。"]
 	quest.7F7A751BD8508DD6.title: "3D纳米计算单元 · HV"
 	task.018B26626C4EA7F1.title: "关于任务"
 	task.0350FD56AABAE923.title: "Any #gtceu:crafting_tools/mortar"
+	task.03E5BC2BF4865CA3.title: "蒸汽压印机"
+	task.0EE7F3621EF2EFF5.title: "低压蒸汽锅炉（燃煤、燃液或太阳能任选）"
+	task.17090C182371278B.title: "蒸汽锻造机"
 	task.1731C1F067E300A0.title: "Any #botania:small_mystical_flowers"
 	task.2E7F44DE0D7C6B3E.title: "Any #gtceu:crafting_tools/saw"
+	task.4348B7C5B254BEF7.title: "蒸汽电炉"
+	task.4527CF8797D676E1.title: "蒸汽合金炉"
 	task.4914171811E13637.title: "Any #gtceu:crafting_tools/screwdriver"
 	task.4FBB7D31212E40BA.title: "Any #botania:petals"
-	task.6566FE169F275B70.title: "获得开启传送门之魔符"
+	task.64BB922B96418E76.title: "电力系统"
 	task.71641BBD254296D6.title: "Any #minecraft:logs"
 	task.71AF91992C051106.title: "Any #gtceu:crafting_tools/hammer"
 	task.722903D10B30297F.title: "Any #gtceu:crafting_tools/file"
 	task.748D243FF99A5017.title: "Any #botania:petal_apothecaries"
 	task.74B4EF9F13FBA4F7.title: "需要应力"
 	task.79FC55213F4D07A9.title: "Any #botania:generating_special_flowers"
+	task.7D65EF997D26A84E.title: "蒸汽打粉机"
 }
