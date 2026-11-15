@@ -1,12 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/almostunified/unification/materials.json"
+hash = "4c5bc89c02f90cd27af4fd6977e1f2adc38cdad4eaac8fe4c707f1a6aa53578b"
+
+[[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
 hash = "e9e0daacf0a4fe587c0231cea95dc56f1aae62c5e8b1d3371829360a50f1b332"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/early_progression.snbt"
-hash = "92c010b171b6ed9267bd0e5ae8870526c62e5f48fe3b4b9558be778c9656a4bf"
+hash = "e215ebc9521dd29326707ddb556b9841aacb1dcc83ee73793a815e36f21434f3"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/gregtech_milestones.snbt"
@@ -18,11 +22,11 @@ hash = "8c0b6b56bfc86ae88269aaac768df87ba7082abb8e5ae1241f2cebdb5f25b3bc"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "74f1dd433b371ecc6dcae73e24bedf2c7f68a9800b33d769901f09c9fbc08b1c"
+hash = "a0f84b15657a1fc774b381dd223adb56e367d49d68c5fe8a2bdd2aab086153bf"
 
 [[files]]
 file = "config/ftbquests/quests/lang/zh_cn.snbt"
-hash = "f5df5380c1309428de7a5bb112760266ddd304ff311f6a07345cd2fa15aec1d4"
+hash = "4bd454d3d8615ce285d6056f1fa845d217551df744a3a578c95ff2cd648d1acd"
 
 [[files]]
 file = "config/gtceu.yaml"
@@ -85,6 +89,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
+file = "mods/ftb-filter-system.pw.toml"
+hash = "85d4ec90ffc0384a280f7836b1f297a05b8033f7af4b791963fc9b437bd26e80"
 metafile = true
 
 [[files]]

@@ -2,9 +2,7 @@
   "file.0000000000000001.title": "GREGA",
   "chapter.25569D0A4F2ACDAF.title": "First Gears, First Circuits",
   "quest.2374AD6C2B265EA7.title": "Power a Mechanical Press",
-  "quest.2374AD6C2B265EA7.quest_desc": [
-    "Start with andesite alloy, a shaft and a water wheel. Split iron ingots into nuggets for the alloy. Craft the first press from iron ingots, then use it to press your hammer plates."
-  ],
+  "quest.2374AD6C2B265EA7.quest_desc": ["Grind Andesite and Zinc Ingots with a GT Mortar. Craft 3 Andesite Dust and 1 Zinc Dust into 3 Andesite Alloy Dust, then smelt it into Andesite Alloy. A steam mixer yields 4 dust from the same ingredients. Build a shaft, water wheel and Mechanical Press, then press the iron sheets for your first forge hammer."],
   "quest.4057BD31B7AEEFA4.title": "Press Before You Hammer",
   "quest.4057BD31B7AEEFA4.quest_desc": [
     "Press iron ingots into six iron sheets. These are the head of your first GT hammer."
@@ -31,14 +29,9 @@
     "Infuse an ordinary Book in a Mana Pool with 3000 mana to make the Mana-infused Book. Use Botania's own Manasteel Ingots and grind them with a GT Mortar or Macerator. Higher spell books still upgrade from this one."
   ],
   "quest.47D833C0F30AC57D.title": "Travel Written in a Book",
-  "quest.47D833C0F30AC57D.quest_desc": [
-    "At a Scribe's Table, select the four GREGA tier-one effect glyphs using your spell book. Each costs 27 XP points plus its recipe ingredients. Take the glyph and use it to learn the effect. Nether Gate needs obsidian, steel and a Source Gem; no Nether visit is required.",
-    "Open the Ars spell editor (default C), assemble and save Touch → Nether Gate, then cast at the inner face of a complete obsidian frame in the Overworld or Nether. Ordinary fire, flint and steel, dispensers, GT lighters and lava cannot open it.",
-    "Self → Set Home saves a safe position near your feet in the Overworld. Self → Homeward returns from any dimension. Your home survives death.",
-    "Self → Wander performs Overworld RTP, checking up to eight safe surface locations 512–2048 blocks from spawn. Homeward and Wander share a 60-second cooldown; failed safety searches delay retries by 5 seconds. Dismount and wake up first. Effect mana costs are 80/20/80/100, plus the casting method."
-  ],
+  "quest.47D833C0F30AC57D.quest_desc": ["At a Scribe's Table, select the four GREGA tier-one effect glyphs using your spell book. Each costs 27 XP points and its recipe ingredients. Take and use the glyph to learn it. The Glyph of Open Portal uses obsidian, a Steel Plate and a Source Gem.", "Save Touch → Open Portal in the spell editor. Cast on an inner obsidian or Aether frame face, a Twilight Forest pool, or an Elven Gateway Core. Native structure, dimension, progression and mana requirements still apply. Ordinary ignition, diamonds, water buckets and the Wand of the Forest no longer activate these gateways.", "Self → Set Home saves a safe position near your feet in the Overworld. Self → Homeward returns from any dimension. Your home survives death.", "Self → Wander performs Overworld RTP, checking up to eight safe surface locations 512–2048 blocks from spawn. Homeward and Wander share a 60-second cooldown; failed safety searches delay retries by 5 seconds. Dismount and wake up first. Effect mana costs are 80/20/80/100, plus the casting method."],
   "quest.47D833C0F30AC57D.quest_subtitle": "Assemble travel spells in your book",
-  "task.6566FE169F275B70.title": "Obtain the Nether Gate glyph",
+  "task.6566FE169F275B70.title": "Obtain the Glyph of Open Portal",
   "quest.2B63D4A0FB2EE0FF.title": "Alien Masters",
   "quest.2B63D4A0FB2EE0FF.quest_desc": [
     "Break a meteorite's mysterious cube to recover logic, calculation, engineering and germanium presses. Germanium is alien technology: keep it as a relic; no human recipe accepts it."

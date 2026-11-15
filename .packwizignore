@@ -45,6 +45,11 @@
 /config/*
 !/config/gtceu.yaml
 !/config/twilightforest-common.toml
+!/config/almostunified/
+/config/almostunified/*
+!/config/almostunified/unification/
+/config/almostunified/unification/*
+!/config/almostunified/unification/materials.json
 !/config/ftbquests/
 !/config/ftbquests/**
 
