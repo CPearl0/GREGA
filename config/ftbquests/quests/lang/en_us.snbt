@@ -15,7 +15,7 @@
   ],
   "quest.6A989482F36FB02E.title": "Bronze and Steam",
   "quest.6A989482F36FB02E.quest_desc": [
-    "Mix copper and tin dust for bronze, then build a small boiler and steam machines. The alloy smelter supplies red alloy before electricity."
+    "Mix 3 Copper Dust and 1 Tin Dust into 4 Bronze Dust using a Create Mechanical Mixer and Basin, without heat. Crafting-table and GT mixer powder recipes are removed. Build a boiler and steam machines; the Steam Alloy Smelter supplies Red Alloy before electricity."
   ],
   "quest.19E0159F45B7AAEA.title": "A Furnace Made of Earth",
   "quest.19E0159F45B7AAEA.quest_desc": [
@@ -23,11 +23,12 @@
   ],
   "quest.0AF73F7721E7F090.title": "The Steel Threshold",
   "quest.0AF73F7721E7F090.quest_desc": [
-    "Steel plates bind the first Ars Nouveau spell book. Keep steel for GT tools and the electronic component as well."
+    "Prepare two Steel Plates for binding the spell book with Manasteel Dust and a Mana-infused Book. Save steel for GT tools and Basic Electronic Components too."
   ],
-  "quest.4E20CCAD4ABA1ED3.title": "Bind a Spell Book with Steel",
+  "quest.4E20CCAD4ABA1ED3.title": "Bind a Spell Book with Steel and Mana",
   "quest.4E20CCAD4ABA1ED3.quest_desc": [
-    "Craft the novice spell book from a book, three steel plates and lapis lazuli. Book upgrades still start with this book."
+    "Craft in this exact 3x3 arrangement: File / Manasteel Dust / Forge Hammer; Steel Plate / Mana-infused Book / Steel Plate; Lapis Dust / Gold Dust / Redstone Dust. GT tools take normal crafting damage and are returned.",
+    "Infuse an ordinary Book in a Mana Pool with 3000 mana to make the Mana-infused Book. Use Botania's own Manasteel Ingots and grind them with a GT Mortar or Macerator. Higher spell books still upgrade from this one."
   ],
   "quest.47D833C0F30AC57D.title": "Travel Written in a Book",
   "quest.47D833C0F30AC57D.quest_desc": [
@@ -52,7 +53,8 @@
   ],
   "quest.1111482F6BF29F70.title": "Steam Inscribing",
   "quest.1111482F6BF29F70.quest_desc": [
-    "Build GREGA's steam Inscriber from bronze plates, copper plates, a piston, a bronze casing and a wrench. No circuit is required. Feed steam and keep the vent clear. Presses are reusable. Assemble each processor from its printed circuit, printed silicon and a RED ALLOY PLATE. The AE inscriber has no crafting or processing recipes in GREGA."
+    "Craft the Steam Inscriber from a Bronze Machine Casing, six Small Bronze Fluid Pipes and two Pistons, without circuits. Supply steam and keep its vent clear. Presses are reusable; assemble printed circuits, printed silicon and Red Alloy Plates into AE processors.",
+    "Electric Inscribers are available at every standard voltage tier, using a matching Hull, two Electric Pistons, two Circuits and four Cables, with standard overclocking. AE2's original Inscriber crafting and processing recipes are removed."
   ],
   "quest.09E8E27A5CBB94B5.title": "The New Electronic Foundation",
   "quest.09E8E27A5CBB94B5.quest_desc": [
@@ -317,5 +319,18 @@
   "quest.04EF2F3B87B14CB1.title": "Tritanium Coils",
   "quest.04EF2F3B87B14CB1.quest_desc": [
     "Base coil temperature: 10800 K. Coils are listed by heat capability; this is not a recipe or voltage unlock."
+  ],
+  "quest.6D4A1B8E2C903F10.title": "Pure Daisy, Livingwood and Livingrock",
+  "quest.6D4A1B8E2C903F10.quest_desc": [
+    "Start with Mystical Flowers and a Petal Apothecary. Make a Pure Daisy using white petals and seeds. Place logs and stone around it to turn them into Livingwood and Livingrock; consult the Lexica Botania for the full steps."
+  ],
+  "quest.6D4A1B8E2C903F20.title": "The First Mana",
+  "quest.6D4A1B8E2C903F20.quest_desc": [
+    "Build a Mana Spreader from Livingwood and a Mana Pool from Livingrock. Bind an Endoflame to the spreader with a Wand of the Forest and point the spreader at the pool. Drop fuel near the Endoflame to start filling the pool."
+  ],
+  "quest.6D4A1B8E2C903F30.title": "Mana in Steel and Paper",
+  "quest.6D4A1B8E2C903F30.quest_desc": [
+    "Drop an Iron Ingot into a sufficiently filled Mana Pool to obtain Botania's own Manasteel Ingot. Manasteel is a GT material: grind an ingot into dust with a GT Mortar, or later use a Macerator.",
+    "Drop an ordinary Book into the pool and spend 3000 mana to obtain a Mana-infused Book. Together with Manasteel Dust and Steel Plates, it opens the Ars Nouveau mainline."
   ]
 }

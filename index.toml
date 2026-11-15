@@ -6,7 +6,7 @@ hash = "e9e0daacf0a4fe587c0231cea95dc56f1aae62c5e8b1d3371829360a50f1b332"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/early_progression.snbt"
-hash = "1ba55069c055cf0481baba31a5af7ccdb579ec3f5c9f34ff20bc2e9f7f780394"
+hash = "92c010b171b6ed9267bd0e5ae8870526c62e5f48fe3b4b9558be778c9656a4bf"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/gregtech_milestones.snbt"
@@ -18,15 +18,19 @@ hash = "8c0b6b56bfc86ae88269aaac768df87ba7082abb8e5ae1241f2cebdb5f25b3bc"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "4107dce52299d38517289411458f3c95a0998b5057fa8fd2e4fd34cabcc19b18"
+hash = "74f1dd433b371ecc6dcae73e24bedf2c7f68a9800b33d769901f09c9fbc08b1c"
 
 [[files]]
 file = "config/ftbquests/quests/lang/zh_cn.snbt"
-hash = "5f649f3dd2a81738ade38f5341487e2d931a48061e8e41815ac6a7081f8ee378"
+hash = "f5df5380c1309428de7a5bb112760266ddd304ff311f6a07345cd2fa15aec1d4"
 
 [[files]]
 file = "config/gtceu.yaml"
-hash = "7bef0df3b46161731fa8bcae486fd39388eac5530b316753a196d453ece553ad"
+hash = "751cac687ef5a241a11f0366cd04e35152d0200c6926b07d1eec200a8816f0c9"
+
+[[files]]
+file = "config/twilightforest-common.toml"
+hash = "fb23d373fee6bf585a536538fd486552bc8b24906b4c197fcbe9cd65a4460112"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -61,6 +65,11 @@ metafile = true
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "195e22716d6181d55297bfe296716c68ad44cc2a4c09ef2eb6f68048ff00618f"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "e16ed1e15a29befd3c9b3a3a733fed23b951d253e1bf9c28786870d05aace08c"
 metafile = true
 
 [[files]]
@@ -119,6 +128,12 @@ hash = "8a69e7494ed02e9aacad31734d6363f4dea03c47a81a3b1cfeb891f0c6a3676e"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "e80f0b9d01a0b8cf129d0b9f4b1ecebaf322b4eb9add8bcff048fdf61ad29018"
 metafile = true
+

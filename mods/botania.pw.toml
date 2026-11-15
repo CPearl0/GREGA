@@ -1,0 +1,10 @@
+# Official Maven snapshot pinned to an immutable timestamp and content hash.
+# Coordinate: vazkii.botania:botania-neoforge-1.21.1:457-SNAPSHOT
+name = "Botania"
+filename = "botania-neoforge-1.21.1-457-20261114.172517-32.jar"
+side = "both"
+
+[download]
+url = "https://maven.blamejared.com/vazkii/botania/botania-neoforge-1.21.1/457-SNAPSHOT/botania-neoforge-1.21.1-457-20261114.172517-32.jar"
+hash-format = "sha256"
+hash = "17893631d1d2f9910bf8126924deb6424aa319e98bbb6dff1a8b7403470fa5dd"
