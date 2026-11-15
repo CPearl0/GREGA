@@ -1,394 +1,292 @@
 {
-  "id": "25569D0A4F2ACDAF",
-  "filename": "early_progression",
-  "order_index": 0,
-  "icon": "create:mechanical_press",
-  "default_hide_dependency_lines": false,
-  "progression_mode": "flexible",
-  "quests": [
-    {
-      "id": "2374AD6C2B265EA7",
-      "x": 0.0,
-      "y": 0.0,
-      "icon": "create:mechanical_press",
-      "tasks": [
-        {
-          "id": "16281CDB6E0B946E",
-          "type": "item",
-          "item": "create:mechanical_press",
-          "count": 1,
-          "consume_items": false
-        }
-      ]
-    },
-    {
-      "id": "4057BD31B7AEEFA4",
-      "x": 1.5,
-      "y": 0.0,
-      "icon": "create:iron_sheet",
-      "tasks": [
-        {
-          "id": "48D768E50C6735B6",
-          "type": "item",
-          "item": "create:iron_sheet",
-          "count": 1,
-          "consume_items": false
-        }
-      ],
-      "dependencies": [
-        "2374AD6C2B265EA7"
-      ]
-    },
-    {
-      "id": "4CCCA71DE7C1DF3B",
-      "x": 3.0,
-      "y": 0.0,
-      "icon": "gtceu:iron_hammer",
-      "tasks": [
-        {
-          "id": "2D2EE41FE24205EE",
-          "type": "item",
-          "item": "gtceu:iron_hammer",
-          "count": 1,
-          "consume_items": false
-        }
-      ],
-      "dependencies": [
-        "4057BD31B7AEEFA4"
-      ]
-    },
-    {
-      "id": "6A989482F36FB02E",
-      "x": 4.5,
-      "y": 0.0,
-      "icon": "gtceu:lp_steam_alloy_smelter",
-      "tasks": [
-        {
-          "id": "239E643553044517",
-          "type": "item",
-          "item": "gtceu:lp_steam_alloy_smelter",
-          "count": 1,
-          "consume_items": false
-        }
-      ],
-      "dependencies": [
-        "4CCCA71DE7C1DF3B"
-      ]
-    },
-    {
-      "id": "19E0159F45B7AAEA",
-      "x": 6.0,
-      "y": 0.0,
-      "icon": "gtceu:primitive_blast_furnace",
-      "tasks": [
-        {
-          "id": "6D38D0922DF16ACC",
-          "type": "item",
-          "item": "gtceu:primitive_blast_furnace",
-          "count": 1,
-          "consume_items": false
-        }
-      ],
-      "dependencies": [
-        "6A989482F36FB02E"
-      ]
-    },
-    {
-      "id": "0AF73F7721E7F090",
-      "x": 7.5,
-      "y": 0.0,
-      "icon": "gtceu:steel_ingot",
-      "tasks": [
-        {
-          "id": "675FDB2FB84A3DFF",
-          "type": "item",
-          "item": "gtceu:steel_ingot",
-          "count": 1,
-          "consume_items": false
-        }
-      ],
-      "dependencies": [
-        "19E0159F45B7AAEA"
-      ]
-    },
-    {
-      "id": "4E20CCAD4ABA1ED3",
-      "x": 9.0,
-      "y": 0.0,
-      "icon": "ars_nouveau:novice_spell_book",
-      "tasks": [
-        {
-          "id": "3D6A7CCA4361DA25",
-          "type": "item",
-          "item": "ars_nouveau:novice_spell_book",
-          "count": 1,
-          "consume_items": false
-        }
-      ],
-      "dependencies": [
-        "0AF73F7721E7F090",
-        "6D4A1B8E2C903F30"
-      ]
-    },
-    {
-      "id": "47D833C0F30AC57D",
-      "x": 9.0,
-      "y": 2.0,
-      "icon": "grega_core:glyph_open_portal",
-      "tasks": [
-        {
-          "id": "6566FE169F275B70",
-          "type": "item",
-          "item": "grega_core:glyph_open_portal",
-          "count": 1,
-          "consume_items": false
-        },
-        {
-          "id": "6AB0232383B048D1",
-          "type": "item",
-          "item": "grega_core:glyph_set_home",
-          "count": 1,
-          "consume_items": false
-        },
-        {
-          "id": "6AB0232383B048D2",
-          "type": "item",
-          "item": "grega_core:glyph_home",
-          "count": 1,
-          "consume_items": false
-        },
-        {
-          "id": "6AB0232383B048D3",
-          "type": "item",
-          "item": "grega_core:glyph_rtp",
-          "count": 1,
-          "consume_items": false
-        }
-      ],
-      "dependencies": [
-        "4E20CCAD4ABA1ED3"
-      ]
-    },
-    {
-      "id": "2B63D4A0FB2EE0FF",
-      "x": 7.5,
-      "y": 4.0,
-      "icon": "grega_core:germanium_press",
-      "tasks": [
-        {
-          "id": "3FC5B6C3AEF99B1B",
-          "type": "item",
-          "item": "grega_core:germanium_press",
-          "count": 1,
-          "consume_items": false
-        }
-      ],
-      "dependencies": [
-        "4E20CCAD4ABA1ED3"
-      ]
-    },
-    {
-      "id": "09831E6BAD1F88D9",
-      "x": 10.5,
-      "y": 4.0,
-      "icon": "ae2:silicon_press",
-      "tasks": [
-        {
-          "id": "4AE52D932DDB7066",
-          "type": "item",
-          "item": "ae2:silicon_press",
-          "count": 1,
-          "consume_items": false
-        }
-      ],
-      "dependencies": [
-        "4E20CCAD4ABA1ED3"
-      ]
-    },
-    {
-      "id": "763FB77B42C26AA4",
-      "x": 9.0,
-      "y": 6.0,
-      "icon": "ae2:engineering_processor_press",
-      "tasks": [
-        {
-          "id": "0B90377A71D064CC",
-          "type": "item",
-          "item": "ae2:logic_processor_press",
-          "count": 1,
-          "consume_items": false
-        },
-        {
-          "id": "3D959BCDA11C8129",
-          "type": "item",
-          "item": "ae2:calculation_processor_press",
-          "consume_items": false
-        },
-        {
-          "id": "25541995C7C0691D",
-          "type": "item",
-          "item": "ae2:engineering_processor_press",
-          "consume_items": false
-        },
-        {
-          "id": "1B8524781DA92A9F",
-          "type": "item",
-          "item": "ae2:silicon_press",
-          "consume_items": false
-        }
-      ],
-      "dependencies": [
-        "2B63D4A0FB2EE0FF",
-        "09831E6BAD1F88D9"
-      ]
-    },
-    {
-      "id": "1111482F6BF29F70",
-      "x": 9.0,
-      "y": 8.0,
-      "icon": "grega_core:lp_steam_inscriber",
-      "tasks": [
-        {
-          "id": "19ABF42F01077F6B",
-          "type": "item",
-          "item": "grega_core:lp_steam_inscriber",
-          "count": 1,
-          "consume_items": false
-        }
-      ],
-      "dependencies": [
-        "763FB77B42C26AA4"
-      ]
-    },
-    {
-      "id": "09E8E27A5CBB94B5",
-      "x": 9.0,
-      "y": 10.0,
-      "icon": "grega_core:basic_electronic_component",
-      "tasks": [
-        {
-          "id": "064C1E375E03E5FF",
-          "type": "item",
-          "item": "grega_core:basic_electronic_component",
-          "count": 1,
-          "consume_items": false
-        }
-      ],
-      "dependencies": [
-        "1111482F6BF29F70"
-      ]
-    },
-    {
-      "id": "6D4A1B8E2C903F10",
-      "x": 4.5,
-      "y": -2.0,
-      "dependencies": [
-        "4CCCA71DE7C1DF3B"
-      ],
-      "tasks": [
-        {
-          "id": "6D4A1B8E2C903F11",
-          "type": "item",
-          "item": {
-            "id": "botania:pure_daisy",
-            "count": 1
-          },
-          "consume_items": false
-        },
-        {
-          "id": "6D4A1B8E2C903F12",
-          "type": "item",
-          "item": {
-            "id": "botania:livingrock",
-            "count": 1
-          },
-          "consume_items": false
-        },
-        {
-          "id": "6D4A1B8E2C903F13",
-          "type": "item",
-          "item": {
-            "id": "botania:livingwood_log",
-            "count": 1
-          },
-          "consume_items": false
-        }
-      ]
-    },
-    {
-      "id": "6D4A1B8E2C903F20",
-      "x": 6.0,
-      "y": -2.0,
-      "dependencies": [
-        "6D4A1B8E2C903F10"
-      ],
-      "tasks": [
-        {
-          "id": "6D4A1B8E2C903F21",
-          "type": "item",
-          "item": {
-            "id": "botania:endoflame",
-            "count": 1
-          },
-          "consume_items": false
-        },
-        {
-          "id": "6D4A1B8E2C903F22",
-          "type": "item",
-          "item": {
-            "id": "botania:mana_spreader",
-            "count": 1
-          },
-          "consume_items": false
-        },
-        {
-          "id": "6D4A1B8E2C903F23",
-          "type": "item",
-          "item": {
-            "id": "botania:mana_pool",
-            "count": 1
-          },
-          "consume_items": false
-        }
-      ]
-    },
-    {
-      "id": "6D4A1B8E2C903F30",
-      "x": 7.5,
-      "y": -2.0,
-      "dependencies": [
-        "6D4A1B8E2C903F20"
-      ],
-      "tasks": [
-        {
-          "id": "6D4A1B8E2C903F31",
-          "type": "item",
-          "item": {
-            "id": "botania:manasteel_ingot",
-            "count": 1
-          },
-          "consume_items": false
-        },
-        {
-          "id": "6D4A1B8E2C903F32",
-          "type": "item",
-          "item": {
-            "id": "grega_core:manasteel_dust",
-            "count": 1
-          },
-          "consume_items": false
-        },
-        {
-          "id": "6D4A1B8E2C903F33",
-          "type": "item",
-          "item": {
-            "id": "grega_core:mana_book",
-            "count": 1
-          },
-          "consume_items": false
-        }
-      ]
-    }
-  ],
-  "quest_links": []
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "early_progression"
+	group: ""
+	id: "25569D0A4F2ACDAF"
+	images: [ ]
+	order_index: 0
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			id: "2374AD6C2B265EA7"
+			tasks: [{
+				consume_items: false
+				id: "16281CDB6E0B946E"
+				item: { count: 1, id: "create:mechanical_press" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2374AD6C2B265EA7"]
+			id: "4057BD31B7AEEFA4"
+			tasks: [{
+				consume_items: false
+				id: "48D768E50C6735B6"
+				item: { count: 1, id: "create:iron_sheet" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4057BD31B7AEEFA4"]
+			id: "4CCCA71DE7C1DF3B"
+			tasks: [{
+				consume_items: false
+				id: "2D2EE41FE24205EE"
+				item: { count: 1, id: "gtceu:iron_hammer" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4CCCA71DE7C1DF3B"]
+			id: "6A989482F36FB02E"
+			tasks: [{
+				consume_items: false
+				id: "239E643553044517"
+				item: { count: 1, id: "gtceu:lp_steam_alloy_smelter" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6A989482F36FB02E"]
+			id: "19E0159F45B7AAEA"
+			tasks: [{
+				consume_items: false
+				id: "6D38D0922DF16ACC"
+				item: { count: 1, id: "gtceu:primitive_blast_furnace" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["19E0159F45B7AAEA"]
+			id: "0AF73F7721E7F090"
+			tasks: [{
+				consume_items: false
+				id: "675FDB2FB84A3DFF"
+				item: { count: 1, id: "gtceu:steel_ingot" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"0AF73F7721E7F090"
+				"6D4A1B8E2C903F30"
+			]
+			id: "4E20CCAD4ABA1ED3"
+			tasks: [{
+				consume_items: false
+				id: "3D6A7CCA4361DA25"
+				item: { count: 1, id: "ars_nouveau:novice_spell_book" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4E20CCAD4ABA1ED3"]
+			id: "47D833C0F30AC57D"
+			tasks: [
+				{
+					consume_items: false
+					id: "6566FE169F275B70"
+					item: { count: 1, id: "grega_core:glyph_open_portal" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "6AB0232383B048D1"
+					item: { count: 1, id: "grega_core:glyph_set_home" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "6AB0232383B048D2"
+					item: { count: 1, id: "grega_core:glyph_home" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "6AB0232383B048D3"
+					item: { count: 1, id: "grega_core:glyph_rtp" }
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["4E20CCAD4ABA1ED3"]
+			id: "2B63D4A0FB2EE0FF"
+			tasks: [{
+				consume_items: false
+				id: "3FC5B6C3AEF99B1B"
+				item: { count: 1, id: "grega_core:germanium_press" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["4E20CCAD4ABA1ED3"]
+			id: "09831E6BAD1F88D9"
+			tasks: [{
+				consume_items: false
+				id: "4AE52D932DDB7066"
+				item: { count: 1, id: "ae2:silicon_press" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"2B63D4A0FB2EE0FF"
+				"09831E6BAD1F88D9"
+			]
+			id: "763FB77B42C26AA4"
+			tasks: [
+				{
+					consume_items: false
+					id: "0B90377A71D064CC"
+					item: { count: 1, id: "ae2:logic_processor_press" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "3D959BCDA11C8129"
+					item: { count: 1, id: "ae2:calculation_processor_press" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "25541995C7C0691D"
+					item: { count: 1, id: "ae2:engineering_processor_press" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "1B8524781DA92A9F"
+					item: { count: 1, id: "ae2:silicon_press" }
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["763FB77B42C26AA4"]
+			id: "1111482F6BF29F70"
+			tasks: [{
+				consume_items: false
+				id: "19ABF42F01077F6B"
+				item: { count: 1, id: "grega_core:lp_steam_inscriber" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["1111482F6BF29F70"]
+			id: "09E8E27A5CBB94B5"
+			tasks: [{
+				consume_items: false
+				id: "064C1E375E03E5FF"
+				item: { count: 1, id: "grega_core:basic_electronic_component" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["4CCCA71DE7C1DF3B"]
+			id: "6D4A1B8E2C903F10"
+			tasks: [
+				{
+					consume_items: false
+					id: "6D4A1B8E2C903F11"
+					item: { count: 1, id: "botania:pure_daisy" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "6D4A1B8E2C903F12"
+					item: { count: 1, id: "botania:livingrock" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "6D4A1B8E2C903F13"
+					item: { count: 1, id: "botania:livingwood_log" }
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["6D4A1B8E2C903F10"]
+			id: "6D4A1B8E2C903F20"
+			tasks: [
+				{
+					consume_items: false
+					id: "6D4A1B8E2C903F21"
+					item: { count: 1, id: "botania:endoflame" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "6D4A1B8E2C903F22"
+					item: { count: 1, id: "botania:mana_spreader" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "6D4A1B8E2C903F23"
+					item: { count: 1, id: "botania:mana_pool" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["6D4A1B8E2C903F20"]
+			id: "6D4A1B8E2C903F30"
+			tasks: [
+				{
+					consume_items: false
+					id: "6D4A1B8E2C903F31"
+					item: { count: 1, id: "botania:manasteel_ingot" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "6D4A1B8E2C903F32"
+					item: { count: 1, id: "grega_core:manasteel_dust" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "6D4A1B8E2C903F33"
+					item: { count: 1, id: "grega_core:mana_book" }
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: -2.0d
+		}
+	]
 }

@@ -1,0 +1,124 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "2b8d34ef15502de0"
+	group: "1E41C4251BE5664C"
+	id: "2B8D34EF15502DE0"
+	images: [ ]
+	order_index: 2
+	quest_links: [{
+		id: "493E81DFE3C929DC"
+		linked_quest: "0A00D22823E90B18"
+		x: -2.0d
+		y: 2.0d
+	}]
+	quests: [
+		{
+			id: "0F2A3E2C86D780C9"
+			tasks: [
+				{
+					id: "1731C1F067E300A0"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(botania:small_mystical_flowers)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "4FBB7D31212E40BA"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(botania:petals)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0A00D22823E90B18"]
+			id: "5BB76A9F0B3883EC"
+			tasks: [{
+				id: "748D243FF99A5017"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(botania:petal_apothecaries)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"0F2A3E2C86D780C9"
+				"5BB76A9F0B3883EC"
+			]
+			id: "149874F491126310"
+			tasks: [{
+				id: "334E67BF59E40AB3"
+				item: { count: 1, id: "botania:pure_daisy" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["149874F491126310"]
+			id: "6E31A488E16DEF9D"
+			tasks: [
+				{
+					id: "019B6680F9D39AF2"
+					item: { count: 1, id: "botania:livingrock" }
+					type: "item"
+				}
+				{
+					id: "51270BE9F2647529"
+					item: { count: 1, id: "botania:livingwood_log" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"0F2A3E2C86D780C9"
+				"5BB76A9F0B3883EC"
+			]
+			id: "1A83CD0FEF41D7A3"
+			tasks: [{
+				id: "79FC55213F4D07A9"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(botania:generating_special_flowers)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"6E31A488E16DEF9D"
+				"1A83CD0FEF41D7A3"
+			]
+			id: "3548459082A5A44E"
+			tasks: [
+				{
+					id: "3A6D48B2668E03B9"
+					item: { count: 1, id: "botania:mana_spreader" }
+					type: "item"
+				}
+				{
+					id: "10B63370BF34C9A2"
+					item: { count: 1, id: "botania:mana_pool" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0F2A3E2C86D780C9"]
+			id: "5C643CCD43466A69"
+			optional: true
+			tasks: [{
+				id: "173485B529540F3A"
+				item: { count: 1, id: "botania:flower_pouch" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+	]
+}

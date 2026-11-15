@@ -1,0 +1,187 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "4eadfc9ac113db4f"
+	group: "1E41C4251BE5664C"
+	id: "4EADFC9AC113DB4F"
+	images: [ ]
+	order_index: 1
+	quest_links: [{
+		id: "33278E40779C8493"
+		linked_quest: "4BE4F9EF5ECA38C2"
+		x: 0.0d
+		y: 0.0d
+	}]
+	quests: [
+		{
+			dependencies: ["4BE4F9EF5ECA38C2"]
+			id: "3113A158D6E40789"
+			tasks: [{
+				id: "74B4EF9F13FBA4F7"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3113A158D6E40789"]
+			id: "51D87C40050AD85F"
+			tasks: [{
+				id: "059EBBA89271871C"
+				item: { count: 1, id: "create:hand_crank" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3113A158D6E40789"]
+			id: "76A692D62BF3B5D3"
+			tasks: [{
+				id: "7216BFA9D6239CC7"
+				item: { count: 1, id: "create:water_wheel" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["3113A158D6E40789"]
+			id: "6E1B5EA90115887A"
+			tasks: [{
+				id: "4DE3ABE61895C70D"
+				item: { count: 1, id: "create:windmill_bearing" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["4BE4F9EF5ECA38C2"]
+			id: "511AA2A811ABB563"
+			tasks: [{
+				id: "3DDEAED97FD5592D"
+				item: { count: 1, id: "create:andesite_casing" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["511AA2A811ABB563"]
+			id: "2112227DCD060607"
+			tasks: [{
+				id: "2EAED63198E6FA99"
+				item: { count: 1, id: "create:mechanical_press" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6A0005DC7D41F2F6"]
+			id: "52B8E4AFEE4651D5"
+			tasks: [{
+				id: "3E302C9FCA34CBDA"
+				item: { count: 1, id: "create:mechanical_mixer" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2112227DCD060607"]
+			id: "67BCF08E8F886DAB"
+			tasks: [{
+				id: "55B90953C73B4002"
+				item: { count: 1, id: "gtceu:iron_plate" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"5F650BA07FD35AD0"
+				"52B8E4AFEE4651D5"
+			]
+			id: "1D5EE19FFCBB61C8"
+			tasks: [
+				{
+					id: "6F4BC58485321E33"
+					item: { count: 1, id: "gtceu:bronze_dust" }
+					type: "item"
+				}
+				{
+					id: "65806E25550181BF"
+					item: { count: 1, id: "gtceu:bronze_ingot" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["67BCF08E8F886DAB"]
+			id: "0A00D22823E90B18"
+			tasks: [
+				{
+					id: "71AF91992C051106"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(gtceu:crafting_tools/hammer)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "722903D10B30297F"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(gtceu:crafting_tools/file)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "2E7F44DE0D7C6B3E"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(gtceu:crafting_tools/saw)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "4914171811E13637"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(gtceu:crafting_tools/screwdriver)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3113A158D6E40789"]
+			id: "6A3971C3E46C91CE"
+			tasks: [
+				{
+					id: "409FAE510D5B68C8"
+					item: { count: 1, id: "create:shaft" }
+					type: "item"
+				}
+				{
+					id: "7A53F4DBAEEC57E4"
+					item: { count: 1, id: "create:cogwheel" }
+					type: "item"
+				}
+				{
+					id: "454A4B2BFF6D7151"
+					item: { count: 1, id: "create:large_cogwheel" }
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["0A00D22823E90B18"]
+			id: "6A0005DC7D41F2F6"
+			tasks: [{
+				id: "447D2C083D06FAF8"
+				item: { count: 1, id: "grega_core:andesite_alloy_rotor" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+	]
+}

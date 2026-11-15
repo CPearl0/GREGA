@@ -6,19 +6,39 @@ hash = "4c5bc89c02f90cd27af4fd6977e1f2adc38cdad4eaac8fe4c707f1a6aa53578b"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
-hash = "e9e0daacf0a4fe587c0231cea95dc56f1aae62c5e8b1d3371829360a50f1b332"
+hash = "76910b499b54ef0ca87ea6b1b53174bc2880defee469a9199352d2e43ec0fdeb"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/18769433813ceab5.snbt"
+hash = "8b2ff5538e33c6d206e0c714dbe8ae72c94769cb91c2db2d78f630f260381bea"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/2b8d34ef15502de0.snbt"
+hash = "d2fbbf6fa48267a82b7507e139038bfc204d582310e11c53ce7667013bcc1fb0"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/34c5f6f72db31d06.snbt"
+hash = "71093b6e9fb37e539e5d0cba274fdea1d2e1f51a4c04255e57e6f9cfeca18f3d"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/4eadfc9ac113db4f.snbt"
+hash = "25309d9ec5858476fe4847ba356f47d764c87020181bed62ee3c25e37f778043"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/542e096231c9870f.snbt"
+hash = "ea5ab65d3c0f47c1fa682af3817e786e31de6e2727962e73ac63305f52ff9c83"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/early_progression.snbt"
-hash = "e215ebc9521dd29326707ddb556b9841aacb1dcc83ee73793a815e36f21434f3"
+hash = "dbdcc81213fc7a19d91fbcaf2f4972aeb8e806efbda4a55eefba2e7ba5036fc5"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/gregtech_milestones.snbt"
-hash = "f541c09e24141fc177473af99f086d04b74e0913de1e412bbc74ea59ba9a0a70"
+hash = "81bab768a3b3c72bc74ee3328d8aff528960d42963d6cdc9823641b7d6922e39"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
-hash = "8c0b6b56bfc86ae88269aaac768df87ba7082abb8e5ae1241f2cebdb5f25b3bc"
+hash = "c0cbd0d7b79e05c518167de51be73138d83e18eff89331f53ce64f7d3980d6c8"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
@@ -26,7 +46,7 @@ hash = "a0f84b15657a1fc774b381dd223adb56e367d49d68c5fe8a2bdd2aab086153bf"
 
 [[files]]
 file = "config/ftbquests/quests/lang/zh_cn.snbt"
-hash = "4bd454d3d8615ce285d6056f1fa845d217551df744a3a578c95ff2cd648d1acd"
+hash = "95766e5a61a8ec28327b7bfb601cd50b2f3cade3094f255851a7c683a6c9b40f"
 
 [[files]]
 file = "config/gtceu.yaml"
@@ -145,4 +165,3 @@ metafile = true
 file = "mods/rhino.pw.toml"
 hash = "e80f0b9d01a0b8cf129d0b9f4b1ecebaf322b4eb9add8bcff048fdf61ad29018"
 metafile = true
-

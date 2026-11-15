@@ -1,0 +1,167 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "18769433813ceab5"
+	group: "1E41C4251BE5664C"
+	id: "18769433813CEAB5"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "32F0C85989FF5CC8"
+			tasks: [{
+				icon: {
+					id: "minecraft:oak_log"
+				}
+				id: "71641BBD254296D6"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:logs)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "5420144865E4362A"
+			tasks: [{
+				id: "75E1DCF05F4E2FD9"
+				item: { count: 1, id: "minecraft:flint" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"32F0C85989FF5CC8"
+				"5420144865E4362A"
+			]
+			id: "77DD7EB2BB53E70E"
+			tasks: [{
+				id: "74FC3E5ED73D7AE7"
+				item: { count: 1, id: "minecraft:crafting_table" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["77DD7EB2BB53E70E"]
+			id: "6F9F17B7F9129251"
+			tasks: [
+				{
+					id: "1F2D4F60DBDC84A5"
+					item: { count: 1, id: "gtceu:flint_pickaxe" }
+					type: "item"
+				}
+				{
+					id: "512DE8AA59A8B2E0"
+					item: { count: 1, id: "minecraft:cobblestone" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6F9F17B7F9129251"]
+			id: "371D626D516E0A63"
+			tasks: [{
+				id: "3CAC0DB55D3FC40F"
+				item: { count: 1, id: "minecraft:furnace" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6F9F17B7F9129251"]
+			id: "783AEB18D94D1D00"
+			tasks: [{
+				id: "556BA74A2DEA2EC4"
+				item: { count: 1, id: "minecraft:andesite" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["371D626D516E0A63"]
+			id: "70BA313A629076D6"
+			tasks: [{
+				id: "0350FD56AABAE923"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(gtceu:crafting_tools/mortar)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["371D626D516E0A63"]
+			id: "5897FCE3C2100FA2"
+			tasks: [{
+				id: "57417F1E57D5DDB6"
+				item: { count: 1, id: "gtceu:zinc_ingot" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"783AEB18D94D1D00"
+				"70BA313A629076D6"
+				"5897FCE3C2100FA2"
+			]
+			id: "4BE4F9EF5ECA38C2"
+			tasks: [
+				{
+					id: "34000AFE3DC1C17C"
+					item: { count: 1, id: "grega_core:andesite_alloy_dust" }
+					type: "item"
+				}
+				{
+					id: "086A729593E15650"
+					item: { count: 1, id: "create:andesite_alloy" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["371D626D516E0A63"]
+			id: "5F650BA07FD35AD0"
+			tasks: [
+				{
+					id: "481ACFC62CC7E910"
+					item: { count: 1, id: "minecraft:iron_ingot" }
+					type: "item"
+				}
+				{
+					id: "4EF9B788763D7790"
+					item: { count: 1, id: "minecraft:copper_ingot" }
+					type: "item"
+				}
+				{
+					id: "04C57664112F3286"
+					item: { count: 1, id: "gtceu:tin_ingot" }
+					type: "item"
+				}
+			]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5F650BA07FD35AD0"]
+			id: "209F4C4B65FCD7B0"
+			tasks: [{
+				id: "7B64ADBF9A804EE1"
+				item: { count: 1, id: "gtceu:wrought_iron_ingot" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 0.0d
+		}
+	]
+}
