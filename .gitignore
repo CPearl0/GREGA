@@ -62,6 +62,9 @@
 /kubejs/.cache/
 /kubejs/exported/
 /kubejs/probe/
+/kubejs/client_scripts/main.js
+/kubejs/server_scripts/main.js
+/kubejs/startup_scripts/main.js
 
 # Build/export output, editor files, and credentials.
 /.gradle/

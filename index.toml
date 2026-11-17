@@ -30,7 +30,7 @@ hash = "88874210d6035c86b878c596325db2b80537778df50334f35fe1f1ff80ca2319"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/48ae5bd13d05597c.snbt"
-hash = "c6a83042e1dd4f5ca3ab44642994ba31262a9c008c66a4d2bce5df8f7afcb3a2"
+hash = "d696ef942599aa06f9cf7539ab264a3184b53654d9ac6c9120002d461a214ac5"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/4eadfc9ac113db4f.snbt"
@@ -53,6 +53,10 @@ file = "config/ftbquests/quests/chapters/gregtech_milestones.snbt"
 hash = "052b164e01eb1a8d72a8a04918de0365b0249ba73be81f32774a774cdb228eb1"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/periodic_table.snbt"
+hash = "d253fae6bede14f1423db29b24bc9c18ad30f89c08efbef66e002ea8019a1287"
+
+[[files]]
 file = "config/ftbquests/quests/data.snbt"
 hash = "c0cbd0d7b79e05c518167de51be73138d83e18eff89331f53ce64f7d3980d6c8"
 
@@ -62,7 +66,7 @@ hash = "c4a0855363c55aa069a0e5ecfd3c4085d626ca8c244812d611e24fdbb98ccd4c"
 
 [[files]]
 file = "config/ftbquests/quests/lang/zh_cn.snbt"
-hash = "a68f3527ced57bdef9c3b5a2b443bd61860dc8b691fd7513193a990d5e3a80da"
+hash = "e1de6d277b46f26535386bfeb5afc3615b506d64c8bf514f65d541f5a440cfe8"
 
 [[files]]
 file = "config/gtceu.yaml"

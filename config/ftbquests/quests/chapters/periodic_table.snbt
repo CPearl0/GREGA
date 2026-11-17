@@ -1,0 +1,1344 @@
+{
+	default_hide_dependency_lines: true
+	default_quest_shape: "square"
+	filename: "periodic_table"
+	group: ""
+	icon: {
+		id: "gtceu:uranium_238_dust"
+	}
+	id: "58847719085D4BB1"
+	images: [ ]
+	order_index: 2
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			id: "78B62F5F8250EE7D"
+			tasks: [{
+				fluid: {
+					amount: 1000
+					id: "gtceu:hydrogen"
+				}
+				id: "460F50ABBC291394"
+				type: "fluid"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "4EF74D3793275D28"
+			tasks: [{
+				fluid: {
+					amount: 1000
+					id: "gtceu:helium"
+				}
+				id: "3A6C299BA51CA8DB"
+				type: "fluid"
+			}]
+			x: 17.0d
+			y: 0.0d
+		}
+		{
+			id: "3D1B3B27BF21855F"
+			tasks: [{
+				consume_items: false
+				id: "6304794E85545CBA"
+				item: { count: 1, id: "gtceu:lithium_dust" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			id: "322E1E8E48232AA7"
+			tasks: [{
+				consume_items: false
+				id: "5DAF685BD64AE00A"
+				item: { count: 1, id: "gtceu:beryllium_ingot" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			id: "4C2DE9B781E774E6"
+			tasks: [{
+				consume_items: false
+				id: "4DA46C8A5C1789F3"
+				item: { count: 1, id: "gtceu:boron_dust" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 1.0d
+		}
+		{
+			id: "223BCEB261169D70"
+			tasks: [{
+				consume_items: false
+				id: "63B3B18FAEF7F4DF"
+				item: { count: 1, id: "gtceu:carbon_dust" }
+				type: "item"
+			}]
+			x: 13.0d
+			y: 1.0d
+		}
+		{
+			id: "6535540ED9AE0335"
+			tasks: [{
+				fluid: {
+					amount: 1000
+					id: "gtceu:nitrogen"
+				}
+				id: "2213101AE44AB45C"
+				type: "fluid"
+			}]
+			x: 14.0d
+			y: 1.0d
+		}
+		{
+			id: "02D450C2373E2B94"
+			tasks: [{
+				fluid: {
+					amount: 1000
+					id: "gtceu:oxygen"
+				}
+				id: "0033F033768C204D"
+				type: "fluid"
+			}]
+			x: 15.0d
+			y: 1.0d
+		}
+		{
+			id: "74A67D2D3A117304"
+			tasks: [{
+				fluid: {
+					amount: 1000
+					id: "gtceu:fluorine"
+				}
+				id: "6B8EA82F1EC4C8DB"
+				type: "fluid"
+			}]
+			x: 16.0d
+			y: 1.0d
+		}
+		{
+			id: "3712668EF3FA7728"
+			tasks: [{
+				fluid: {
+					amount: 1000
+					id: "gtceu:neon"
+				}
+				id: "25FDB703C2A04A27"
+				type: "fluid"
+			}]
+			x: 17.0d
+			y: 1.0d
+		}
+		{
+			id: "7F70B659963050A4"
+			tasks: [{
+				consume_items: false
+				id: "1C1AD72B29410F69"
+				item: { count: 1, id: "gtceu:sodium_dust" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			id: "4020DE173A92640B"
+			tasks: [{
+				consume_items: false
+				id: "1372F1DF7571D2F2"
+				item: { count: 1, id: "gtceu:magnesium_dust" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			id: "742B3FB016E5CF15"
+			tasks: [{
+				consume_items: false
+				id: "2CD0211429842642"
+				item: { count: 1, id: "gtceu:aluminium_ingot" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 2.0d
+		}
+		{
+			id: "6C026F319042ED58"
+			tasks: [{
+				consume_items: false
+				id: "2B15D6D1CC731B51"
+				item: { count: 1, id: "gtceu:silicon_ingot" }
+				type: "item"
+			}]
+			x: 13.0d
+			y: 2.0d
+		}
+		{
+			id: "1A43BA7CBE08E0EE"
+			tasks: [{
+				consume_items: false
+				id: "3DBE5C0FA7311108"
+				item: { count: 1, id: "gtceu:phosphorus_dust" }
+				type: "item"
+			}]
+			x: 14.0d
+			y: 2.0d
+		}
+		{
+			id: "41E3501E273726DF"
+			tasks: [{
+				consume_items: false
+				id: "5CD32A3DEE51F41E"
+				item: { count: 1, id: "gtceu:sulfur_dust" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: 2.0d
+		}
+		{
+			id: "6DCE477AAC7A60A0"
+			tasks: [{
+				fluid: {
+					amount: 1000
+					id: "gtceu:chlorine"
+				}
+				id: "1F1BF3A37C2F4A13"
+				type: "fluid"
+			}]
+			x: 16.0d
+			y: 2.0d
+		}
+		{
+			id: "7C00B5A50C3E488E"
+			tasks: [{
+				fluid: {
+					amount: 1000
+					id: "gtceu:argon"
+				}
+				id: "365ECCA812662995"
+				type: "fluid"
+			}]
+			x: 17.0d
+			y: 2.0d
+		}
+		{
+			id: "2A8646C6DD57BBBF"
+			tasks: [{
+				consume_items: false
+				id: "3850F082FC06C572"
+				item: { count: 1, id: "gtceu:potassium_dust" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			id: "55B06A45B13CE815"
+			tasks: [{
+				consume_items: false
+				id: "63B1EA3700F69472"
+				item: { count: 1, id: "gtceu:calcium_dust" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			id: "7E977A56BA4396FC"
+			tasks: [{
+				consume_items: false
+				id: "00F595C45AF28873"
+				item: { count: 1, id: "gtceu:scandium_ingot" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			id: "138F07B9BA8864A3"
+			tasks: [{
+				consume_items: false
+				id: "39AE37687AFF4422"
+				item: { count: 1, id: "gtceu:titanium_ingot" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			id: "4AA6A520F1F63A7D"
+			tasks: [{
+				consume_items: false
+				id: "3B460BA731693087"
+				item: { count: 1, id: "gtceu:vanadium_ingot" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			id: "3004B0E86FE5B307"
+			tasks: [{
+				consume_items: false
+				id: "6A3757480A7B5BBA"
+				item: { count: 1, id: "gtceu:chromium_ingot" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 3.0d
+		}
+		{
+			id: "45EEBC806B243E27"
+			tasks: [{
+				consume_items: false
+				id: "02B6FA3C661ADF5D"
+				item: { count: 1, id: "gtceu:manganese_ingot" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			id: "2E8DAF242982712E"
+			tasks: [{
+				consume_items: false
+				id: "6FAD70EA2BA14193"
+				item: { count: 1, id: "minecraft:iron_ingot" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 3.0d
+		}
+		{
+			id: "60E51F4DD72C164D"
+			tasks: [{
+				consume_items: false
+				id: "6DAD81029A899CC1"
+				item: { count: 1, id: "gtceu:cobalt_ingot" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 3.0d
+		}
+		{
+			id: "04A227502C1B7FA2"
+			tasks: [{
+				consume_items: false
+				id: "1D6BFF3A868885AE"
+				item: { count: 1, id: "gtceu:nickel_ingot" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 3.0d
+		}
+		{
+			id: "5DE0177DF5C4AEB4"
+			tasks: [{
+				consume_items: false
+				id: "69F0EF5F3B2AE06E"
+				item: { count: 1, id: "minecraft:copper_ingot" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 3.0d
+		}
+		{
+			id: "3DB2533C8FF3C46A"
+			tasks: [{
+				consume_items: false
+				id: "695D111B9C45DC28"
+				item: { count: 1, id: "gtceu:zinc_ingot" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 3.0d
+		}
+		{
+			id: "41D7BD6A172E7BEF"
+			tasks: [{
+				consume_items: false
+				id: "59F1006E65A3F518"
+				item: { count: 1, id: "gtceu:gallium_ingot" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 3.0d
+		}
+		{
+			id: "304C570AB37EA23D"
+			tasks: [{
+				consume_items: false
+				id: "4A2B6C75396F5B39"
+				item: { count: 1, id: "gtceu:germanium_dust" }
+				type: "item"
+			}]
+			x: 13.0d
+			y: 3.0d
+		}
+		{
+			id: "1A13CFF27EAF0451"
+			tasks: [{
+				consume_items: false
+				id: "5A29DF8EB5B10BBE"
+				item: { count: 1, id: "gtceu:arsenic_dust" }
+				type: "item"
+			}]
+			x: 14.0d
+			y: 3.0d
+		}
+		{
+			id: "2D8C52DABAC5E490"
+			tasks: [{
+				consume_items: false
+				id: "0A2E2DEB1134715B"
+				item: { count: 1, id: "gtceu:selenium_dust" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: 3.0d
+		}
+		{
+			id: "23A44F9BB0074145"
+			tasks: [{
+				fluid: {
+					amount: 1000
+					id: "gtceu:bromine"
+				}
+				id: "2DCD8B69F23BB704"
+				type: "fluid"
+			}]
+			x: 16.0d
+			y: 3.0d
+		}
+		{
+			id: "38E6ABA21A03D978"
+			tasks: [{
+				fluid: {
+					amount: 1000
+					id: "gtceu:krypton"
+				}
+				id: "6AB68EBE86F45CDF"
+				type: "fluid"
+			}]
+			x: 17.0d
+			y: 3.0d
+		}
+		{
+			id: "5080E6BB82F4FED9"
+			tasks: [{
+				consume_items: false
+				id: "4A6C24E8060AA02E"
+				item: { count: 1, id: "gtceu:rubidium_dust" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			id: "28739CA70F98548E"
+			tasks: [{
+				consume_items: false
+				id: "033CCB36217CADA0"
+				item: { count: 1, id: "gtceu:strontium_dust" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			id: "52CB1C1013971AA6"
+			tasks: [{
+				consume_items: false
+				id: "3D450E68933F5DED"
+				item: { count: 1, id: "gtceu:yttrium_ingot" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			id: "016DDDCEFC62DA70"
+			tasks: [{
+				consume_items: false
+				id: "3AA209C06B4F9AFC"
+				item: { count: 1, id: "gtceu:zirconium_ingot" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			id: "4421331D8DE0A771"
+			tasks: [{
+				consume_items: false
+				id: "589C0D80522C0C2B"
+				item: { count: 1, id: "gtceu:niobium_ingot" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			id: "0A72E7D17157A5E4"
+			tasks: [{
+				consume_items: false
+				id: "61E5AF5B8E0B76C8"
+				item: { count: 1, id: "gtceu:molybdenum_ingot" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 4.0d
+		}
+		{
+			id: "70B1B79E4BB36A2C"
+			tasks: [{
+				consume_items: false
+				id: "1F86432AC566CE42"
+				item: { count: 1, id: "gtceu:technetium_ingot" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			id: "6663E650719584AF"
+			tasks: [{
+				consume_items: false
+				id: "6BDCD971AF775386"
+				item: { count: 1, id: "gtceu:ruthenium_ingot" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 4.0d
+		}
+		{
+			id: "173F2DF7F7579CDB"
+			tasks: [{
+				consume_items: false
+				id: "7CA7A5F903AB542E"
+				item: { count: 1, id: "gtceu:rhodium_ingot" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 4.0d
+		}
+		{
+			id: "5B940A27A0BCB268"
+			tasks: [{
+				consume_items: false
+				id: "2067FAD0A748C7EF"
+				item: { count: 1, id: "gtceu:palladium_ingot" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 4.0d
+		}
+		{
+			id: "62B59C164738B415"
+			tasks: [{
+				consume_items: false
+				id: "4BEFADF711BA1C74"
+				item: { count: 1, id: "gtceu:silver_ingot" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 4.0d
+		}
+		{
+			id: "33B3927A31F4CDFA"
+			tasks: [{
+				consume_items: false
+				id: "054C876401C5464F"
+				item: { count: 1, id: "gtceu:cadmium_dust" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 4.0d
+		}
+		{
+			id: "59834F652EBE723A"
+			tasks: [{
+				consume_items: false
+				id: "425AC49985FAD41F"
+				item: { count: 1, id: "gtceu:indium_ingot" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 4.0d
+		}
+		{
+			id: "239E7A4391F39E09"
+			tasks: [{
+				consume_items: false
+				id: "109FB907DFB1C945"
+				item: { count: 1, id: "gtceu:tin_ingot" }
+				type: "item"
+			}]
+			x: 13.0d
+			y: 4.0d
+		}
+		{
+			id: "7E9CEC9DF65E6DE0"
+			tasks: [{
+				consume_items: false
+				id: "388FC325D7C40CFB"
+				item: { count: 1, id: "gtceu:antimony_ingot" }
+				type: "item"
+			}]
+			x: 14.0d
+			y: 4.0d
+		}
+		{
+			id: "1C176F98287E3AB4"
+			tasks: [{
+				consume_items: false
+				id: "6A6AF7A2CEA049FC"
+				item: { count: 1, id: "gtceu:tellurium_dust" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: 4.0d
+		}
+		{
+			id: "208A5B26FA0C6439"
+			tasks: [{
+				consume_items: false
+				id: "0903D06FE0A0F88A"
+				item: { count: 1, id: "gtceu:iodine_dust" }
+				type: "item"
+			}]
+			x: 16.0d
+			y: 4.0d
+		}
+		{
+			id: "2222DECF706B73BB"
+			tasks: [{
+				fluid: {
+					amount: 1000
+					id: "gtceu:xenon"
+				}
+				id: "78F541EC4EF95E7D"
+				type: "fluid"
+			}]
+			x: 17.0d
+			y: 4.0d
+		}
+		{
+			id: "4E6AC7333799FD29"
+			tasks: [{
+				consume_items: false
+				id: "171950D65EFE4D73"
+				item: { count: 1, id: "gtceu:caesium_dust" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			id: "7424F9D2E22B2BC0"
+			tasks: [{
+				consume_items: false
+				id: "00807BD358F63401"
+				item: { count: 1, id: "gtceu:barium_dust" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 5.0d
+		}
+		{
+			id: "004F71DCBE8830BE"
+			tasks: [{
+				consume_items: false
+				id: "7B1C46DFECFE1ECF"
+				item: { count: 1, id: "gtceu:lanthanum_dust" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 8.0d
+		}
+		{
+			id: "7539E7C7EAE82A6D"
+			tasks: [{
+				consume_items: false
+				id: "5356AA5629153F6C"
+				item: { count: 1, id: "gtceu:cerium_dust" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 8.0d
+		}
+		{
+			id: "6A438BC705425E9B"
+			tasks: [{
+				consume_items: false
+				id: "43209C558841728D"
+				item: { count: 1, id: "gtceu:praseodymium_ingot" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 8.0d
+		}
+		{
+			id: "611515B25E4C2B32"
+			tasks: [{
+				consume_items: false
+				id: "745C206263C0C124"
+				item: { count: 1, id: "gtceu:neodymium_ingot" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 8.0d
+		}
+		{
+			id: "1561DA637FAF62DC"
+			tasks: [{
+				consume_items: false
+				id: "4A54E3AACCB7FC2A"
+				item: { count: 1, id: "gtceu:promethium_ingot" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 8.0d
+		}
+		{
+			id: "731E2764C36E38AA"
+			tasks: [{
+				consume_items: false
+				id: "1C5BD71062BE57EE"
+				item: { count: 1, id: "gtceu:samarium_ingot" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 8.0d
+		}
+		{
+			id: "1B6D4A79B716FFCA"
+			tasks: [{
+				consume_items: false
+				id: "18BF6F8FD2F38DFF"
+				item: { count: 1, id: "gtceu:europium_ingot" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 8.0d
+		}
+		{
+			id: "03F4B3358EEE9108"
+			tasks: [{
+				consume_items: false
+				id: "1F51195E6E2D3A58"
+				item: { count: 1, id: "gtceu:gadolinium_ingot" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 8.0d
+		}
+		{
+			id: "6A038A0A92C3B9BB"
+			tasks: [{
+				consume_items: false
+				id: "23B3C99906A711F1"
+				item: { count: 1, id: "gtceu:terbium_ingot" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 8.0d
+		}
+		{
+			id: "51D910421E0406E1"
+			tasks: [{
+				consume_items: false
+				id: "6BD6EAD0C2020CE2"
+				item: { count: 1, id: "gtceu:dysprosium_ingot" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 8.0d
+		}
+		{
+			id: "223AB60630056B2B"
+			tasks: [{
+				consume_items: false
+				id: "21F35A763DAD1176"
+				item: { count: 1, id: "gtceu:holmium_ingot" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 8.0d
+		}
+		{
+			id: "407977395E9F7444"
+			tasks: [{
+				consume_items: false
+				id: "1BD4163033FAF0B6"
+				item: { count: 1, id: "gtceu:erbium_ingot" }
+				type: "item"
+			}]
+			x: 13.0d
+			y: 8.0d
+		}
+		{
+			id: "21BB211BAA427369"
+			tasks: [{
+				consume_items: false
+				id: "2F2857A3C955A33F"
+				item: { count: 1, id: "gtceu:thulium_ingot" }
+				type: "item"
+			}]
+			x: 14.0d
+			y: 8.0d
+		}
+		{
+			id: "744ABA4362E4CF7F"
+			tasks: [{
+				consume_items: false
+				id: "3356C704EF1DDDE8"
+				item: { count: 1, id: "gtceu:ytterbium_ingot" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: 8.0d
+		}
+		{
+			id: "75B9289B8E5FB1D5"
+			tasks: [{
+				consume_items: false
+				id: "6BE3896F00928AC3"
+				item: { count: 1, id: "gtceu:lutetium_dust" }
+				type: "item"
+			}]
+			x: 16.0d
+			y: 8.0d
+		}
+		{
+			id: "48723C9C4BE08857"
+			tasks: [{
+				consume_items: false
+				id: "5456D9C76C8750DC"
+				item: { count: 1, id: "gtceu:hafnium_ingot" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 5.0d
+		}
+		{
+			id: "385B3B91B834C0E0"
+			tasks: [{
+				consume_items: false
+				id: "085F5A537C519BD6"
+				item: { count: 1, id: "gtceu:tantalum_ingot" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 5.0d
+		}
+		{
+			id: "0757EF5D45571E41"
+			tasks: [{
+				consume_items: false
+				id: "31FB97D39E6797A0"
+				item: { count: 1, id: "gtceu:tungsten_ingot" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 5.0d
+		}
+		{
+			id: "3EAA991F5DD48BC4"
+			tasks: [{
+				consume_items: false
+				id: "1FAC71270BCF0DE4"
+				item: { count: 1, id: "gtceu:rhenium_ingot" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 5.0d
+		}
+		{
+			id: "17CF21E1FFFEE5DB"
+			tasks: [{
+				consume_items: false
+				id: "081249B577FF9AA0"
+				item: { count: 1, id: "gtceu:osmium_ingot" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 5.0d
+		}
+		{
+			id: "6AC5391C9B7D7BC6"
+			tasks: [{
+				consume_items: false
+				id: "6B385884D45C95D9"
+				item: { count: 1, id: "gtceu:iridium_ingot" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 5.0d
+		}
+		{
+			id: "24BBFDB57A112297"
+			tasks: [{
+				consume_items: false
+				id: "760597D518EB3586"
+				item: { count: 1, id: "gtceu:platinum_ingot" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 5.0d
+		}
+		{
+			id: "5DF8BF0F5B1189BD"
+			tasks: [{
+				consume_items: false
+				id: "4F6C5B0D779858A5"
+				item: { count: 1, id: "minecraft:gold_ingot" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 5.0d
+		}
+		{
+			id: "7CBF5E2819CE7D4A"
+			tasks: [{
+				fluid: {
+					amount: 1000
+					id: "gtceu:mercury"
+				}
+				id: "1A56E13220554618"
+				type: "fluid"
+			}]
+			x: 11.0d
+			y: 5.0d
+		}
+		{
+			id: "5C9D6515BE060828"
+			tasks: [{
+				consume_items: false
+				id: "44B2921960E64C75"
+				item: { count: 1, id: "gtceu:thallium_ingot" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 5.0d
+		}
+		{
+			id: "7CFBE75D7BE10021"
+			tasks: [{
+				consume_items: false
+				id: "25F8276D2F8CF206"
+				item: { count: 1, id: "gtceu:lead_ingot" }
+				type: "item"
+			}]
+			x: 13.0d
+			y: 5.0d
+		}
+		{
+			id: "5852687423E06650"
+			tasks: [{
+				consume_items: false
+				id: "784C3DD19A73B255"
+				item: { count: 1, id: "gtceu:bismuth_ingot" }
+				type: "item"
+			}]
+			x: 14.0d
+			y: 5.0d
+		}
+		{
+			id: "1447A5B46F5E46AB"
+			tasks: [{
+				consume_items: false
+				id: "558FF314657527FB"
+				item: { count: 1, id: "gtceu:polonium_ingot" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: 5.0d
+		}
+		{
+			id: "28483B1B9080B30C"
+			tasks: [{
+				consume_items: false
+				id: "4DE7B713EDD07622"
+				item: { count: 1, id: "gtceu:astatine_dust" }
+				type: "item"
+			}]
+			x: 16.0d
+			y: 5.0d
+		}
+		{
+			id: "25830F8B2707BDC6"
+			tasks: [{
+				fluid: {
+					amount: 1000
+					id: "gtceu:radon"
+				}
+				id: "04BB82088A60358D"
+				type: "fluid"
+			}]
+			x: 17.0d
+			y: 5.0d
+		}
+		{
+			id: "21FACBDAB5395002"
+			tasks: [{
+				consume_items: false
+				id: "68D4EBDE21D6B578"
+				item: { count: 1, id: "gtceu:francium_dust" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			id: "3183CAEB22FAE00E"
+			tasks: [{
+				consume_items: false
+				id: "672976A1BB820CAF"
+				item: { count: 1, id: "gtceu:radium_dust" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 6.0d
+		}
+		{
+			id: "403648586D630E95"
+			tasks: [{
+				consume_items: false
+				id: "23E0BEA07912B3C1"
+				item: { count: 1, id: "gtceu:actinium_ingot" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 9.0d
+		}
+		{
+			id: "0CE6DF409956A721"
+			tasks: [{
+				consume_items: false
+				id: "1BDD6D4DD541ADDE"
+				item: { count: 1, id: "gtceu:thorium_ingot" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 9.0d
+		}
+		{
+			id: "218944648DE6A0AC"
+			tasks: [{
+				consume_items: false
+				id: "3C41FB715C701594"
+				item: { count: 1, id: "gtceu:protactinium_ingot" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 9.0d
+		}
+		{
+			id: "21A83B9C78CBAF5A"
+			tasks: [{
+				consume_items: false
+				id: "243AE89E071E0FF4"
+				item: { count: 1, id: "gtceu:uranium_238_ingot" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 9.0d
+		}
+		{
+			id: "30819FB2A1FD8F35"
+			tasks: [{
+				consume_items: false
+				id: "1D0B6BCDBC1FADF2"
+				item: { count: 1, id: "gtceu:neptunium_ingot" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 9.0d
+		}
+		{
+			id: "0B6384998C54B08F"
+			tasks: [{
+				consume_items: false
+				id: "085C3BD50BB1712C"
+				item: { count: 1, id: "gtceu:plutonium_239_ingot" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 9.0d
+		}
+		{
+			id: "49D9475BE68AC684"
+			tasks: [{
+				consume_items: false
+				id: "22D7D11ED2045C38"
+				item: { count: 1, id: "gtceu:americium_ingot" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 9.0d
+		}
+		{
+			id: "1CD948D809C13611"
+			tasks: [{
+				consume_items: false
+				id: "579F0219792F5B94"
+				item: { count: 1, id: "gtceu:curium_ingot" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 9.0d
+		}
+		{
+			id: "45812E57C0595882"
+			tasks: [{
+				consume_items: false
+				id: "45A79A9D2962BD3E"
+				item: { count: 1, id: "gtceu:berkelium_ingot" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 9.0d
+		}
+		{
+			id: "156BA96FE4A36228"
+			tasks: [{
+				consume_items: false
+				id: "0FC1D25222D08E64"
+				item: { count: 1, id: "gtceu:californium_ingot" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 9.0d
+		}
+		{
+			id: "0829FAF8C9E34CB3"
+			tasks: [{
+				consume_items: false
+				id: "03BBC166EC85B892"
+				item: { count: 1, id: "gtceu:einsteinium_ingot" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 9.0d
+		}
+		{
+			id: "779D6E570B95AE52"
+			tasks: [{
+				consume_items: false
+				id: "5D157A9489B5CE0C"
+				item: { count: 1, id: "gtceu:fermium_ingot" }
+				type: "item"
+			}]
+			x: 13.0d
+			y: 9.0d
+		}
+		{
+			id: "69DA69B2670092E4"
+			tasks: [{
+				consume_items: false
+				id: "2F11E9F26C960B31"
+				item: { count: 1, id: "gtceu:mendelevium_ingot" }
+				type: "item"
+			}]
+			x: 14.0d
+			y: 9.0d
+		}
+		{
+			id: "35F45718817C0E33"
+			tasks: [{
+				consume_items: false
+				id: "6E95B4A461E390D0"
+				item: { count: 1, id: "gtceu:nobelium_ingot" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: 9.0d
+		}
+		{
+			id: "473220BA6FEEBFEC"
+			tasks: [{
+				consume_items: false
+				id: "72087ECA313E028B"
+				item: { count: 1, id: "gtceu:lawrencium_ingot" }
+				type: "item"
+			}]
+			x: 16.0d
+			y: 9.0d
+		}
+		{
+			id: "7BE368DA2C8B6B31"
+			tasks: [{
+				consume_items: false
+				id: "31786F838EDE845E"
+				item: { count: 1, id: "gtceu:rutherfordium_ingot" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			id: "7A98087AB46B3B53"
+			tasks: [{
+				consume_items: false
+				id: "541CDDF2BB22B3E9"
+				item: { count: 1, id: "gtceu:dubnium_ingot" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 6.0d
+		}
+		{
+			id: "5D83D5DB146EA8C7"
+			tasks: [{
+				consume_items: false
+				id: "1B6BABE6DB577651"
+				item: { count: 1, id: "gtceu:seaborgium_ingot" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 6.0d
+		}
+		{
+			id: "010B0EBB44243D75"
+			tasks: [{
+				consume_items: false
+				id: "6C0A4AB933A41313"
+				item: { count: 1, id: "gtceu:bohrium_ingot" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+		{
+			id: "3A122D80BF0845E8"
+			tasks: [{
+				consume_items: false
+				id: "1D38D1FBFB17293E"
+				item: { count: 1, id: "gtceu:hassium_ingot" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 6.0d
+		}
+		{
+			id: "400FAAD7920FAFD6"
+			tasks: [{
+				consume_items: false
+				id: "477D638A2F284528"
+				item: { count: 1, id: "gtceu:meitnerium_ingot" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 6.0d
+		}
+		{
+			id: "6FB6BC6BF16BAE82"
+			tasks: [{
+				consume_items: false
+				id: "4D4A43F2CA34C2A8"
+				item: { count: 1, id: "gtceu:darmstadtium_ingot" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 6.0d
+		}
+		{
+			id: "4C73911590F30AD0"
+			tasks: [{
+				consume_items: false
+				id: "7D8D74492F99C284"
+				item: { count: 1, id: "gtceu:roentgenium_ingot" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 6.0d
+		}
+		{
+			id: "6D86E601980CA28E"
+			tasks: [{
+				fluid: {
+					amount: 1000
+					id: "gtceu:copernicium"
+				}
+				id: "1D6D08D3587547E9"
+				type: "fluid"
+			}]
+			x: 11.0d
+			y: 6.0d
+		}
+		{
+			id: "07D87A7CD0F20484"
+			tasks: [{
+				consume_items: false
+				id: "0A89A9036DC48D6C"
+				item: { count: 1, id: "gtceu:nihonium_ingot" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 6.0d
+		}
+		{
+			id: "4BB2E737D8CF7E2D"
+			tasks: [{
+				fluid: {
+					amount: 1000
+					id: "gtceu:flerovium"
+				}
+				id: "6A972274C9365455"
+				type: "fluid"
+			}]
+			x: 13.0d
+			y: 6.0d
+		}
+		{
+			id: "0EA04FDE55FD51A5"
+			tasks: [{
+				consume_items: false
+				id: "5B37A1366A117520"
+				item: { count: 1, id: "gtceu:moscovium_ingot" }
+				type: "item"
+			}]
+			x: 14.0d
+			y: 6.0d
+		}
+		{
+			id: "7204A5E67B27F68D"
+			tasks: [{
+				consume_items: false
+				id: "5366CCB51F952386"
+				item: { count: 1, id: "gtceu:livermorium_ingot" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: 6.0d
+		}
+		{
+			id: "6802636E260D78A2"
+			tasks: [{
+				consume_items: false
+				id: "127C1839F1A59BF3"
+				item: { count: 1, id: "gtceu:tennessine_dust" }
+				type: "item"
+			}]
+			x: 16.0d
+			y: 6.0d
+		}
+		{
+			id: "579E563A6D8AAD3F"
+			tasks: [{
+				consume_items: false
+				id: "71C049563604EDE2"
+				item: { count: 1, id: "gtceu:oganesson_dust" }
+				type: "item"
+			}]
+			x: 17.0d
+			y: 6.0d
+		}
+	]
+}

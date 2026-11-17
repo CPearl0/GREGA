@@ -11,6 +11,7 @@
 	chapter.75D096098ABB9BBF.title: "大法师"
 	chapter_group.1E41C4251BE5664C.title: "主线"
 	file.0000000000000001.title: "各类格雷科技 · GREGA"
+	quest.00211073F4385F03.quest_desc: ["化学反应，神奇吧。"]
 	quest.0235C85E73D1E61A.quest_desc: ["保持原版格雷配方和电路额定等级，本系列无需本包3D纳米部件。"]
 	quest.0235C85E73D1E61A.title: "量子处理器核心 · IV"
 	quest.02445D7603FB0651.quest_desc: [
@@ -80,6 +81,7 @@
 	quest.268448C6576EEE9D.title: "更省燃料的熔炉"
 	quest.26DBDA4E75F7E277.quest_desc: ["检测此级机器外壳。列中电路按额定等级排列，制作电压以实际配方为准。"]
 	quest.26DBDA4E75F7E277.title: "HV 机器外壳等级"
+	quest.26ECC1ED74E93802.quest_desc: ["现在你可以提取流体了。"]
 	quest.278A720D78DA89C1.quest_desc: ["基础线圈温度：1800 K。此行按加热能力排列，不表示配方或电压解锁。"]
 	quest.278A720D78DA89C1.title: "白铜线圈"
 	quest.29174284BE95D415.quest_desc: ["接近 MV 阶段的材料里程碑；本图不改写其生产配方。"]
@@ -108,6 +110,7 @@
 	quest.322E46AAE7D69913.quest_desc: ["由过孔基板、键合晶粒、多层互连构成的独立3D纳米电路系列。高阶3D纳米电路使用本系列前一级；其他电路系列保持各自配方。"]
 	quest.322E46AAE7D69913.title: "3D纳米多核处理器 · IV"
 	quest.32F0C85989FF5CC8.title: "要致富先撸树"
+	quest.33358FA9E73457ED.quest_desc: ["现在重新检查你之前制作的一些物品的配方，你会发现惊喜的。"]
 	quest.333B17651D5FC178.quest_desc: ["整合包仍在开发中，如有任何问题，请反馈到：https://github.com/CPearl0/GREGA"]
 	quest.333B17651D5FC178.title: "欢迎游玩各类格雷科技"
 	quest.3548459082A5A44E.title: "魔力系统"
@@ -116,6 +119,11 @@
 	quest.371D626D516E0A63.quest_desc: ["熟悉的物品，不一样的配方。"]
 	quest.37EEC5FAAF951001.quest_desc: ["接近 IV 阶段的材料里程碑；本图不改写其生产配方。"]
 	quest.37EEC5FAAF951001.title: "钨钢"
+	quest.38BA8D74106AC9D0.quest_desc: [
+		"在做出卷板机和线材轧机之后，你可以考虑一次性做很多（如64个）电路，同时烧炼大量钢。"
+		"短期来看你并没有推动进程，但一旦你完成，你将能够迅速渡过这一阶段。"
+	]
+	quest.38BA8D74106AC9D0.title: "批量制作"
 	quest.38C1E1366568618F.quest_desc: ["轻量过渡：MV压模机制纳米CPU，电路组装机完成四级，短配方且无需洁净室。"]
 	quest.38C1E1366568618F.title: "纳米多核处理器 · EV"
 	quest.3A45D18C384737DF.quest_desc: ["基础线圈温度：3600 K。此行按加热能力排列，不表示配方或电压解锁。"]
@@ -176,6 +184,10 @@
 	quest.582844DB9C12333B.title: "高压机器"
 	quest.58BC469662794E68.quest_desc: ["接近 EV 阶段的材料里程碑；本图不改写其生产配方。"]
 	quest.58BC469662794E68.title: "钛"
+	quest.5A4F213A7E5637D4.quest_desc: [
+		"终于不用拿着板去剪出电线了！"
+		"现在1个锭可以被制作成2根导线或8根细导线。"
+	]
 	quest.5BAABEDFB735D05F.title: "其他矿物"
 	quest.5BB76A9F0B3883EC.title: "神奇的花药台"
 	quest.5BD567E09BE0C71D.quest_desc: ["检测此级机器外壳。列中电路按额定等级排列，制作电压以实际配方为准。"]
@@ -220,12 +232,14 @@
 	quest.726EE8A27393C1D7.title: "曼丹野牛舞"
 	quest.770E582403E4610F.quest_desc: ["沿用现有 GT 电路进度，额定等级为 LV。"]
 	quest.770E582403E4610F.title: "基础集成电路 · LV"
+	quest.7752D630D4FD0E9B.quest_desc: ["最简单的电力机器，甚至不需要电路来控制。"]
 	quest.779F1F2E2DD938C1.quest_desc: ["轻量过渡：MV压模机制纳米CPU，电路组装机完成四级，短配方且无需洁净室。"]
 	quest.779F1F2E2DD938C1.title: "纳米高性能计算机 · IV"
 	quest.77DD7EB2BB53E70E.quest_desc: ["梦开始的地方！"]
 	quest.7806CE12C1200F10.quest_desc: ["接近 UV 阶段的材料里程碑；本图不改写其生产配方。"]
 	quest.7806CE12C1200F10.title: "鐽"
 	quest.795CAB0E8EEF8B50.quest_desc: ["叮当舞装可以让你在跑跳时产生美妙的音乐。虽然其能产生的旋律并不多，但毕竟不会占用其他乐器的演奏时间。"]
+	quest.7A62D7F58662A075.quest_desc: ["现在1个锭能被压成1个板，这才对嘛！"]
 	quest.7A819A935174FA6B.quest_desc: ["保持原版格雷配方和电路额定等级，本系列无需本包3D纳米部件。"]
 	quest.7A819A935174FA6B.title: "湿件计算单元 · LuV"
 	quest.7B899364DA8634EF.quest_desc: [

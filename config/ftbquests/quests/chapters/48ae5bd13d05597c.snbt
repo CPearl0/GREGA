@@ -132,5 +132,167 @@
 			x: 6.0d
 			y: 2.0d
 		}
+		{
+			dependencies: ["244F5388C7E4CFE5"]
+			id: "7752D630D4FD0E9B"
+			tasks: [{
+				id: "1ACD463EF87FDBD9"
+				item: { count: 1, id: "gtceu:lv_polarizer" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["672787C16E796F7E"]
+			id: "00211073F4385F03"
+			tasks: [{
+				id: "1B850A1C15968950"
+				item: { count: 1, id: "gtceu:lv_chemical_reactor" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"0C7692DBF845888B"
+				"2561235C5C965F16"
+			]
+			id: "33358FA9E73457ED"
+			tasks: [{
+				id: "62E844FB08DE77A3"
+				item: { count: 1, id: "gtceu:lv_assembler" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"7A62D7F58662A075"
+				"5A4F213A7E5637D4"
+			]
+			id: "38BA8D74106AC9D0"
+			tasks: [{
+				id: "155AD76A8EDF6044"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"52EA9EB4704AE09A"
+				"7BC6116BB6D61A4C"
+			]
+			id: "057F44788B21239C"
+			tasks: [{
+				id: "7DDCF934F39F2ECE"
+				item: { count: 1, id: "gtceu:good_electronic_circuit" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["33358FA9E73457ED"]
+			id: "7BC6116BB6D61A4C"
+			tasks: [
+				{
+					id: "5FE9FD6E5F396BDA"
+					item: { count: 1, id: "gtceu:phenolic_circuit_board" }
+					type: "item"
+				}
+				{
+					id: "67EB609419DEB774"
+					item: { count: 1, id: "gtceu:phenolic_printed_circuit_board" }
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 4.0d
+		}
+		{
+			id: "0EC94B958A6148D8"
+			tasks: [{
+				id: "445746A6DFDB0A18"
+				item: { count: 1, id: "gtceu:gallium_arsenide_dust" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["0EC94B958A6148D8"]
+			id: "52EA9EB4704AE09A"
+			tasks: [{
+				id: "07047B7241C330F3"
+				item: { count: 1, id: "gtceu:diode" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["715B0A131AC764B4"]
+			id: "2E65E094C9B47ABF"
+			tasks: [{
+				id: "7BD14E70439E9A14"
+				item: { count: 1, id: "gtceu:arsenic_dust" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 5.5d
+		}
+		{
+			dependencies: [
+				"33358FA9E73457ED"
+				"26ECC1ED74E93802"
+			]
+			icon: {
+				id: "gtceu:electric_blast_furnace"
+			}
+			id: "715B0A131AC764B4"
+			tasks: [
+				{
+					id: "2283CDDD02222936"
+					item: { count: 1, id: "gtceu:electric_blast_furnace" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "58AE613FC1C6C035"
+					item: { count: 1, id: "gtceu:cupronickel_coil_block" }
+					type: "item"
+				}
+			]
+			x: 8.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"63F0108FAA690686"
+				"4C12D0B0A6C518B4"
+			]
+			id: "26ECC1ED74E93802"
+			tasks: [{
+				id: "23A44A8E630E2A73"
+				item: { count: 1, id: "gtceu:lv_extractor" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 2.0d
+		}
+		{
+			id: "13BC987EA372D07D"
+			tasks: [{
+				id: "7D88ADFA5D12234B"
+				item: { count: 1, id: "gtceu:gallium_dust" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 5.5d
+		}
 	]
 }
